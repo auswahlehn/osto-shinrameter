@@ -1,0 +1,2114 @@
+1	1001	La fin est un nouveau départ
+2	2001	Couloir de la mort
+3	3001	Désir de mort
+4	4001	Cagnotte
+5	5001	Enfant chéri
+6	6001	La fibre animale
+7	7001	L'union fait la force
+8	8001	G.O. de groupes
+9	9001	{@g:Groupeur fou/Groupeuse folle}
+10	10001	Nouvelle recrue
+11	11001	Du renfort solide
+12	12001	Vous avez besoin de moi
+13	13001	Je serai votre guide
+14	14001	La victoire sera mienne
+15	15001	Chef du peloton
+16	16001	Tous ensemble, tous ensemble
+17	17001	A deux, c'est mieux
+18	18001	A nos actes manqués
+19	19001	Jusqu'aux cents
+20	20001	Un millier de monstres en moins
+21	21001	Marquer les foules
+22	22001	Filet 50 K
+23	23001	Dix gros
+24	24001	Cent gros
+25	25001	Mille gros
+26	26001	Cent petits
+27	27001	Mille petits
+28	28001	Dix mille petits
+29	29001	Compétition
+30	30001	Sports de compétition
+31	31001	Compétition féroce
+32	32001	Sur le fil de la victoire
+33	33001	{@g:Bien affûté/Bien affûtée}
+34	34001	Un côté compétitif
+35	35001	La mort n'épargne personne
+36	36001	Pochette d'allumettes
+37	37001	Trompe-la-mort
+38	38001	On ne change pas une équipe qui gagne
+39	39001	Idole de l'équipe
+40	40001	Le crack de l'équipe
+41	41001	Voilà qui n'est point commun
+42	42001	Fabuleux butin
+43	43001	Fortune fortuite
+44	44001	Oiseau rare
+45	45001	Denrées rares
+46	46001	Une compagnie rare
+47	47001	La cour des grands I
+48	48001	La cour des grands X
+49	49001	La cour des grands L
+50	50001	A la vitesse de la lumière
+51	51001	Qui a besoin d'un soigneur ?
+52	52001	Niveau 10
+53	53001	Niveau 20
+54	54001	Niveau 30
+55	55001	Niveau 40
+56	56001	Niveau 50
+57	57001	La rhétorique de l'argent
+58	58001	Espèces sonnantes et... convaincantes
+59	59001	La parole est d'argent
+60	60001	Le silence est d'or
+61	61001	{@g:Meilleur Guerrier/Meilleure Guerrière}
+62	62001	{@g:Meilleur Lancier/Meilleure Lancière}
+63	63001	{@g:Meilleur Pourfendeur/Meilleure Pourfendeuse}
+64	64001	{@g:Meilleur Berserker/Meilleure Berserker}
+65	65001	{@g:Meilleur Sorcier/Meilleure Sorcière}
+66	66001	{@g:Meilleur Archer/Meilleure Archère}
+67	67001	{@g:Meilleur Prêtre/Meilleure Prêtresse}
+68	68001	{@g:Meilleur Mystique/Meilleure Mystique}
+69	69001	La loi des séries
+70	70001	Série parfaite
+71	71001	Un guerrier pas guéri
+72	72001	{@g:Un Lancier rossé/Une lancière rossée}
+73	73001	{@g:Un pourfendeur fendu/Une pourfendeuse fendue}
+74	74001	Un berserker bizuté
+75	75001	{@g:Un sorcier désossé/Une sorcière désossée}
+76	76001	Un archer archi mort
+77	77001	Un Prêtre pour proie
+78	78001	{@g:Un mystique mystifié/Une mystique mystifiée}
+79	79001	Le grand vainqueur
+80	80001	Moi d'abord
+81	81001	Laissez-moi vous aider
+82	82001	Négocié avec un cadavre
+83	83001	Vanarch
+84	84001	De nouveau Vanarch
+85	85001	C'est qui le chef ?
+86	86001	Malin, l'enchanteur !
+87	87001	Votre petit plus
+88	88001	La règle de 3
+89	89001	Grosse pointure
+90	90001	La preuve par 9
+91	91001	Maître de la négociation
+92	92001	Maître de la vente
+93	93001	{@g:Rompu/Rompue}
+94	94001	Chef de guerre
+95	95001	De guerre lasse
+96	96001	Quelle classe !
+97	97001	{@g:Explorateur/Exploratrice} des îles
+98	98001	Routard d'Arun
+99	99001	Pavane jusque chez Lian
+100	100001	{@gender:Apprenti forgeron/Apprentie forgeronne}
+101	101001	{@g:Artisan forgeron/Artisane forgeronne}
+102	102001	{@g:Forgeron/Forgeronne} de métier
+103	103001	Forgeron d'armes classique
+104	104001	{@gender:Apprenti fabricant/Apprentie fabricante} d'armes à distance
+105	105001	{@g:Artisan fabricant/Artisane fabricante} d'armes à distance
+106	106001	{@g:Fabricant/Fabricante} d'armes à distance de métier
+107	107001	Forgeron d'armes à distance classique
+108	108001	{@gender:Apprenti armurier/Apprentie armurière}
+109	109001	{@g:Artisan armurier/Artisane armurière}
+110	110001	{@g:Armurier/Armurière} de métier
+111	111001	Forgeron d'armure classique
+112	112001	{@gender:Apprenti tanneur/Apprentie tanneuse}
+113	113001	{@g:Artisan tanneur/Artisane tanneuse}
+114	114001	{@g:Tanneur/Tanneuse} de métier
+115	115001	Tanneu{@gender:r/se} classique
+116	116001	{@gender:Apprenti tailleur/Apprentie tailleuse}
+117	117001	{@g:Artisan tailleur/Artisane tailleuse}
+118	118001	{@g:Tailleur/Tailleuse} de métier
+119	119001	Tailleu{@gender:r/se} classique
+120	120001	Touche-à-tout
+121	121001	Mineur minot
+122	122001	{@g:Mineur moyen/Mineure moyenne}
+123	123001	{@g:Mineur majeur/Mineure majeure}
+124	124001	Maître mineur
+125	125001	Lymphatique
+126	126001	Energique
+127	127001	Plein d'énergie
+128	128001	{@g:Débordant d'énergie/Débordante} d'énergie
+129	129001	Jeune pousse
+130	130001	Arbrisseau
+131	131001	Arbuste
+132	132001	Vieille branche
+133	133001	Maître des matériaux
+134	134001	Je ne suis pas seul
+135	135001	Cercle d'amis
+136	136001	Réseau social
+137	137001	Un peu de repos
+138	138001	Cro'quête
+139	139001	Bar'quête
+140	140001	Les secrets de la légende
+141	141001	De l'argent de poche
+142	142001	Par ici la monnaie
+143	143001	Récompense finale
+144	144001	Chaud devant !
+145	145001	Bon point
+146	146001	Un aller et retour
+147	147001	{@g:Conscrit/Conscrite}
+148	148001	Dakanius éliminé
+149	149001	Cris perçants
+150	150001	Que de crocs
+151	151001	Aspirant officier
+152	152001	Ca empire pour les vampires
+153	153001	{@g:Ami/Amie} d'Elion
+154	154001	Tomber le masque
+155	155001	L'amour d'une sœur
+156	156001	Retour à Velika
+157	157001	Les allégeances d'Allemantheia
+158	158001	Compétence de base
+159	159001	Anachronisme
+160	160001	Croyance ancrée
+161	161001	Où peut-il bien être ?
+162	162001	Combat pour la liberté
+163	163001	La peste sortie des pierres
+164	164001	Mascarade
+165	165001	Danse avec les orkans
+166	166001	Trouver le Noyau
+167	167001	Sauver le noyau
+168	168001	La naissance d'un nouveau noyau
+169	169001	Ouvrir les portes
+170	170001	Destin scellé
+171	171001	Soif de bataille
+172	172001	La promesse de l'épée
+173	173001	Canaux de distribution
+174	174001	Le cœur du problème
+175	175001	Boum !
+176	176001	{@g:Tueur/Tueuse} de kulkaris
+177	177001	{@g:Voisin modèle/Voisine modèle}
+178	178001	La grande évasion
+179	179001	Trop de tuwangis
+180	180001	Bork bork bork !
+181	181001	C'est une manière de voir les choses
+182	182001	Argon acquis
+183	183001	Guerre du désert
+184	184001	L'avantage du terrain
+185	185001	Une insatiable soif de sang
+186	186001	Bobo
+187	187001	Le blues du contrebandier
+188	188001	Porteur de l'anneau
+189	189001	Meilleur servi froid
+190	190001	Je vous l'avais bien dit
+191	191001	Cochon pendu
+192	192001	Un étudiant doit étudier !
+193	193001	Excursion
+194	194001	C'est le dîner
+195	195001	Un coup de pied bien placé
+196	196001	Éclairer le chemin
+197	197001	Un coup de main
+198	198001	Ne venez pas les mains vides
+199	199001	La curiosité est un vilain défaut
+200	200001	Brouillage du Nexus
+201	201001	Fidélité
+202	202001	Opérations secrètes
+203	203001	Échec du pivot
+204	204001	Moi, moi !
+205	205001	{@g:Joueur passionné/Joueuse passionnée} de TERA !
+206	206001	100 boss
+207	207001	1 000 boss
+208	208001	5 000 boss
+209	209001	Quelque chose qui me dépasse
+210	210001	Coupez-les en deux
+211	211001	Délinquant de la route
+212	212001	{@g:Tueur/Tueuse} d'ovolithes
+213	213001	La lubie du labyrinthe
+214	214001	Se débarrasser d'un poids
+215	215001	Sauce au crabe
+216	216001	Sous mon parapluie
+217	217001	Regard assassin
+218	218001	Arrrr !
+219	219001	Pirate de glace
+220	220001	Guerre froide
+221	221001	Drainage venimeux
+222	222001	Abattre Kel
+223	223001	Calmer la tempête
+224	224001	Régner sur Arun
+225	225001	Nettoyage rituel
+226	226001	Tiercé gagnant
+227	227001	Liens familiaux
+228	228001	Prise du refuge
+229	229001	Hors des sentiers battus
+230	230001	{@g:Mort/Morte} au travail
+231	231001	Ouverture des portes
+232	232001	Affreuse migraine
+233	233001	Baracos le belliqueux
+234	234001	Comme une porte de prison
+235	235001	Déclin royal
+236	236001	Des dracoloths !
+237	237001	Quoth le corbeau
+238	238001	Découvrir un lézard de la tempête
+239	239001	Pour les enfants
+240	240001	Sauver les vallées
+241	241001	Certains l'aiment froid
+242	242001	Aller jusqu'au bout
+243	243001	Certains l'aiment chaud
+244	244001	La taille, ça compte
+245	245001	En cachette
+246	246001	Un léger mal de tête
+247	247001	Cherchez dans votre cœur
+248	248001	L'épreuve du sang
+249	249001	Éclaircir la gorge
+250	250001	Tor en flammes
+251	251001	Dans la gorge
+252	252001	La libération d'Isrenia
+253	253001	Ça va faire tache
+254	254001	Mise à l'épreuve
+255	255001	Collecteur de fragments
+256	256001	Sauvetage
+257	257001	Clown noyé
+258	258001	Porte-flambeau
+259	259001	L'œuvre de Thulsa
+260	260001	Ténèbres, mes amies
+261	261001	Improvisation
+262	262001	Ca, c'est pas une fleur
+263	263001	Pour les oiseaux
+264	264001	Sans sourciller
+265	265001	Nettoyer la coulée
+266	266001	Annihiler Nyx
+267	267001	Exploit test
+268	268001	C'est toujours ainsi que la mort vient aux tyrans
+269	269001	Désarmer l'armée de Killian
+270	270001	Comme un roc
+271	271001	{@g:Arracheur/Arracheuse} de dents
+272	272001	La vengeance est un plat qui se mange froid
+273	273001	La chasseresse est la proie
+274	274001	Un gros problème de succession
+275	275001	Quand un gardien devient vaurien
+276	276001	Ne ressassez pas
+277	277001	Laisser couler
+278	278001	À l'aveuglette
+279	279001	Utiliser un bouffon obscène
+280	280001	Les meilleurs démons
+281	281001	Thulsa, d'accord
+282	282001	Délit de feu et de glace
+283	283001	Elaguer le jardin céleste
+284	284001	Jardin secret
+285	285001	Régner sur le sud de Shara
+286	286001	Marathon d'Arcadia
+287	287001	Marathon d'Ostgarath
+288	288001	Marathon de Poporia
+289	289001	Marathon de Val Aureum
+290	290001	Marathon d'Essenia
+291	291001	Marathon de Westonia
+292	292001	Marathon de Val Elenium
+293	293001	Marathon de Val Palrada
+294	294001	Marathon de Lorcada
+295	295001	Marathon de Sylvanoth
+296	296001	{@g:Guerrier habile/Guerrière habile}
+297	297001	{@g:Lancier habile/Lancière habile}
+298	298001	{@g:Pourfendeur habile/Pourfendeuse habile}
+299	299001	Berserker habile
+300	300001	{@g:Sorcier habile/Sorcière habile}
+301	301001	{@g:Archer/Archère} habile
+302	302001	{@g:Prêtre habile/Prêtresse habile}
+303	303001	Mystique habile
+304	304001	Cette petite chose qu'on appelle tradition
+305	305001	Laissez parler la tradition
+306	306001	Une légende millénaire
+307	307001	Le pouvoir de la tradition
+308	308001	Maître de collecte
+309	309001	Marathon de Lorcada
+310	310001	La fabrication
+311	311001	Ça va faire tache
+312	312001	Ne baissez jamais les bras !
+313	313001	Pas de capitulation !
+314	314001	Réessayer, encore et encore
+315	315001	Taux de participation record
+316	316001	Tendances violentes
+317	317001	Tendances violentes
+318	318001	Tendances violentes
+319	319001	Tendances violentes
+320	320001	Tendances violentes
+321	321001	Tendances violentes
+322	322001	Tendances violentes
+323	323001	Tendances violentes
+324	324001	Dévorer le paysage
+325	325001	Cent mille flèches
+326	326001	Objet fixe
+327	327001	Au pied !
+328	328001	Dans leur dos
+329	329001	Nuage de fumée
+330	330001	Les PV, c'est pour les ploucs
+331	331001	{@g:Surexcité/Surexcitée}
+332	332001	Un feu brûlant
+333	333001	Liquide vital
+334	334001	Plus vite ! Plus vite !
+335	335001	L'enfer sur terre
+336	336001	Moi d'abord
+337	337001	Mort, et puis quoi encore ?
+338	338001	Paralysie fulgurante
+339	339001	Doux rêves
+340	340001	{@g:Ami/Amie} des basilics
+341	341001	{@g:Ami/Amie} des ovolithes
+342	342001	{@g:Ami/Amie} des kumas
+343	343001	{@g:Ami/Amie} des chevauche-griffus
+344	344001	{@g:Ami/Amie} des nagas
+345	345001	{@g:Ami/Amie} des dracoloths
+346	346001	{@g:Ami/Amie} des ravage-glace
+347	347001	{@g:Ami/Amie} des lithikumas
+348	348001	{@g:Ami/Amie} des maîtres de guerre
+349	349001	{@g:Ami/Amie} des seigneurs de guerre
+350	350001	{@g:Ami/Amie} des géants
+351	351001	De mon propre chef
+353	353001	Cristaux parfaits
+354	354001	Prendre son envol
+355	355001	Pas la peine d'insister
+356	356001	Icône de la mode
+357	357001	Vanarch de Val Aureum
+358	358001	Vanarch de Westonia
+359	359001	Vanarch de Sylvanoth
+360	360001	Vanarch de l'Île de l'Aube
+361	361001	Vanarch d'Arcadia
+362	362001	Vanarch de Poporia
+363	363001	Vanarch d'Ostgarath
+364	364001	Vanarch de Val Elenium
+365	365001	Vanarch d'Essenia
+366	366001	Vanarch de Val Palrada
+367	367001	Vanarch de Lorcada
+368	368001	Poigne de fer
+369	369001	Gant de velours
+370	370001	Maître du monde
+371	371001	Temps complet
+372	372001	Mort noire
+373	373001	Les secrets de la légende
+374	374001	5 000 boss
+375	375001	BAM BAM !
+376	376001	Des dracoloths !
+377	377001	J'adore TERA
+378	378001	{@g:Bien-aimé/Bien-aimée}
+379	379001	{@g:Timbré/Timbrée} d'amour
+380	380001	Propagation de la propagande
+381	381001	Il n'y a pas de MAUVAIS chocolat
+382	382001	Agnitor
+383	383001	Agnitor {@gender:adoré/adorée}
+384	384001	Merveille de crédit
+385	385001	Monter sur ses grands chevaux
+386	386001	Attraper la vague du Nexus
+387	387001	Plan de l'Agnitor
+388	388001	Nexus nié !
+389	389001	A pilleur, pilleur et demi
+390	390001	Vous n'êtes pas prêt !
+391	391001	Élimination au bout de cinq lancers
+392	392001	{@g:Petit joueur/Petite joueuse}
+393	393001	Heure du nexus
+394	394001	Accomplisseur
+395	395001	Seigneur du temps
+396	396001	Raté d'un cheveu
+397	397001	Je l'ai vu de mes propres yeux
+398	398001	Triomphe de Granarkus
+399	399001	Triomphe d'Argonea
+400	400001	Triomphe du Front de Khanovar
+401	401001	Faire feu de tout bois
+402	402001	Nettoyage par le vide
+403	403001	Agnitor {@gender:absolu/absolue}
+404	404001	Nihilisme du nexus
+405	405001	Fin de la chevauchée
+406	406001	C'est l'histoire d'un porcidé qui...
+407	407001	Sang, rouge, mort
+408	408001	Le lien vers Linkia
+409	409001	Des boîtes et de la botanique
+410	410001	Mettre le grappin sur la Forteresse de la Servitude
+411	411001	Tour des décombres
+412	412001	Dur à cuire de Tirkai
+413	413001	{@g:Apprenti ou aliéné ?/Apprentie ou aliénée ?}
+414	414001	L'écritoire
+415	415001	Jour et luit
+416	416001	Pesticide
+417	417001	Instance réussie
+418	418001	Récompenses d'instance
+419	419001	J'ai appris une chose ou deux
+420	420001	A fond !
+421	421001	{@g:Guerrier fondateur/Guerrière fondatrice}
+422	422001	{@g:Lancier fondateur/Lancière fondatrice}
+423	423001	{@g:Pourfendeur fondateur/Pourfendeuse fondatrice}
+424	424001	{@g:Berserker fondateur/Berserker fondatrice}
+425	425001	{@g:Sorcier fondateur/Sorcière fondatrice}
+426	426001	{@g:Archer fondateur/Archère fondatrice}
+427	427001	{@g:Prêtre fondateur/Prêtresse fondatrice}
+428	428001	{@g:Mystique fondateur/Mystique fondatrice}
+429	429001	Tour infernale
+430	430001	Rata-tat-tat-tat !
+431	431001	Échec et mat !
+432	432001	Kumassacre
+433	433001	L'appel de l'ange
+434	434001	Bénédiction des Fées
+435	435001	{@g:Ami/Amie} des plantes
+436	436001	Vanarch de Val Tirkai
+437	437001	Vanarch du District d'Helkan
+438	438001	Vanarch de Val Kaeli
+439	439001	Vanarch du District de Veritas
+440	440001	La fin d'un règne
+441	441001	Tourner la page
+442	442001	Vous avez quelque chose dans l'œil
+443	443001	Bellicarium !
+444	444001	Venteguerre x 1
+445	445001	Venteguerre x 3
+446	446001	Venteguerre x 5
+447	447001	Venteguerre x 10
+448	448001	Venteguerre x 100
+449	449001	Roi de Venteguerre
+450	450001	Gorge de Venteguerre : bronze
+451	451001	Gorge de Venteguerre : argent
+452	452001	Gorge de Venteguerre : or
+453	453001	{@g:Pourri/Pourrie} jusqu'au noyau
+454	454001	{@g:Premier/Première} régicide du serveur
+455	455001	Gladiateur inégalable
+456	456001	Bientôt au sommet
+457	457001	L'attrait du combat
+458	458001	Un exploit imbattable
+459	459001	Prélude au massacre
+460	460001	Mare de sang
+461	461001	Tas de cadavres
+462	462001	Carnage
+463	463001	A genoux, pitoyables créatures !
+464	464001	Haut du classement
+465	465001	{@g:Meurtrier légendaire/Meurtrière légendaire}
+466	466001	Enfin à moi…
+467	467001	Enfin à moi…
+468	468001	Enfin à moi…
+469	469001	Enfin à moi…
+470	470001	Enfin à moi…
+471	471001	Enfin à moi…
+472	472001	Enfin à moi…
+473	473001	Enfin à moi…
+474	474001	Puissance incontrôlable
+475	475001	Bonbons ? Quels bonbons ?
+476	476001	C'est du gâteau
+477	477001	Sauveur de l'hiver
+478	478001	Flocon de neige unique
+479	479001	Neige accumulée
+480	480001	Avertissement de tempête de neige
+481	481001	Nouvelle ère glaciaire
+482	482001	Plus rapide que l'éclair
+483	483001	Sur des chemins inconnus
+484	484100	Dirigeant d'Arun
+485	484200	Dirigeant du sud de Shara
+486	484300	Dirigeant du nord de Shara
+487	484110	Groupe de leaders 1 du Collectif de libre Échange
+488	484210	Groupe de leaders 1 de l'Union des Éclairés
+489	484310	Groupe de leaders 1 de l'Ordre de Fer
+490	484111	Groupe de leaders 2 du Collectif de libre Échange
+491	484211	Groupe de leaders 2 de l'Union des Éclairés
+492	484311	Groupe de leaders 2 de l'Ordre de Fer
+493	484112	Groupe de leaders 3 du Collectif de libre Échange
+494	484212	Groupe de leaders 3 de l'Union des Éclairés
+495	484312	Groupe de leaders 3 de l'Ordre de Fer
+496	484113	Groupe de leaders 4 du Collectif de libre Échange
+497	484213	Groupe de leaders 4 de l'Union des Éclairés
+498	484313	Groupe de leaders 4 de l'Ordre de Fer
+499	499001	Duo dynamique
+500	500001	Combattant du dieu perdu
+501	501001	Très compétent !
+502	502001	Penser comme un pirate
+503	503001	Parler comme un pirate
+504	504001	Puer comme un pirate
+505	505001	Marcher comme un pirate
+506	506001	C'est un festival, non ? Ca ne devrait pas être un peu plus... festif ?
+507	507001	Brûlure de froid
+508	508001	Aux yeux de serpent
+509	509001	Triple couronne
+510	510001	Tank à votre service
+511	511001	Une rivière de larmes
+512	512001	Marathon dansant
+513	513001	Arrêtez de donner tous les coups de grâce
+514	514001	Œil de l'esprit
+515	515001	Bébé château de sable
+516	516001	Sculpteur de châteaux de sable
+517	517001	Roi des châteaux de sable
+518	518001	Appelez-moi Sandy
+519	519001	Mangez ! Buvez ! Profitez du festival des Campagnes en fête !
+520	520001	Tous les prix sont à moi !
+521	521001	Pourvu qu'on ait l'ivresse
+522	522001	Le ventre plein
+523	523001	Les marches du paradis
+524	524001	Le gang des coasseurs
+525	525001	Où est le cerveau ?
+526	526001	Pluie battante
+527	527001	Je hais les lundis
+528	528001	Mon royaume pour une lampe !
+529	529001	Bienvenue au Refuge de Kumas !
+530	530001	A perdu la raison dans le Refuge de Kumas !
+531	531001	{@gender:Sorti/Sortie} de ses gonds dans le Refuge de Kumas
+533	533001	Bienvenue dans la Vallée du tonnerre&nbsp;!
+534	534001	La grosse artillerie
+535	535001	Division blindée
+536	536001	Artillerie d'élite
+537	537001	L'attaque est la meilleure défense
+540	540001	Premier du Fort
+541	541001	Crac du Fort
+542	542001	As du Fort
+543	543001	Fortiche du Fort
+544	544001	Légende du Fort
+550	550001	Bombastique
+551	551001	Explosion de bombe
+552	552001	Brigade des bombes
+553	553001	Bombardement
+554	554001	Usine à bombes
+555	555001	Hein ? J'ai gagné ?
+556	556001	Début de série
+557	557001	J'adore ce jeu !
+558	558001	Je vous trouverai...
+559	559001	Feu à volonté
+560	560001	Haut du panier
+561	561001	Au-dessus de la meute
+562	562001	Champion{@g:/ne} en série
+563	563001	Artiste martial
+564	564001	Rêveur kumas
+565	565001	Suis-je un Kumas ?
+567	567001	Le berceau m'appartient
+568	568001	Qui a trouvé la Pierre de régénération ?
+569	569001	Capturez le capitaine !
+570	570001	Trouvez les œufs dorés, partie 1
+571	571001	Trouvez les œufs dorés, partie 2
+572	572001	Trouvez les œufs dorés, partie 3
+573	573001	Vous voulez mes trésors ? Trouvez-les vous-mêmes ! J'ai caché tous les œufs.
+574	574001	Campagnes en fête : boîte cadeau du botte-le-foin... Jackpot !
+575	575001	Campagnes en fête : boîte cadeau du rodéo de porcidés... Jackpot !
+576	576001	Campagnes en fête : déjà en route
+577	577001	Concilier festival et petit boulot : quel stress !
+578	578001	Fête de l'étang : le cœur d'une mère...
+579	579001	Fête de l'étang : pour la paix familiale !
+580	580001	Néophyte des batailles de boules de neige
+581	581001	Galopin du village
+582	582001	L'hiver vient
+583	583001	L'arène des neiges
+584	584001	Seigneur des neiges
+586	586001	Fête de l'étang : pas de fête sans musique !
+587	587001	Profiter du festival ou garder les enfants...
+588	588001	Au nom de l'amour, du courage et des livraisons express...
+600	600001	Vous n'en croyez pas vos yeux !
+601	601001	Exécution minutieuse
+602	602001	Commandant d'assaut du Collectif de libre Échange
+603	603001	Commandant d'assaut de l'Union des Éclairés
+604	604001	Commandant d'assaut de l'Ordre de Fer
+605	605001	Commandant de défense du Collectif de libre Échange
+606	606001	Commandant de défense de l'Union des Éclairés
+607	607001	Commandant de défense de l'Ordre de Fer
+608	608001	Commandant adjoint du Collectif de libre Échange
+609	609001	Commandant adjoint de l'Union des Éclairés
+610	610001	Commandant adjoint de l'Ordre de Fer
+701	701001	Meilleure Mortiféra
+702	702001	Mortiféra habile
+703	703001	Mortiféra fondatrice
+706	706001	A mis une Mortiféra en déroute
+707	707001	Tendances violentes.
+708	708001	Ho hisse !
+709	709001	Depuis le cœur de l'enfer !
+711	711001	Eliminez l'infection.
+712	712001	De l'obscurité vers la lumière
+714	714001	Meilleur Bourrask
+715	715001	Bourrask habile
+716	716001	Bourrask fondateur
+717	717001	Tendances violentes
+718	718001	Folle de rage
+719	719001	Aux portes du paradis
+720	720001	Vaincre un Bourrask
+721	721001	Bourrask de pointe
+722	722001	Meilleure Ninja
+723	723001	Ninja habile
+724	724001	Ninja fondatrice
+725	725001	Tendances violentes
+726	726001	Mise en charpie
+727	727001	Inarrêtable
+728	728001	Élimination d'une Ninja
+729	729001	Un cran au-dessus
+730	730001	Première Danselune en tête
+731	731001	Première Danselune habile
+732	732001	Première Danselune fondatrice
+733	733001	Tendances violentes
+734	734001	Monter, descendre !
+735	735001	Argh... Je vois rouge...
+736	736001	Victoire face à la Danselune
+737	737001	Première Danselune de pointe
+777	777001	Se battre dans les Canaux.
+778	778001	Des larves pour le petit déjeuner
+779	779001	Haine des larves
+800	800001	Retour à Wonderholme
+802	802001	Le Consortium de Jax croit en vous !
+803	803001	Folie meurtrière
+804	804001	Prenez tous les crédits
+805	805001	Crédit envers la famille
+806	806001	Crédit supplémentaire
+807	807001	Folie meurtrière inarrêtable
+808	808001	Qui a tué la Folie meurtrière ?
+809	809001	Qui a tué la Folie meurtrière ?
+810	810001	Qui a tué la Folie meurtrière ?
+811	811001	Qui a tué la Folie meurtrière ?
+812	812001	Qui a tué la Folie meurtrière ?
+813	813001	Qui a tué la Folie meurtrière ?
+814	814001	Qui a tué la Folie meurtrière ?
+815	815001	Qui a tué la Folie meurtrière ?
+816	816001	Ambassadeur du Bellicarium
+817	817001	Loyauté inébranlable
+818	818001	La réputation est ce qu'il y a de plus important
+819	819001	Potion de vitalité entraînante (auparavant : Emballage de pansement pour maladroits)
+820	820001	Potion de vitalité grisante (auparavant : Emballage de pansements pour compétents)
+821	821001	Potion de vitalité envoûtante (auparavant : Emballage de pansement pour expérimentés)
+822	822001	Potion de mana entraînante (auparavant : Emballage de pansements pour experts)
+823	823001	Potion de mana grisante (auparavant : Aficionado du pansement)
+824	824001	Potion de mana envoûtante (auparavant : Mordu du pansement)
+825	825001	Fruit de la potion (auparavant : Et vous pensiez que j'apprendrais quelque chose…)
+826	826001	Rapineur légendaire
+827	827001	Courage hors du commun
+828	828001	Une forme rare
+829	829001	Court supérieure C
+830	830001	Sac bien rempli
+832	832001	Un pas en avant
+833	833001	Vivez sur le champ de bataille, mourrez sur le champ de bataille
+834	834001	Réduisez-les en bouillie
+835	835001	Bain de sang
+836	836001	Spécialiste de mission de l'île de l'Aube
+837	837001	Spécialiste de mission de Velika
+838	838001	Spécialiste de mission d'Allemantheia
+839	839001	Spécialiste de mission de Kaiator
+840	840001	Forces spéciales
+841	841001	Maîtrise du nexus
+842	842001	Vous me complétez
+843	843001	10 sur 10
+844	844001	Passez à 11
+845	845001	Une bonne douzaine
+846	846001	Une soirée enchantée
+847	847001	Élégance au carré
+848	848001	Un pourcent
+849	849001	Magnat de TERA
+850	850001	Fabricant d'armes célèbre
+851	851001	Fabricant d'armures méticuleux
+852	852001	Propriétaire de l'usine
+853	853001	Entrer dans le groupe de leaders
+854	854001	Autosuffisant
+855	855001	Mieux vaut encadrer que faire la planche
+856	856001	Merci pour la planche
+857	857001	Ailier du bastion
+858	858001	Conquérant du Bastion
+859	859001	Punissez le traître !
+860	860001	Ce manoir était mineur
+861	861001	Conquérant sinistre
+862	862001	Encensé par la critique
+863	863001	Cultistes idiots, les farces, c'est pour les enfants
+864	864001	Le Refuge des Cultistes : La conquête
+865	865001	Faire paniquer Gulsig
+866	866001	Recalculation
+867	867001	Destination finale
+868	868001	Main gauche d'Akasha
+869	869001	Main droite d'Akasha
+870	870001	Ordonnance restrictive
+871	871001	Nulle part où se cacher
+872	872001	Assaillant de donjon du Sud d'Arun
+873	873001	Plus un geste !
+874	874001	Exorciser le régime
+875	875001	Mort à l'intérieur
+876	876001	Mort, mais pas fier
+877	877001	Tromper la mort
+878	878001	Une chose à la fois
+879	879001	Se ranger
+880	880001	Méthodique et efficace
+881	881001	Laissez parler vos émotions
+882	882001	Vous avez fait bon voyage ?
+883	883001	Touriste coupe-gorge
+884	884001	Montrez-moi ce qui fait mal
+885	885001	Soin critique
+886	886001	On prie pour lui
+887	887001	Pilote du Temple du Soleil
+888	888001	Assaillant de donjon du Sud de Shara
+889	889001	Jokers meurtriers
+890	890001	Chaos en puissance
+891	891001	Dragons dans les donjons
+892	892001	Valeur du choc
+893	893001	Coureur de labyrinthe
+894	894001	La peur incarnée
+895	895001	Se frayer un chemin
+896	896001	Terreur des terreurs.
+897	897001	Tour de Siège
+898	898001	Général Mayhem
+899	899001	Choisissez votre poison
+900	900001	Celui qui hésite est déjà mort
+901	901001	Rage immense
+902	902001	La peur n'est pas une option
+903	903001	Musique du feu et de la glace
+904	904001	Instinct de nidification
+905	905001	Nid parfait
+906	906001	Sus au kraken !
+907	907001	Où se trouve votre dard ?
+909	909001	Le coup final
+910	910001	Reine hard core
+911	911001	Une entrevue avec la reine
+912	912001	Déchéance de la reine
+913	913001	Conquérant du Noyau de Manaya
+914	914001	Assaillant de donjon du Nord de Shara
+915	915001	Dévot chercheur de donjon
+916	916001	Accrochez-vous, ne lâchez rien
+917	917001	Quoi faire de ça ?
+918	918001	Chasseur de gros gibier
+919	919001	Panoramas du Sud d'Arun
+920	920001	Panorama de l'oubli
+921	921001	Panorama des deux îles
+922	922001	Différents panoramas
+923	923001	Ni sable, ni neige, ni nuit obscure…
+924	924001	En haut, en bas et tout autour
+925	925001	Touriste de Crescentia
+926	926001	Touriste du Boquillon
+927	927001	Joyau du panorama du désert
+928	928001	Panorama de la cascade
+929	929001	Vue d'un œil d'oiseau
+930	930001	Panoramas du Sud de Shara
+931	931001	Touriste de Pora Elinu
+932	932001	Touriste de Popolion
+933	933001	Touriste de Chebika
+934	934001	Touriste de Tulufan
+935	935001	Panoramas de Kaiator
+936	936001	Panorama de Susurrus
+937	937001	Panorama argon
+938	938001	Panorama du Nord de Shara
+939	939001	Touriste castanic
+940	940001	Touriste Tralion
+941	941001	Touriste de Tria
+942	942001	Touriste d'Elenea
+943	943001	Classe mondiale
+944	944001	Chasseur généreux
+945	945001	Jusqu'au sommet
+946	946001	Obtenir une vue d'ensemble
+947	947001	Se concentrer sur les détails
+948	948001	Lutte pour l'équilibre
+950	950001	Attractions touristiques du Sud d'Arun
+951	951001	Attractions touristiques du Sud de Shara
+952	952001	Attractions touristiques du Nord de Shara
+953	953001	Piège à touristes
+954	954001	Arbosk rare
+955	955001	Rôde-cendres rare
+956	956001	Marchespore rare
+957	957001	Trouvailles rares dans la Montagne Fyr
+958	958001	Mugato rare
+959	959001	Maligos rare
+960	960001	Arachnéen rare
+961	961001	Trouvailles rares dans la Plaine gelée.
+962	962001	Argonomorphe orkan rare
+963	963001	Argonomorphe Frogrider rare
+964	964001	Argonomorphe wendigo rare
+965	965001	Trouvailles rares dans la Forteresse de la Servitude
+966	966001	J'aime ma viande saignante
+967	967001	On a bien crapahuté
+968	968001	Quel château
+969	969001	Ligne dans le sable
+970	970001	Travail enneigé
+971	971001	En beauté
+972	972001	Piste du Temple
+973	973001	Partenaire de bridge
+974	974001	Effort monumental
+975	975001	Toute ma vie
+976	976001	Belliqueux à l'extrême
+977	977001	Touriste de Frontera
+978	978001	Touriste du Rocher de la désolation
+979	979001	Touriste du Bastion
+980	980001	Touriste d'Acarum
+981	981001	Touriste de la Chute du Dragon
+982	982001	Touriste de Kanstria
+983	983001	Touriste de Scythera Fae
+984	984001	Touriste de l'Avant-poste du Pionnier
+985	985001	Touriste de la Forteresse de Zulfikar
+986	986001	Touriste d'Habere
+987	987001	Les nouveaux exploits de TERA…
+988	988001	Insecticide
+989	989001	Meet the Beetles
+990	990001	Purée de scarabée
+991	991001	L'Arche dénouée
+992	992001	Et vous n'avez encore rien vu
+993	993001	Scarabextase
+994	994001	Bienvenue au banquet !
+995	995001	Stabilité intérieure
+996	996001	Arpenteur du passé
+1001	1001001	Plongée profonde
+1002	1002001	Danse au son de la musique de l'île
+1003	1003001	{@g:Patineur artistique professionnel/Patineuse artistique professionnelle}
+1004	1004001	La fête au village
+1005	1005001	Plif plouf
+1006	1006001	Chaleur d'été
+1007	1007001	Dressage de dragon
+1008	1008001	Fureur du dragon
+1009	1009001	Colère du dragon des flammes
+1010	1010001	Fortune du dragon d'or
+1011	1011001	Sagesse du dragon de jade
+1012	1012001	Ténèbres du dragon d'onyx
+1013	1013001	Noblesse du dragon d'argent
+1014	1014001	Mythe du dragon
+1015	1015001	Fable du dragon
+1016	1016001	Légende du dragon
+1017	1017001	Toute-puissance du dragon
+1100	1100001	Champion{@g:/ne} de la Bataille de la Gorge
+1101	1101001	Champion{@g:/ne} de la Bataille de la Gorge
+1102	1102001	Champion{@g:/ne} de la Bataille de la Gorge
+1103	1103001	Champion{@g:/ne} de la Bataille de la Gorge
+1104	1104001	Champion{@g:/ne} de la Bataille de la Gorge
+1105	1105001	Champion{@g:/ne} de la Bataille de la Gorge
+1106	1106001	Champion{@g:/ne} de la Bataille de la Gorge
+1107	1107001	Champion{@g:/ne} de la Bataille de la Gorge
+1108	1108001	{@g:Champion/Championne} 2012 de la Bataille de la Gorge !
+1109	1109001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1110	1110001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1111	1111001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1112	1112001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1113	1113001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1114	1114001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1115	1115001	{@g:Champion/Championne} de la Bataille de la Gorge !
+1118	1118001	Champion du tournoi de donjon de Velik
+1119	1119001	Le finaliste de Killian du tournoi de donjon de Velik
+1120	1120001	Le finaliste de Fraya du tournoi de donjon de Velik
+1121	1121001	Le finaliste d'Hasmina du tournoi de donjon de Velik
+1122	1122001	Le finaliste d'Elinu du tournoi de donjon de Velik
+1123	1123001	Le finaliste de Veritas du tournoi de donjon de Velik
+1124	1124001	Le finaliste d'Arcadia du tournoi de donjon de Velik
+1125	1125001	Le finaliste de Kaidun du tournoi de donjon de Velik
+1126	1126001	Le finaliste de Zenobia du tournoi de donjon de Velik
+1127	1127001	Le finaliste d'Akasha du tournoi de donjon de Velik
+1128	1128001	Le finaliste d'Icaruna du tournoi de donjon de Velik
+1300	1300001	Maître Guerrier
+1301	1301001	Maître Lancier
+1302	1302001	Maître Pourfendeur
+1303	1303001	Maître Berserker
+1304	1304001	Maître Sorcier
+1305	1305001	Maître Archer
+1306	1306001	Maître Prêtre
+1307	1307001	Maître Mystique
+1308	1308001	Fin des vacances !
+1309	1309001	Fin des vacances !
+1310	1310001	Fin des vacances !
+1311	1311001	Fin des vacances !
+1312	1312001	Fin des vacances !
+1313	1313001	Fin des vacances !
+1314	1314001	Fin des vacances !
+1315	1315001	Fin des vacances !
+1316	1316001	Contrôle du canon
+1317	1317001	Saison des cucurbitacées
+1318	1318001	Moi, moi et encore moi
+1319	1319001	Moi, moi et dix fois moi
+1320	1320001	Moi, moi et cinquante fois moi
+1321	1321001	Moi, moi et cent fois moi
+1322	1322001	Anoblisseur débutant
+1323	1323001	Raffineur débutant
+1324	1324001	Aquafortiste débutant
+1325	1325001	Alchimiste débutant
+1326	1326001	Anoblisseur confirmé
+1327	1327001	Raffineur confirmé
+1328	1328001	Aquafortiste confirmé
+1329	1329001	Alchimiste confirmé
+1330	1330001	C'est tout un art
+1331	1331001	Anoblisseur de pointe
+1332	1332001	Raffineur de pointe
+1333	1333001	Aquafortiste de pointe
+1334	1334001	Alchimiste de pointe
+1335	1335001	Cuisinier débutant
+1336	1336001	Cuisinier confirmé
+1337	1337001	Cuisinier de pointe
+1338	1338001	À moi les friandises !
+1339	1339001	Célébrez Halloween !
+1401	1401001	Ça m'est venu en rêve
+1402	1402001	Des vents contraires
+1403	1403001	Marchand de sabres
+1404	1404001	Opération : Vigilance (Vallée printanière)
+1405	1405001	Opération : Vigilance (Ex Prima)
+1406	1406001	Opération : Vigilance (Arx Umbra)
+1407	1407001	Phase alpha
+1408	1408001	1st place in GVG
+1411	1411001	Je t'avais dit que ça passait !
+1412	1412001	Le clou du spectacle
+1413	1413001	Arsenal de l'injustice
+1414	1414001	Vert luisant
+1415	1415001	Une vie de parasite
+1416	1416001	Vol au-dessus du Nid de Nimistrix
+1417	1417001	L'eau de là-haut
+1418	1418001	Festivités de pirate
+1419	1419001	Prendre un bébé crabe par la main
+1420	1420001	Étrangement familier...
+1421	1421001	Le Mystique archidevan
+1422	1422001	Un poisson, deux poissons
+1423	1423001	Reconstituer le puzzle
+1424	1424001	L'avidité ne connaît aucune limite
+1425	1425001	La trace de la fleur bleue
+1426	1426001	Souvenir des Bombes de magma
+1427	1427001	Ordures irrécupérables
+1428	1428001	Le pégase se porte-t-il bien&nbsp;?
+1429	1429001	Monument de vérité
+1430	1430001	Reposez en paix
+1431	1431001	Panorama du souvenir
+1500	1500001	Permis de voler
+1600	1600001	Fraîchement retraité
+1601	1601001	Premi{@gender:er/ère} au combat
+1602	1602001	Le club des cinq
+1603	1603001	Route déblayée
+1604	1604001	Vétéran de la campagne du nord d'Arun
+1605	1605001	Le plus dur, c'est la rupture
+1606	1606001	Point de rupture
+1607	1607001	Dément, tellement !
+1608	1608001	Fusion réussie
+1609	1609001	Relation fusionnelle
+1610	1610001	Fusion nucléaire
+1611	1611001	Mon meilleur ami est un mineur
+1612	1612001	L'ange vert
+1613	1613001	Tourbillon d'énergie
+1614	1614001	Tout est à moi
+1615	1615001	Source de connaissance
+1616	1616001	Fléau naga
+1617	1617001	Raiga muffin
+1618	1618001	Sentinelle d'un autre âge
+1619	1619001	Vie et mort d'un mort-vivant
+1620	1620001	Port d'armes
+1621	1621001	Une force sur qui compter !
+1622	1622001	Quelle vue
+1623	1623001	Escalade des mots
+1624	1624001	Enigme datée
+1625	1625001	Indices perdus
+1626	1626001	Sanctuarisé{@g:/e}
+1627	1627001	Monté{@g:/e} à bloc !
+1628	1628001	Aucune montagne ne lui résiste
+1629	1629001	Collines du Silence
+1630	1630001	Ribbidi Bobbidi Bou !
+1631	1631001	Hors des sentiers battus
+1632	1632001	Manutention de bagages
+1633	1633001	En cas d'amerrissage
+1634	1634001	Entendez-vous ce que j'entends ?
+1635	1635001	Chimie expérimentale
+1636	1636001	La quête du Vénérable
+1637	1637001	La fouille du passé
+1638	1638001	Une question de survie
+1639	1639001	Le prix du sang
+1640	1640001	Ni oubli ni pardon
+1641	1641001	Vous et l'armurerie quoi ?
+1642	1642001	Scellé pour votre propre sécurité
+1643	1643001	La main verte
+1644	1644001	Un bon jardinier
+1645	1645001	L'as des pics
+1646	1646001	Vous construisez, je démolis
+1647	1647001	L'abeille et la bête
+1648	1648001	Totalement tuberelle
+1649	1649001	Dompteu{@gender:r/se} de Sabex
+1650	1650001	Aux mains de la justice
+1651	1651001	On massacre et on recommence
+1652	1652001	Eviscération expresse
+1653	1653001	L'incorruptible
+1654	1654001	Demokrons insatiables
+1655	1655001	Intouchable
+1656	1656001	Un terme au cauchemar
+1657	1657001	Un cran au-dessus
+1658	1658001	Un cran au-dessus
+1659	1659001	Un cran au-dessus
+1660	1660001	Un cran au-dessus
+1661	1661001	Un cran au-dessus
+1662	1662001	Un cran au-dessus
+1663	1663001	Un cran au-dessus
+1664	1664001	Un cran au-dessus
+1665	1665001	Un cran au-dessus
+1666	1666001	Oiseau de proie
+1667	1667001	Abattage à volonté
+1668	1668001	Flower Power
+1669	1669001	Coup de tête balayé
+1670	1670001	Merveill-oeufs
+1671	1671001	Classique ou croustillant ?
+1672	1672001	J'ai du bon taba... ssage
+1673	1673001	Plumage intégral
+1674	1674001	Ravageur vaincu
+1675	1675001	Némésis vaincue
+1676	1676001	Mort puissance 10
+1677	1677001	Eclair huilé
+1678	1678001	Jeu d'écailles
+1679	1679001	Le grand plongeon
+1680	1680001	Imperturbable
+1681	1681001	Baguette foudroyante
+1682	1682001	A la hauteur du défi
+1683	1683001	Round éclair
+1684	1684001	Némésis disparue
+1685	1685001	Il va bien finir par comprendre
+1686	1686001	Vie hygiénique
+1687	1687001	Annihilation Tokka
+1688	1688001	Fluctuat nec mergitur
+1690	1690001	Eclater les bulles
+1691	1691001	Passé{@g:/e} maître
+1692	1692001	En balade aquatique
+1693	1693001	Tout s'effondre
+1694	1694001	Sur les ailes des Demokrons
+1695	1695001	Demokron décimés
+1696	1696001	Défense solide comme un roc
+1697	1697001	Indélogeable
+1698	1698001	Capitaine céleste
+1699	1699001	Opiniâtre fougueux
+1700	1700001	Ailes de feu
+1701	1701001	Victoire désossée
+1702	1702001	Chaleur corporelle
+1703	1703001	Epargné par l'obscurité
+1704	1704001	Mach 1
+1705	1705001	Commandant céleste
+1706	1706001	Turboréacteur
+1707	1707001	De longue haleine
+1708	1708001	Vigile de la Tour de Nakatam
+1709	1709001	Qu'est-ce qu'il y a dans ce paquet ?
+1710	1710001	Plus rapide qu'une flèche
+1711	1711001	Premier de cordée
+1712	1712001	Fracassez le fantôme de la reine
+1713	1713001	Meilleure Artilleuse
+1714	1714001	Artilleuse habile
+1715	1715001	Artilleuse fondatrice
+1716	1716001	Tendances violentes
+1717	1717001	En joue, feu
+1718	1718001	BOUM ! EN PLEINE TÊTE !
+1719	1719001	Artilleuse tabassée
+1720	1720001	Artilleuse de pointe
+1721	1721001	Amicalement vôtre
+1722	1722001	Le début d'une belle amitié
+1723	1723001	Si t'es mon pote
+1724	1724001	Avoir un bon copain
+1725	1725001	Les copains d'abord
+1726	1726001	Comme larrons en foire
+1727	1727001	Une amitié millénaire
+1728	1728001	Comme les deux doigts de la main
+1730	1730001	Premi{@g:er/ère} Conquérant{@g:/e} du 22e défi
+1731	1731001	Avoir le plumeau à portée de main
+1732	1732001	Déclaration d'amour échouée
+1734	1734001	Fallait pas l'inviter
+1735	1735001	Mort ou vif ou encore...
+1736	1736001	Vous n'allez rien sentir
+1737	1737001	Sur un piédestal
+1738	1738001	Juste un bond sur la gauche
+1739	1739001	Étrangement réconfortant
+1740	1740001	Meilleur score personnel
+1741	1741001	Conquérant{@g:/e} du Caveau de Kaprima
+1742	1742001	Concassage de roche
+1743	1743001	Ce n'est que de la pierre.
+1744	1744001	Quelle chaleur
+1745	1745001	Quelque chose m'a piétiné{@g:/e}
+1746	1746001	Légende du Roc !
+1747	1747001	Immonde parasite argon
+1748	1748001	Voué à la mort
+1749	1749001	Accomplir la légende
+1750	1750001	Conquérant{@g:/e} de l'Ascension de Saravash
+1751	1751001	Être le roi des pirates
+1752	1752001	Éliminez le pirate rouge
+1753	1753001	Ohé, ohé !
+1754	1754001	La magie gâte la sauce
+1755	1755001	L'honneur d'une mort rapide
+1756	1756001	4e anniversaire
+1757	1757001	Rotation des sphères
+1758	1758001	Trois petits tours et puis s'en vont !
+1759	1759001	Une journée chargée
+1760	1760001	Ce qui est en haut
+1761	1761001	Ce qui est en bas
+1762	1762001	Tour du monde
+1763	1763001	Une brève histoire d'espace-temps
+1764	1764001	Le temps file quand on en manque
+1765	1765001	Le Maître de l'espace-temps
+1766	1766001	Conquérant de l'Espace-temps de Valona
+1767	1767001	Dur comme la roche
+1768	1768001	Une montagne vers la mer
+1769	1769001	Il faut se mouiller
+1770	1770001	Une prêtresse fort prêteuse
+1771	1771001	L'honneur d'un gentilhomme
+1772	1772001	Foudre de guerre
+1773	1773001	Conquérant{@g:/e} de la Fournaise
+1774	1774001	Tonnerre et coups de foudre !
+1775	1775001	La fille de l'air
+1776	1776001	Ne tirez plus !
+1777	1777001	À donner le tournis
+1778	1778001	Sacrée p'tite allumeuse
+1779	1779001	C'est de la dynamite !
+1780	1780001	Je vais bien, je vous assure...
+1781	1781001	J'ai traversé des océans d'éternité
+1782	1782001	Le guide du voyageur intertemporel
+1783	1783001	À l'épreuve du temps
+1784	1784001	Terminez l'Espace-temps de Valona (difficile).
+1788	1788001	Indésirable et inattendu
+1789	1789001	Rester de marbre
+1790	1790001	Rasage de près
+1791	1791001	Jambes alertes
+1792	1792001	Plus vite que l'éclair
+1793	1793001	Poissard{@g:/e}
+1794	1794001	On se connaît ?
+1795	1795001	Au feu, au feu, AU FEU !
+1796	1796001	Étincelant{@g:/e}
+1797	1797001	Stupeur et tremblements
+1798	1798001	R{@gender:oi/eine} de la glisse
+1799	1799001	Tempête du siècle
+1800	1800001	À contre-courant
+1801	1801001	Haute tension
+1802	1802001	Chasse au trésor
+1803	1803001	Lire et écrire
+1804	1804001	Crapaud bas  !
+1805	1805001	Ne clignez pas des yeux
+1806	1806001	C'est archivé
+1807	1807001	Une lueur dans l'obscurité
+1808	1808001	Briseu{@gender:r/se} de malédictions
+1809	1809001	Reposez en paix
+1810	1810001	La marche funèbre
+1811	1811001	D'un pas alerte
+1812	1812001	Frissons éthérés
+1813	1813001	L'étreinte des ténèbres
+1814	1814001	4th Anniversary
+1817	1817001	Il ne faut pas croire tout ce qu'on raconte&nbsp;!
+1818	1818001	3, 2, 1, c'est parti&nbsp;!
+1819	1819001	Un instant... Ça me dit quelque chose.
+1820	1820001	Doucement...
+1821	1821001	Plus que 10 minutes&nbsp;!
+1822	1822001	Je ne crains pas la malédiction&nbsp;!
+1823	1823001	Il n'y aura pas de pierre tombale pour moi ici.
+1824	1824001	L'esprit malin
+1825	1825001	Les esprits me sont désormais familiers.
+1826	1826001	Je n'aurais pas cru que vous me ramèneriez à la vie.
+1827	1827001	Arrêtez de me ressusciter&nbsp;!
+1828	1828001	Vous ne méritez pas d'être en vie sur cette île&nbsp;!
+1830	1830001	Qui est l'enfant&nbsp;?
+1831	1831001	Que faites-vous ici&nbsp;?
+1832	1832001	Beurk&nbsp;!
+1833	1833001	Porté{@g:/e} pâle
+1834	1834001	Mal portant{@g:/e}
+1835	1835001	Immonde archidevan
+1836	1836001	Ne m'approchez pas&nbsp;!
+1837	1837001	Écartez-vous&nbsp;!
+1838	1838001	Pas si près&nbsp;!
+1839	1839001	Gardez vos distances&nbsp;!
+1840	1840001	Victoire sur Verno
+1841	1841001	Victoire sur Verno cauchemardesque
+1842	1842001	Créatures d'Odon
+1843	1843001	Créatures maléfiques d'Odon
+1844	1844001	Les deux font la paire
+1845	1845001	Vue insoutenable
+1846	1846001	Comptes rendus d'expérience de Dkurion
+1847	1847001	Victoire ultime
+1848	1848001	Familier de l'occulte
+1849	1849001	Magie du sang
+1850	1850001	Extinction
+1851	1851001	Marque du sang
+1852	1852001	Vengeance centenaire
+1853	1853001	Enfin vengée
+1855	1855001	Plus vite que son ombre
+1856	1856001	Dégoûtant mais inévitable
+1857	1857001	Je vais vous déchiqueter&nbsp;!
+1859	1859001	Qui êtes-vous&nbsp;?
+1860	1860001	Archers éliminés
+1861	1861001	Chevaliers éliminés
+1863	1863001	Guerriers éliminés
+1864	1864001	Bourreau d'archidevans
+1865	1865001	Ça faisait une paye&nbsp;!
+1866	1866001	Ravi de vous revoir
+1867	1867001	Efforts vains
+1868	1868001	Seigneur du Labyrinthe
+1869	1869001	Seigneur du Repaire
+1870	1870001	Travail de Sisyphe
+1871	1871001	Éradicat{@gender:eur/rice} de mensonges
+1872	1872001	Les mensonges ont les jambes courtes&nbsp;!
+1873	1873001	Ce plateau m'appartient&nbsp;!
+1874	1874001	L'hiver est déjà là&nbsp;?
+1875	1875001	La voie de la maîtrise est bien longue
+1876	1876001	Raclée pour le menteur
+1877	1877001	Détecteur de mensonges
+1880	1880001	Me haïssez-vous tellement ?
+1881	1881001	Faites-leur savoir que je ne viendrai pas...
+1882	1882001	Ouf, ce n'est pas passé loin !
+1883	1883001	Mon instinct ne m'a pourtant pas trompé !
+1884	1884001	Résistance au charme
+1885	6900	Mon petit prince
+1886	6910	Petit, mais costaud !
+1890	1890001	Détruisez la bougie avant qu'elle ne s'éteigne.
+1891	1891001	Mon énergie touche à sa fin. Mais bizarrement... je me sens bien.
+1892	1892001	Je ne suis pas si faible que ça.
+1893	1893001	Quiétude imperturbable
+1894	1894001	Gardien vertueux d'Arborea
+1895	1895001	Mais quelle idée de se relever...
+1896	1896001	Mettez-y donc tout ce que vous avez !
+1897	1897001	Les rouges ou les bleus ?
+1898	1898001	Bonheur parental
+1899	1899001	Souvenirs d'un temps révolu...
+1900	1900001	Lancez le système de PE !
+1901	1901001	Débutant en PE
+1902	1902001	Vétéran en PE
+1903	1903001	Maître en PE
+1904	1904001	Velika nous appartient.
+1905	1905001	Plus que fabuleux, légendaire.
+1906	1906001	Pas de demi-mesure
+1907	1907001	Un de moins
+1908	1908001	C'est ce qu'on appelle le savoir-faire
+1909	1909001	Mourez, héhé...
+1910	1910001	N'ayez pas peur, je ne vous ferai pas de mal
+1911	1911001	Je me vengerai
+1912	1912001	Je vais le dire à ma maman
+1913	1913001	Partie de cartes avec la grande faucheuse
+1914	1914001	C'est quoi ça ?
+1915	1915001	Commando de déblaiement
+1916	1916001	Coque dure mais chair tendre
+1917	1917001	Tournée de steaks verts !
+1918	1918001	Au menu : soupe au crabe
+1919	1919001	Broyeur de crustacé
+1920	1920001	Tueur de dragon
+1921	1921001	Casseur de pinces
+1922	1922001	Mais qu'avez-vous pris pour devenir si fort ?
+1923	1923001	Champion des Ruines de Lachelitas (facile)
+1924	1924001	Créature cauchemardesque éliminée.
+1925	1925001	Souverain dracoloth... et pourtant, quel gringalet !
+1926	1926001	Pour évaluer la brutalité de Malgarios ressuscité...
+1927	1927001	Passons à l'assaut.
+1928	1928001	Votre esquive est sans pareille !
+1929	1929001	Cessez de faire trembler les murs !
+1930	1930001	Champion des Ruines de Lachelitas (difficile)
+1931	1931001	Venez tous ici !
+1932	1932001	On commence à s'ennuyer !
+1933	1933001	Le goût du bonus !
+1934	1934001	Dompteur de dragon
+1935	1935001	Simplissime, non ?
+1936	1936001	Meilleure partie
+1937	1937001	Conquérant du Passage détruit du royaume des dieux
+1938	1938001	J'ai arrêté de compter...
+1939	1939001	Surpasser la créature cauchemardesque.
+1940	1940001	Ma main est plus rapide que le vent
+1941	1941001	Mais qui vous a donc créé ?
+1942	1942001	Il y a une taupe par ici !
+1943	1943001	Ainsi, c'est vous la taupe !
+1944	1944001	Champion du Passage détruit du Royaume des dieux
+1945	1945001	Vous ne m'échapperez pas !
+1946	1946001	Bonjour et au revoir !
+1947	1947001	Bisque bisque rage !
+1950	1950001	Arrêtez de courir, le temps que je vous supprime !
+1951	1951001	Défigure de style
+1952	1952001	Hein ? Qu'est-ce que ça veut dire ?
+1953	1953001	Un génie !
+1954	1954001	Qu'est-ce que je fais ici avec un monstre...
+1955	1955001	Joli, mais pas trop mon genre
+1956	1956001	Prêt à affronter Lakan
+1957	1957001	La légende oubliée de la Danselune
+1958	1958001	Renverser le funambule
+1959	1959001	Des pieds plus prestes que la lumière
+1960	1960001	Tout le monde à un plan. Avant de prendre quelques coups.
+1961	1961001	Grand clapet, rien derrière
+1962	1962001	J'ai bien fini par vous avoir !
+1963	1963001	Ce n'est qu'un monstre comme les autres.
+1964	1964001	Vous allez maintenant connaître le vrai Veldeg !
+1965	1965001	Je vous déplais, non ?
+1966	1966001	Ça, c'est fait !
+1967	1967001	Bip ! Explosion dans 3 secondes.
+1968	1968001	Groaaar, groaaar, groaaar !
+1969	1969001	Hache esquivée *tralalalala*
+1970	1970001	Bénies soient vos compétences !
+1971	1971001	J'y suis parvenu !
+1972	1972001	Dieu est mort
+1973	1973001	Dieu est mort 10 fois
+1975	1975001	Entraînement au saut d'orbes
+1976	1976001	Un morceau... de la pizza de Dkurion ?
+1977	1977001	Voilà des perles néfastes
+1979	1979001	Prends-moi pour du petit bois et je te tue !
+1982	1982001	Lakan, vous avez bien travaillé pendant ces deux années. Je me réjouis d'avance de vous revoir !
+1983	1983001	Un dieu pitoyable
+1984	1984001	Tiens, j'ai tout donné sans le faire exprès...
+1985	1985001	Le monde des pizzas est bien paisible
+1986	1986001	Un vrai héros n'a jamais la dalle
+1987	1987001	Votre enchaînement d'attaques c'est puissante/faible/moyenne/faible/puissante ?
+1988	1988001	Les jobs de l'extrême, épisode Prince des enfers
+1989	1989001	Bourreau du prince des enfers
+1990	1990001	Simple, n'est-ce pas ?
+1991	1991001	Esquiver à tout prix, esquiver 2 fois
+1992	1992001	L'argent de poche de Demoroth
+1993	1993001	Je n'ai pas un sou, mais j'ai la classe !
+1994	1994001	Sauver un Humain par partie de jeu de hasard
+1995	1995001	Avec autant de parties, sauver des Humains n'était apparemment qu'un prétexte.
+1996	1996001	Gardien, vous ne devriez pas aborder la chose ainsi. Les dés doivent rester un simple jeu.
+1997	1997001	Nouvelle puissance
+2010	2010001	Cette compétence sert-elle donc à vous tabasser à plaisir ?
+2011	2011001	Les colériques sont incorrigibles.
+2012	2012001	C'est censé me faire perdre l'équilibre ?
+2013	2013001	Je suis un gardien de la Station de recherche !
+2014	2014001	Votre méchanceté n'est sans doute pas innée.
+2015	2015001	Les nombreuses victimes minimisent mon sentiment de culpabilité.
+2016	2016001	Le qualificatif Alpha est censé m'impressionner ?
+2017	2017001	Je n'y suis pour rien. Remerciez les archidevans.
+2018	2018001	Bon vent ! Affreux compagnon !
+2019	2019001	Rouge ou bleu ? Pour quelle pierre magique opterez-vous ?
+2020	2020001	Bon vent ! Compagnon pitoyable !
+2021	2021001	Ce n'est pas faux... Après tout, vous ne le faites que pour gagner votre pain...
+2022	2022001	Non ! Pauvre gobelin !
+2023	2023001	3, 2, 1, bungee !
+2024	2024001	Je ne suis pas un Pokémon.
+2025	2025001	En fin de compte, c'est la presse qui gouverne.
+2026	2026001	Je pensais avoir échappé à toutes les attaques.
+2027	2027001	L'art de manipuler les objets
+2028	2028001	Mon arme est-elle en état de marche ?
+2029	2029001	Les robots ne m'effraient plus.
+2030	2030001	Les vraies pensées de Randun
+2031	2031001	À combien de bombes survivrez-vous ?
+2032	2032001	Contact défectueux
+2033	2033001	Allez, lancez-vous !
+2034	2034001	Piratage du RK-9
+2035	2035001	Mission impossible
+2036	2036001	RK-9, désormais hors-ligne
+2037	2037001	Enregistrer le plan de construction du RK-9
+2038	2038001	524B-39 7F
+2039	2039001	Ennemis de la Fédération
+2040	2040001	Même service pour tous
+2041	2041001	Journal de Hennika, tome 7
+2042	2042001	Journal de Hennika, tome 146
+2043	2043001	Cahier d'exercices
+2044	2044001	Excursion dans le Camp des révolutionnaires
+2045	2045001	Lâchez l'affaire !
+2046	2046001	Mais lâchez donc l'affaire !
+2047	2047001	Ça sent le roussi !
+2048	2048001	Tapis de balles
+2049	2049001	Le premier qui saigne a perdu !
+2050	2050001	Le rugissement du lion puissant
+2051	2051001	Ces maudits révolutionnaires ! Ne bougez pas d'ici !
+2052	2052001	Bien caché...
+2053	2053001	Mais qu'est-ce qui vous prend ?
+2054	2054001	Fragment de souvenir déchiré
+2055	2055001	Fragment de souvenir souillé
+2056	2056001	Vieux fragment de souvenir
+2057	2057001	Glaciation
+2058	2058001	J'ai le vertige !
+2059	2059001	Bah, ce n'est rien du tout.
+2060	2060001	Je suis vraiment innoncent.
+2061	2061001	Je suis au bon endroit ?
+2062	2062001	Si ça continue, quelque chose de grave va arriver.
+2063	2063001	Aussi vite que possible
+2064	2064001	Ce qui nous unit
+2065	2065001	Je ne crains plus l'abîme
+2066	2066001	Seigneur de l'abîme
+2070	2070001	Attention, chutes de pierres !
+2071	2071001	Il... Il nous faut plus de sang !
+2072	2072001	À la croisée de la vie et de la mort
+2073	2073001	Abattez ce dragon !
+2074	2074001	Lian, vous m'appartenez enfin !
+2075	2075001	Votre odeur est palpable
+2076	2076001	Roulade et pique, pique et roulade
+2077	2077001	Le plus tôt sera le mieux
+2078	2078001	Une petite douche ?
+2079	2079001	Je n'ai peur de personne !
+2080	2080001	Bourreau du dragon ténébreux
+2081	2081001	Que faites-vous donc ici ?
+2082	2082001	Je prends ce qui me plaît
+2083	2083001	Quai 2 3/4
+2084	2084001	Séduction diabolique
+2085	2085001	La Forteresse de Ténébris est tombée !
+2086	2086001	Non, maudit diable !
+2087	2087001	Adios !
+2088	2088001	Comme du caoutchouc
+2089	2089001	Victoire physique
+2090	2090001	Ce n'est pas à mon goût...
+2091	2091001	Je ne sens aucun goût
+2092	2092001	Diable... attributs... tout cela n'est rien.
+2093	2093001	C'est qui le méchant, maintenant ?
+2094	2094001	Game over
+2095	2095001	Souffle de trahison
+2096	2096001	Stratégie d'assaut
+2097	2097001	Purifier l'âme de Baharr
+2098	2098001	Une légende est née !
+2099	2099001	Ça commence enfin !
+2100	2100001	Le rêve mis à l'épreuve
+2101	2101001	Premier Bourrask d'élite
+2102	2102001	Premier Ninja d'élite
+2103	2103001	Première Danselune d'élite
+2104	2104001	Premier Guerrier d'élite
+2105	2105001	Premier Lancier d'élite
+2106	2106001	Premier Pourfendeur d'élite
+2107	2107001	Premier Berserker d'élite
+2108	2108001	Premier Sorcier d'élite
+2109	2109001	Premier Archer d'élite
+2110	2110001	Premier Prêtre d'élite
+2111	2111001	Premier Mystique d'élite
+2112	2112001	Première Mortiféra d'élite
+2113	2113001	Première Artilleuse d'élite
+2114	2114001	La vermine est coriace.
+2115	2115001	La vermine est coriace, mais le gardien l'est plus encore.
+2116	2116001	Lâchez le gardien dans le nid !
+2117	2117001	Absorption de miel de Ferva
+2118	2118001	Un peu de miel ?
+2119	2119001	Quelle vitesse... même pour l'esquive !
+2120	2120001	Qu'est-ce que vous regardez ? Ça, c'est mon illusion.
+2121	2121001	Moulin à paroles
+2122	2122001	De gardien d'Arborea à chasseur de papillon ?
+2123	2123001	Pif, Parf !
+2124	2124001	Pif, Parf !
+2125	2125001	Le secret de l'immortalité ? Ne pas mourir !
+2126	2126001	Anticorps toxiques
+2127	2127001	Un petit laser rouge ? Un petit laser bleu ?
+2128	2128001	[Dépêche] Alerte aux particules fines
+2129	2129001	Rien n'est pire que la douleur, alors il faut esquiver !
+2130	2130001	Vous avez vaincu Parquina et montez de niveau.
+2131	2131001	Expert de l'esquive
+2132	2132001	Prêts ? Partez !
+2133	2133001	Reposez en paix
+2134	2134001	Un soupçon d'ambition ?
+2135	2135001	Début de la guerre d'Exodor
+2136	2136001	Pacificateur
+2137	2137001	Résurrection avortée
+2138	2138001	La foire aux immortels
+2139	2139001	Saut dans l'inconnu
+2140	2140001	Ce n'est rien !
+2141	2141001	Pourfendeur de hauts dragons
+2142	2142001	La force de l'habitude
+2143	2143001	Bourreau de l'immortel
+2144	2144001	Véritablement immortel
+2145	2145001	Héros d'Exodor
+2146	2146001	Victoire express
+2147	2147001	Retrouvailles
+2148	2148001	Immortel... mais encore ?
+2149	2149001	*kof* Mission accomplie ?
+2150	2150001	Toutes voiles dehors
+2151	2151001	Trop lent...
+2152	2152001	Incontesté
+2153	2153001	À qui le tour ?
+2154	2154001	Et maintenant ?
+2155	2155001	Folie refoulée
+2156	2156001	Esquive et frappe
+2157	2157001	Le chrono, maître
+2158	2158001	Avez-vous bien tout retenu ?
+2159	2159001	La torpeur est un fléau
+2160	2160001	Accomplir tous les exploits.
+2161	2161001	À livre ouvert
+2162	2162001	Soulèvement des cadets
+2163	2163001	Erreur et progrès : deux faces d'une même médaille
+2164	2164001	Perfection
+2165	2165001	En garde, Kalligar !
+2166	2166001	Carreau d'énergie
+2167	2167001	Guili-guili !
+2168	2168001	Effondrement
+2169	2169001	Qu'est-ce que la douleur ?
+2170	2170001	Colonne triomphale
+2171	2171001	Pour l'éternité
+2172	2172001	Rira bien...
+2173	2173001	Vite fait bien fait
+2174	2174001	Place au champion !
+2175	2175001	Livre à l'horizon
+2176	2176001	Allegro, mon ami !
+2177	2177001	Sans accrocs
+2178	2178001	Omniscience
+2179	2179001	Appelez-moi maître
+2180	2180001	Phénix droit devant
+2181	2181001	Au suivant !
+2182	2182001	Un pas dans l'éternité
+2183	2183001	Nouvelle lecture
+2184	2184001	Adversaire à sa mesure
+2185	2185001	Attendez une seconde...
+2186	2186001	C'est fini ?
+2187	2187001	Ailes de Feu
+2263	2263001	Touriste de Balderon
+3124	3124001	Elle aurait dû rester en 2012
+3125	3125001	Je peux durer plus longtemps
+3126	3126001	Dozen d'un boulanger
+3127	3127001	J'aurai besoin d'un psychologue après ça
+3128	3128001	Adieu Manaya!
+5991	5991001	Premiers pas dans un vaste monde
+5992	5992001	La vie n'est pas que combats
+5993	5993001	Arrêter un prédateur
+5994	5994001	Se fondre dans la masse
+6000	6000001	Pas un geste !
+6001	6001001	Délicieuse boutique
+6002	6002001	Boutique fantastique
+6003	6003001	Bénéfices partagés
+6004	6004001	Les gardiens sont patients
+6005	6005001	Finalisation de l'achat de caisse médiocre
+6006	6006001	Baptême de l'air
+6007	6007001	Combo éolien
+6008	6008001	Pilote novice
+6009	6009001	Pilote professionnel
+6010	6010001	Combo foudroyant
+6011	6011001	Pilote de ligne
+6012	6012001	Pilote d'exception
+6013	6013001	Combo dément
+6014	6014001	As du pilotage
+6015	6015001	À moi le trésor.
+6016	6016001	Ça sent le roussi !
+6230	6230001	Advienne que pourra !
+6901	6901001	Souverain{@g:/e} de la Cave voûtée
+6902	6902001	Par la grande porte
+6903	6903001	Pouah ! Ce n'est pas de la nourriture !
+6904	6904001	Du cœur pour un humain
+6905	6905001	À risque accru, gain décuplé !
+6906	6906001	Prenez garde ou je vous tranche la main !
+6907	6907001	Éradication des souvenirs
+7011	7011001	Ténèbres reconquis
+9811	9811001	Purgez l'infection
+9812	9812001	Libérez la Clairière dérobée.
+9813	9813001	Conformément au plan
+9814	9814001	Voyage dans le gouffre
+9815	9815001	Rouvrir de vieilles blessures
+9816	9816001	Fendre le bois de chauffage
+9817	9817001	Un arbre généreux
+9818	9818001	Désolé, je suis occupé.
+9819	9819001	Patrie d'adoption
+9830	9830001	Combattant{@g:/e} solitaire
+9831	9831001	Décuple vainqueur
+9832	9832001	Champion{@g:/ne} du Trône céleste
+9833	9833001	Tuwangi géant&nbsp;! Tuwangi géant&nbsp;!
+9834	9834001	Vous arrivez à me voir&nbsp;?
+9835	590001	Gardiens de Sigilluma
+20000	20000001	Assaut du Domaine de Rogash
+20001	20001001	Ami des crustacés ?
+20002	20002001	Épine dans le pied ?
+20003	20003001	Chasseur de vermine
+20004	20004001	Conquête de la Plantation d'Exodor
+20005	20005001	Chasse au renard
+20006	20006001	Ennemis sur la plantation
+20007	20007001	Monstres sur la plantation
+20008	20008001	Conquête du Marécage de Viridian
+20009	20009001	Ennemis dans le Marécage de Viridian I
+20010	20010001	Ennemis dans le Marécage de Viridian II
+20011	20011001	Monstres dans le Marécage de Viridian
+20012	20012001	Patrouille de la Forteresse de Berak
+20013	20013001	Forteresse de Berak : araignées aux épines sombres
+20014	20014001	Forteresse de Berak : mutants nagas
+20015	20015001	Monstres rares en périphérie d'Exodor
+20016	20016001	Périphérie d'Exodor : crabes moussus gênants
+20017	20017001	Périphérie d'Exodor : épinocles gênants
+20018	20018001	Périphérie d'Exodor : Vekis
+20019	20019001	Périphérie d'Exodor : Gemecis
+20020	20020001	Périphérie d'Exodor : Exillo
+20021	20021001	Périphérie d'Exodor : Manuk
+20022	20022001	Périphérie d'Exodor : clercs d'élite
+20023	20023001	Périphérie d'Exodor : chevaliers nagas d'élite
+20024	20024001	Solutionneur d'Exodor
+20025	20025001	Soutenir la recherche d'Exodor
+20026	20026001	Soutenir le sauveur d'Exodor
+20027	20027001	Soutenir le développement d'un remède contre la cristallisation
+20028	20028001	Soutenir Riveran
+20029	20029001	Chercheur d'Exodor
+20300	20300001	Mauvaise herbe tenace
+20301	20301001	Épigrain
+20302	20302001	Pivot
+20303	20303001	Champignon orange
+20304	20304001	Vieille citrouille
+20305	20305001	Pomme
+20310	20310001	Minéral
+20311	20311001	Pierre brute de cobala
+20312	20312001	Pierre brute d'ombremétal
+20313	20313001	Pierre brute de xermétal
+20314	20314001	Pierre brute de normétal
+20315	20315001	Pierre brute de galborune
+20316	20316001	Minerai de dranium pur
+20320	20320001	Énergie de flux
+20321	20321001	Cristal de flux rouge orangé
+20322	20322001	Cristal de flux vert aloe
+20323	20323001	Cristal de flux bleu aérien
+20324	20324001	Cristal de flux blanc neige
+20325	20325001	Cristal de flux noir charbon
+20326	20326001	Cristal de dranium pur
+20601	20601001	Exodor : Jardin de Rogash
+20602	20602001	Exodor : Plantation d'Exodor
+20603	20603001	Exodor : Marécage de Viridian
+20604	20604001	Exodor : Forteresse de Berak
+20605	20605001	Observation de la couveuse
+20606	20606001	On se mouille !
+20607	20607001	Terre énergétique
+20608	20608001	Dans les hauteurs
+20609	20609001	À un endroit inconnu
+25462	25462001	Sacoche mystérieuse de Getty
+28701	28701001	Danionin bandeau bleu [rang 0]
+28702	28702001	Carassin aux branchies bleues [rang 0]
+28703	28703001	Crabe [Rang 1]
+28704	28704001	Poisson anémone [rang 1]
+28705	28705001	Scalaire [rang 2]
+28706	28706001	Anémone de suie [rang 2]
+28707	28707001	Seiche [rang 3]
+28708	28708001	Carassin [rang 3]
+28709	28709001	Congre [rang 4]
+28710	28710001	Poisson-chirurgien [rang 4]
+28711	28711001	Anguille [rang 4]
+28712	28712001	Pieuvre [rang 5]
+28713	28713001	Marlin bleu [rang 5]
+28714	28714001	Saumon [rang 5]
+28715	28715001	Raie [rang 6]
+28716	28716001	Silure commun [rang 6]
+28717	28717001	Silure ange à antennes [rang 6]
+28718	28718001	Carpe [rang 6]
+28719	28719001	Requin blanc [rang 7]
+28720	28720001	Saumon argenté [rang 7]
+28721	28721001	Anguille électrique [rang 7]
+28722	28722001	Thon jaune [rang 7]
+28723	28723001	Raie tachetée [rang 8]
+28724	28724001	Pieuvre minérale [rang 8]
+28725	28725001	Marlin sanguin [rang 8]
+28726	28726001	Carpe arc-en-ciel [rang 8]
+28727	28727001	Thon rouge [rang 9]
+28728	28728001	Crabe doré [rang 9]
+28729	28729001	Seiche sanguine [rang 9]
+28730	28730001	Saumon des mousses [rang 9]
+28731	28731001	Anguille dorée [rang 9]
+28732	28732001	Requin rouge [rang 10]
+28733	28733001	Thon à motifs [rang 10]
+28734	28734001	Marlin émeraude [rang 10]
+28735	28735001	Requin strident [rang 10]
+28736	28736001	Anguille sanguine [rang 10]
+28743	28743001	Silure géant [sacrée bestiole]
+28744	28744001	Requin doré [sacrée bestiole]
+28745	28745001	Tête-de-serpent [sacrée bestiole]
+28746	28746001	Espadon-voilier doré [sacrée bestiole]
+28747	28747001	Saumon du régent [sacrée bestiole]
+28748	28748001	Pieuvre dorée [sacrée bestiole]
+28749	28749001	Anémone de mer (rang 1)
+28750	28750001	Bernard-l'ermite (rang 2)
+28751	28751001	Calamar (rang 2)
+28752	28752001	Anémone du noyau (rang 3)
+28753	28753001	Méduse florale (rang 3)
+28754	28754001	Queue-de-voile (rang 4)
+28755	28755001	Piranha (rang 4)
+28756	28756001	Méduse d'écume (rang 5)
+28757	28757001	Crabe-perroquet (rang 5)
+28758	28758001	Pompon (rang 6)
+28759	28759001	Raie torpille (rang 6)
+28760	28760001	Anémone arc-en-ciel (rang 7)
+28761	28761001	Thon rouge (rang 7)
+28762	28762001	Piranha noir (rang 8)
+28763	28763001	Queue-de-voile d'Arkarp (rang 8)
+28764	28764001	Silure rose (rang 9)
+28765	28765001	Poisson étoilé (rang 9)
+28766	28766001	Carassin torpille (rang 9)
+28767	28767001	Méduse dorée (rang 10)
+28768	28768001	Saumon sanguin (rang 10)
+28769	28769001	Pieuvre mimétique (rang 10)
+28770	28770001	Raie d'or (sacrée bestiole)
+28771	28771001	Méduse arc-en-ciel (sacrée bestiole)
+28772	28772001	Ammonite (sacrée bestiole)
+28773	28773001	Anémone nuageuse (sacrée bestiole)
+28774	28774001	Géant bleu (sacrée bestiole)
+28775	28775001	Piranha d'Arkarp (sacrée bestiole)
+28776	28776001	Queue-de-voile floral (sacrée bestiole)
+28777	28777001	Thon aux anneaux noirs (sacrée bestiole)
+28778	28778001	Carassin d'or (sacrée bestiole)
+28800	28800001	Pêcheur débutant
+28801	28801001	Pêcheur novice
+28802	28802001	Pêcher 50x
+28803	28803001	Pêcher 100x
+28804	28804001	Joies de la pêche !
+28805	28805001	1x livraison
+28806	28806001	10x livraison
+28807	28807001	Recrue de la fédération de pêche
+28808	28808001	Pour l'honneur de la fédération de pêche !
+28809	28809001	Les femmes me veulent
+28810	28810001	Vrai mordu de pêche
+28811	28811001	Conquérant des espèces locales de Murica
+28812	28812001	Conquérant des espèces locales du Port Coupe-gorge
+28813	28813001	Conquérant des espèces locales du Lac des larmes
+28814	28814001	Conquérant des espèces locales du Marais Vexatus
+28815	28815001	Conquérant des espèces locales du Lac de Celsian
+28816	28816001	Conquérant des espèces locales de Lac de Seren
+28817	28817001	Purificateur d'étang de Hautegarde
+28819	28819001	Préparation manuelle
+28820	28820001	Pêche miraculeuse
+30000	30000001	Le secret du Bois de l'oubli
+30001	30001001	Chercher la cause du fléau
+30002	30002001	Refuge des argons
+30003	30003001	Un secret bien gardé
+30004	30004001	Héritage de Tiaran
+30005	30005001	Rencontrer les argons
+30006	30006001	Épreuve de Saleron
+30007	30007001	Le plan brutal des argons
+30008	30008001	La fondation de l'avant-garde de Valkyon
+30009	30009001	Sauveteur du continent
+30010	30010001	Patrouiller le Front de Khanovar
+30011	30011001	Épée de Kaia
+40000	40000001	Maître du désastre
+40001	40001001	Retraite provisoire
+40002	40002001	Ce n'est pas mon rêve
+40003	40003001	Un nid de guêpes ?
+40004	40004001	Sans issue ?
+40005	40005001	Légende de l'unité spéciale
+40006	40006001	As du groupe de recherche
+40007	40007001	Verdict du cantonnement d'Exceptio
+40008	40008001	Âme du conseiller civil
+40009	40009001	Montée en puissance !
+40201	40201001	Vous avez atteint le niveau 70 !
+40202	40202001	Activer une première fois les options.
+40203	40203001	Activez 2 options de compétence.
+40204	40204001	Activez 4 options de compétence.
+40205	40205001	Activez 6 options de compétence.
+40206	40206001	Première finesse de compétence.
+98101	98101001	Cellule partagée
+98102	98102001	Émeute carcérale
+98103	98103001	Les portes du pénitencier
+99101	99101001	Récompenses de classement du champ de bataille (Cercle céleste des champions) pour la 1re place : gardien puissant (BTS, si visible)
+99102	99102001	Récompenses de classement du champ de bataille (Cercle céleste des champions) pour les 2e et 3e places : gardien (BTS, si visible)
+99103	99103001	Récompenses de classement du champ de bataille (Gorge de Venteguerre) pour la 1re place : gardien puissant (BTS, si visible)
+99104	99104001	Récompenses de classement du champ de bataille (Gorge de Venteguerre) pour les 2e et 3e places : gardien (BTS, si visible)
+99105	99105001	Récompenses de classement du champ de bataille (Fort des corsaires) pour la 1re place : gardien puissant (BTS, si visible)
+99106	99106001	Récompenses de classement du champ de bataille (Fort des corsaires) pour les 2e et 3e places : gardien (BTS, si visible)
+99109	99109001	Première Place dans le Classement de Champ de Bataille - Claire-voie
+99110	99110001	Placé dans le Classement de Champ de Bataille - Claire-voie
+99113	99113001	Récompenses de classement JcE (Pic de l'effroi (difficile)) pour la 1re place : gardien puissant (BTS, si visible)
+99114	99114001	Récompenses de classement JcE (Pic de l'effroi (difficile)) pour les 2e et 3e places : gardien puissant (BTS, si visible)
+99117	99117001	Récompense de classement JcE (Hall souterrain de Lian (difficile)) pour la 1re place : gardien puissant (BTS, si visible)
+99118	99118001	Récompense de classement JcE (Hall souterrain de Lian (difficile)) pour la 2e et la 3e place (BTS, si visible)
+99119	99119001	Récompense de classement JcE Temple Givré de Baharr Glacial 1ère Place (BTS)
+99120	99120001	Récompense de classement JcE Temple Givré de Baharr Glacial 2ème, 3ème place (BTS)
+99127	99127001	Une plante cannibale ? Bah !
+99128	99128001	Mort au bourreau !
+99129	99129001	Peur des dragons ? C'est du passé !
+99131	99131001	Les enchaînements de Gergov (difficile)
+99132	99132001	Kallois (difficile) se paye votre tête
+99133	99133001	Les enchaînements d'Antaros (difficile)
+99135	99135001	Malédiction brisée
+99136	99136001	Sans craindre les griffes bestiales
+99138	99138001	Voleur de miel de Ferva
+99139	99139001	Parquina cauchemardesque, une formalité !
+99141	99141001	Nec plus ultra
+510027	510027001	Pour l'amour de TERA !
+510050	510050	8th Anniversary
+510066	510066	9th Anniversary
+510077	510077	FLAME of WILL
+520030	520030001	Pour l'amour de TERA
+520031	520031001	Invité à l'anniversaire
+520032	520032001	Gardienne lunaire
+520033	520033001	Junior Detective
+520034	520034001	Senior Detective
+520035	520035001	Master Detective
+520036	520036001	Master Warrior
+520037	520037001	Master Slayer
+520038	520038001	Master Berserker
+520039	520039001	Master Archer
+520040	520040001	Master Elementalist
+520041	520041001	Master Priest
+520042	520042001	Master Lancer
+520043	520043001	Master Sorcerer
+520044	520044001	Master Soulless
+520045	520045001	Master Assassin
+520046	520046001	Master Engineer
+520047	520047001	Master Fighter
+520048	520048001	Beat the Rush
+520049	520049001	Le meilleur en son genre
+520050	520050001	Toute résistance est futile !
+520051	520051001	Tremblez, mortels !
+520052	520052002	Grand classique
+520053	520052006	Voyage dans le temps
+520054	520052010	Porte-bonheur
+520055	520055001	C'est démentiel !
+520056	520056001	Triomphe estival
+520057	520057001	Cauchemar de Fulminar
+520058	520058001	Elindiana Jones
+520059	520059001	Tour des cauchemars
+520060	520060001	Prince des merveilles
+520061	520061001	Héros tentaculaire
+520062	520062001	Omelette de la terreur
+520064	520064001	Maître des éléments
+520065	520065001	[Event] A Rare Catch!
+520066	520066001	[Exploit] Popori Master
+520067	520067001	[Exploit] Rewards Tier 1 à 4
+520068	520068001	[Exploit] Rewards Tier 5 à 8
+520069	520069001	[Exploit] Rewards Tier 9
+520070	520070001	[Exploit] Rewards Tier 10
+525000	525000001	Lore Apprentice
+525001	525001001	Lore Master
+525002	525002001	Lore GrandMaster
+525003	525003001	Lore Apprentice 2
+525004	525004001	Lore Master 2
+525005	525005001	Lore GrandMaster 2
+525006	525006001	Dummy Achievement 1
+525007	525007001	Dummy Achievement 2
+525008	525008001	Dummy Achievement 3
+525009	525009001	Dummy Achievement 4
+525010	525010001	Dummy Achievement 5
+525011	525011001	Dummy Achievement 6
+525012	525012001	Dummy Achievement 7
+525013	525013001	Dummy Achievement 8
+525014	525014001	Dummy Achievement 9
+525015	525015001	Dummy Achievement 10
+525016	525016001	Dummy Achievement 11
+525017	525017001	Dummy Achievement 12
+525018	525018001	Dummy Achievement 13
+525019	525019001	Dummy Achievement 14
+525020	525020001	Dummy Achievement 15
+525021	525021001	Dummy Achievement 16
+525022	525022001	Dummy Achievement 17
+525023	525023001	Dummy Achievement 18
+525024	525024001	Dummy Achievement 19
+525025	525025001	Dummy Achievement 20
+525026	525026001	[Achievement] Giver of Life
+525027	525027001	[Achievement] Heart of Gold
+525028	525028001	[Achievement] Extra Life QT
+525029	525029001	The Dragon Fanatic
+525030	525030001	Progression : ennemi juré de Vergos
+525031	525031001	Progression : vagabond temporel
+530000	503000001	Tourist of the Bloody Island
+530001	53000101	Bloody God
+530002	53000201	Demigod
+530003	53000301	Bloody dawn
+530004	53000401	Scarlet dawn
+530005	53000501	Rogue of Heartwood
+530006	53000601	Warrior of Light
+530007	53000701	Dragon owner
+530008	53000801	[Achievement] Diver
+530009	530009001	collection_title1
+530010	530010001	collection_title2
+530011	530011001	collection_title3
+530012	530012001	Savior of Halloween
+540000	540000001	Fierté de Menma
+540001	540001001	Première Place dans le Classement de Champ de Bataille - Le Colisée
+540002	540002001	Placé dans le Classement de Champ de Bataille - Le Colisée
+540004	540004001	Fêtard
+540005	540005001	Bain de Soleil
+540011	540001101	Gagnant du concours d'art de Menma
+540012	540001201	Runners-up of concours d'art de Menma
+540013	540001251	Runners-up of concours d'art de Menma
+540014	540014001	Glacé de vous rencontrer
+540023	540023001	Récompense de Classement JcE Sanctuaire de Velik (Difficile) 1ère place
+540024	540024001	Récompense de Classement JcE Sanctuaire de Velik (Difficile) 2ème, 3ème place
+540025	540030001	Retirer le Voile
+540026	540030005	Cauchemard Interminable
+540027	540030009	Enlève-moi ça!
+540028	540030013	Vous auriez dû m'écouter depuis le début.
+540029	540030017	L'Arène du Courroux est mon Logis
+540030	54003001	Où est l'Arbre Ravissant?
+540031	540031001	Esprit Chasseur
+540032	540032001	Apprenti Couturier
+540033	540033001	Artisan Couturier
+540034	540034001	Maître Couturier
+540035	540035001	Noël arrive à grand pas
+540036	540036001	Mon Beau Sapin!
+540037	540037001	Premier glacé, Premier servi
+540038	540038001	Flake It Till You Make It!
+540039	540039001	Blanc comme la Neige
+540040	540040001	Retournes d'où tu viens!
+540041	540041001	Anciennes Têtes, Contrée Étrange
+540042	540042001	Records Patients
+540043	540043001	Harder, Better, Faster, Stronger
+540044	540044001	Et me voilà
+540045	540045001	J'ai tellement d'amis!
+540046	540046001	Social Butterfly
+540047	540047001	Je l'ai fait! Tu as vu?
+540048	540048001	Bonjour, vous avez besoin d'aide?
+540049	540049001	Dragon ici, Dragon là... des Dragons partout!
+540050	540050001	Glaçé comme un... poisson?
+540051	540051001	J'ai vu un poisson doré
+540052	540052001	Récompense de Classement JcE Croiseur Céleste Ardent 1ère place
+540053	540053001	Récompense de Classement JcE Croiseur Céleste Ardent 2ème, 3ème place
+540054	540054001	Apprenti Armurier
+540055	540055001	Artisant Armurier
+540056	540056001	Maître Armurier
+549998	549998001	Menma's Gestionnaire de Plateforme
+549999	549999001	Menma's Gestionnaire d'Opération
+550002	550002001	Maître du Jeu de Menma
+550003	550003001	Gestionnaire de communauté de Menma
+550005	55556608	Premier du serveur: Fléau du Champ de Bataille
+550007	550007001	Envahisseur Côtier
+550008	550008001	Manipulateur des Marées
+550009	550009001	Stratège Côtier
+550010	550010001	Blitzkrieg des plages
+550011	550011001	Roi de la côte
+550012	550012001	Pionnier des plages
+550013	550013001	Tacticien Côtier
+550014	550014001	Conquérant de la Côte
+550015	550015001	As de la Bataille sur Plage
+550016	550016001	Souverain du Front-Plage
+550017	550017001	Légende de la Bataille sur Plage
+550018	550018001	Elle est terrestre cette tortue!
+550019	550019001	Étancheur de Soif de Sang
+550020	550020001	Vous méritez un peu de repos
+550021	550021001	Moi, ma b*** et mon couteau
+550022	550022001	Gagnant du Concours de Capture d'Écran de Menma
+550023	550023001	Perle Noire
+550024	550024001	Mercenaire
+550025	550025001	Trois, c'est trop
+550026	550026001	Légion
+550027	550027001	Vous êtes en sécurité avec moi!
+550028	550028001	Premier du serveur: Gardien du Royaume
+550029	550029001	Protecteur de la justice
+550030	550030001	Combattant de ces terres
+550031	550031001	Ré-fu-giéhéhé!
+550032	550032001	Balise de Baldera
+550033	550033001	En mémoire de Baldera
+550034	550034001	D'une pierre deux coups
+550035	550035001	Valkyon Agenda
+550036	550036001	Couper un arbre
+550037	550037001	Dehors, les Zalikaris
+550038	550038001	Retournez dans le sol dans le sol
+550039	550039001	On a un problème d'araignées
+550040	550040001	Il est l'heure de se reposer
+550041	550041001	Pourquoi si Sanglant?
+550042	550042001	Pour les Cornes
+550043	550043001	Bêtes Fantas-runiques
+550044	550044001	Jardinage Compliqué
+550045	550045001	Des Cailloux Partout
+550046	550046001	Gardiens? Quels Gardiens?
+550047	550047001	Prophète du Destin
+550048	550048001	Complété Baldera
+550049	550049001	Équipement de l'Éclat de Sang Maximum
+550050	550050001	Nettoyé l'étang de Baldera!
+550051	550051001	Garder les fournitures sous contrôle
+550052	550052001	C'est juste un passe-temps..
+550053	550053001	Affaire "Louche"
+550054	550054001	Origines Oubliées
+550055	550055001	Vous ne pouvez pas renier le destin
+550056	550056001	Le début de quelque chose de nouveau
+550057	550057001	Bonne Matinée, Baldera!
+550058	550058001	Le Travail de la Fédération n'est jamais terminé
+550059	550059001	Barrière du Langage
+550060	550060001	Quelque chose de Sinistre
+550061	550061001	Un Dieu Ancien Appelle
+550062	550062001	Étangs de Baldera nettoyés
+550063	550063001	Étangs de Baldera nettoyés!
+550064	550064001	La chance me sourit!
+550065	550065001	Éboueur
+550066	550066001	Fou de pêche
+550067	550067001	Rat de Laboratoire
+550068	550068001	Se Battre ou Fuir
+550069	550069001	Chance Impie
+550070	550070001	Sentier des Dieux Déchus
+550071	550071001	Chasseur de Dieux
+550072	550072001	Augmenter la chaleur
+550073	550073001	S'incruster à la... fête?
+550074	550074001	En plein rêve
+550075	550075001	Pfiou, Vaincu!
+550076	550076001	On y est presque!
+550077	550077001	Fin du Rêve
+550078	550078001	Êtes-vous invincible?
+550079	550079001	Dans le Cauchemard Interminable
+550080	550080001	Rêve éveillé
+550081	550081001	Réveil Cauchemardesque
+550082	550082001	Le début d'un nouveau rêve
+550083	550083001	Compétence absolue
+550084	550084001	Réveillez-vous au prochain stop
+550085	550085001	Rêve dans un rêve
+550086	550086001	Récompense de classement JcJ Rêve de Rukmia (Difficile) 1ère place
+550087	550087001	Récompense de classement JcJ Rêve de Rukmia (Difficile) 2ème, 3ème place
+550088	550088001	Écraseur de Citrouilles
+550089	550089001	Les bonbons sont miens!
+550090	550090001	Effrayant... Terrifiant...
+550091	550091001	Vous l'avez fait.. mais à quel prix?
+550092	550092001	Bourreau jusqu'à l'os
+550093	550093001	Défenseur d'Arborea
+550094	550009401	Winner of Menma's Summer Art Contest
+550095	550009501	Winner of Fraywind Canyon Competition
+550096	550009601	Runners-up of Fraywind Canyon Competition
+550097	550097001	Tempête de neige à l'horizon
+550098	550098001	La Fin du Berserker
+550099	550099001	Une grosse hache à aiguiser
+550100	550100001	Haché
+550101	550101001	Brise Froide
+550102	550102001	Bourreau Bourré
+550103	550103001	Cette hache ne peut même pas couper du bois !
+550104	550104001	Le pouvoir sans fin est surestimé
+550105	550105001	À bas le tyran !
+550106	550106001	Récompense de classement JcE Site d'exécution sanglant 1ère Place
+550107	550107001	Récompense de classement JcE Site d'exécution sanglant 2ème, 3ème place
+550108	550108001	Première place au classement du champ de bataille - Blitz Barrage
+550109	550109001	2ème, 3ème place au classement du champ de bataille - Blitz Barrage
+550110	550110001	Légionnaire de la Mort
+550111	550111001	Légionnaire de la Mort
+550112	550112001	Légionnaire de la Mort
+550113	550113001	Légionnaire de la Mort
+550114	550114001	Légionnaire de la Mort
+550115	550115001	Légionnaire de la Mort
+550116	550116001	Légionnaire de la Mort
+550117	550117001	Légionnaire de la Mort
+550118	550118001	Légionnaire de la Mort
+550119	550119001	Légionnaire de la Mort
+550120	550120001	Légionnaire de la Mort
+550121	550121001	Légionnaire de la Mort
+550122	550122001	Légionnaire de la Mort
+550123	550123001	De retour à la vie, de retour à la colère
+550124	550124001	Rencontre avec l'Âme de Baharr
+550125	550125001	Survie du plus apte
+550126	550126001	Survie du plus apte
+550127	550127001	Survie du plus apte
+550128	550128001	Survie du plus apte
+550129	550129001	Survie du plus apte
+550130	550130001	Survie du plus apte
+550131	550131001	Survie du plus apte
+550132	550132001	Survie du plus apte
+550133	550133001	Survie du plus apte
+550134	550134001	Survie du plus apte
+550135	550135001	Survie du plus apte
+550136	550136001	Survie du plus apte
+550137	550137001	Survie du plus apte
+550138	550138001	Addressing the Situation
+555000	55500001	Vengé les Nagas
+555001	55500011	Conseiller de la Reine
+555002	55500020	Vous n'êtes pas encore fatigué?
+555003	55500031	Bûcheron de Verno
+555004	55500041	Tout le monde aime les clowns!
+555005	55500051	Inoubliable
+555006	555006001	Les doigts dans le nez!
+555007	555007001	Surmonter le Pic de l'effroi
+555008	555008001	Dominateur du Pic de l'effroi
+555009	555009001	Plaisirs du Pic de l'effroi
+555010	555010001	Destructeur du Cristal Phantom
+555011	555011001	Ten-tacle moi plutôt!
+555012	555012001	J'ai trouvé un ami!
+555559	55559001	Sommes nous seul ici?
+555561	55560101	Visitez Hydrangea
+555562	55560201	Visitez le Jardin de Seren
+555563	55556301	Un, deux, trois, c'est reparti..
+555564	55556401	Le feu est mon ami
+555565	55556501	Perdu dans l'Abîme
+555566	55556601	Une petite der'?
+555567	55556701	Aventurier Novice
+555568	55556801	Ami de Confiance
+555569	55556901	Protecteur Valeureux
+555570	55557001	Héro de l'Initiative
+555600	55560001	Un monde au-delà du nôtre
+800000	800000001	Titre personnel
+800001	800000001	Titre personnel
+800002	800000001	Titre personnel
+800003	800000001	Titre personnel
+800004	800000001	Titre personnel
+800005	800000001	Titre personnel
+800006	800000001	Titre personnel
+800007	800000001	Titre personnel
+800008	800000001	Titre personnel
+800009	800000001	Titre personnel
+800010	800000001	Titre personnel
+800011	800000001	Titre personnel
+800012	800000001	Titre personnel
+800013	800000001	Titre personnel
+800014	800000001	Titre personnel
+800015	800000001	Titre personnel
+800016	800000001	Titre personnel
+800017	800000001	Titre personnel
+800018	800000001	Titre personnel
+800019	800000001	Titre personnel
+800020	800000001	Titre personnel
+800021	800000001	Titre personnel
+800022	800000001	Titre personnel
+800023	800000001	Titre personnel
+800024	800000001	Titre personnel
+800025	800000001	Titre personnel
+800026	800000001	Titre personnel
+800027	800000001	Titre personnel
+800028	800000001	Titre personnel
+800029	800000001	Titre personnel
+800030	800000001	Titre personnel
+800031	800000001	Titre personnel
+800032	800000001	Titre personnel
+800033	800000001	Titre personnel
+800034	800000001	Titre personnel
+800035	800000001	Titre personnel
+800036	800000001	Titre personnel
+800037	800000001	Titre personnel
+800038	800000001	Titre personnel
+800039	800000001	Titre personnel
+800040	800000001	Titre personnel
+800041	800000001	Titre personnel
+800042	800000001	Titre personnel
+800043	800000001	Titre personnel
+800044	800000001	Titre personnel
+800045	800000001	Titre personnel
+800046	800000001	Titre personnel
+800047	800000001	Titre personnel
+800048	800000001	Titre personnel
+800049	800000001	Titre personnel
+800050	800000001	Titre personnel
+800051	800000001	Titre personnel
+800052	800000001	Titre personnel
+800053	800000001	Titre personnel
+800054	800000001	Titre personnel
+800055	800000001	Titre personnel
+800056	800000001	Titre personnel
+800057	800000001	Titre personnel
+800058	800000001	Titre personnel
+800059	800000001	Titre personnel
+800060	800000001	Titre personnel
+800061	800000001	Titre personnel
+800062	800000001	Titre personnel
+800063	800000001	Titre personnel
+800064	800000001	Titre personnel
+800065	800000001	Titre personnel
+800066	800000001	Titre personnel
+800067	800000001	Titre personnel
+800068	800000001	Titre personnel
+800069	800000001	Titre personnel
+800070	800000001	Titre personnel
+800071	800000001	Titre personnel
+800072	800000001	Titre personnel
+800073	800000001	Titre personnel
+800074	800000001	Titre personnel
+800075	800000001	Titre personnel
+800076	800000001	Titre personnel
+800077	800000001	Titre personnel
+800078	800000001	Titre personnel
+800079	800000001	Titre personnel

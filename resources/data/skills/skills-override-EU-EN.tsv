@@ -1,0 +1,1868 @@
+60340120	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+8400015	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+8400060	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+8400080	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+8400100	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+8400120	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+51016	Common	Common	Gunner	Burst Fire X!	False		icon_skills.gatlingshot_tex
+51026	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
+51036	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
+61122	Common	Common	Gunner	Time Bomb XI!	False	Boom	icon_skills.timebombshot_tex
+71121	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
+71122	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
+410131	Common	Common	Warrior	Aerial Scythe!	False	hit 2	icon_skills.tumblingattack_tex
+80611	Common	Common	Archer	Rapid Fire!	False	hit 1	icon_skills.rapidshot_tex
+80612	Common	Common	Archer	Rapid Fire!	False	hit 2	icon_skills.rapidshot_tex
+80613	Common	Common	Archer	Rapid Fire!	False	hit 3	icon_skills.rapidshot_tex
+80614	Common	Common	Archer	Rapid Fire!	False	hit 4	icon_skills.rapidshot_tex
+360221	Common	Common	Sorcerer	Prime Flame	False	fire	icon_skills.primalfire_tex
+360222	Common	Common	Sorcerer	Prime Flame	False	force	icon_skills.primalfire_tex
+360224	Common	Common	Sorcerer	Prime Flame	False	ice	icon_skills.primalfire_tex
+220100	Common	Common	Archer	Final Salvo I	False		icon_skills.chainrapidshot_tex
+220200	Common	Common	Archer	Final Salvo II	False		icon_skills.chainrapidshot_tex
+220300	Common	Common	Archer	Final Salvo III	False		icon_skills.chainrapidshot_tex
+220400	Common	Common	Archer	Final Salvo IV	False		icon_skills.chainrapidshot_tex
+220500	Common	Common	Archer	Final Salvo V	False		icon_skills.chainrapidshot_tex
+220600	Common	Common	Archer	Final Salvo VI	False		icon_skills.chainrapidshot_tex
+220700	Common	Common	Archer	Final Salvo VII	False		icon_skills.chainrapidshot_tex
+220800	Common	Common	Archer	Final Salvo VIII	False		icon_skills.chainrapidshot_tex
+230100	Common	Common	Archer	Concussion Trap I	False		icon_skills.paralysistraparrow_tex
+230200	Common	Common	Archer	Concussion Trap II	False		icon_skills.paralysistraparrow_tex
+240100	Common	Common	Archer	Ensnaring Trap I	False		icon_skills.webtraparrow_tex
+240200	Common	Common	Archer	Ensnaring Trap II	False		icon_skills.webtraparrow_tex
+250100	Common	Common	Archer	Explosion Trap I	False		icon_skills.explosiontraparrow_tex
+250200	Common	Common	Archer	Explosion Trap II	False		icon_skills.explosiontraparrow_tex
+290100	Common	Common	Archer	Thunderbolt	False		icon_skills.thunderdrake_tex
+20100	Common	Common	Berserker	Axe Block	False		icon_skills.weapondefence_tex
+60100	Common	Common	Berserker	Staggering Strike I	False		icon_skills.turnback_tex
+60200	Common	Common	Berserker	Staggering Strike II	False		icon_skills.turnback_tex
+60300	Common	Common	Berserker	Staggering Strike III	False		icon_skills.turnback_tex
+60400	Common	Common	Berserker	Staggering Strike IV	False		icon_skills.turnback_tex
+60500	Common	Common	Berserker	Staggering Strike V	False		icon_skills.turnback_tex
+90100	Common	Common	Berserker	Triumphant Shout I			icon_skills.shout_tex
+90200	Common	Common	Berserker	Triumphant Shout II			icon_skills.shout_tex
+170100	Common	Common	Berserker	Flurry of Blows I			icon_skills.gatheringrage_tex
+170200	Common	Common	Berserker	Flurry of Blows II			icon_skills.gatheringrage_tex
+190100	Common	Common	Berserker	Tenacity I	False		icon_skills.tenacity_tex
+190200	Common	Common	Berserker	Tenacity II	False		icon_skills.tenacity_tex
+190300	Common	Common	Berserker	Tenacity III	False		icon_skills.tenacity_tex
+250100	Common	Common	Berserker	Raze	False		icon_skills.sideslash_tex
+111167	Common	Common	Common	Summon Pet: Candyspinner			icon_items.petskillbook_tex
+111172	Common	Common	Common	Summon: Quacklemore		mount	icon_skills.vehicle_ostrich_c01_tex
+111173	Common	Common	Common	Summon: Quacklemore		mount	icon_skills.vehicle_ostrich_c01_tex
+111174	Common	Common	Common	Summon: Dafi		mount	icon_skills.vehicle_ostrich_c02_tex
+111175	Common	Common	Common	Summon: Dafi		mount	icon_skills.vehicle_ostrich_c02_tex
+111200	Common	Common	Common	Summon: Waddles			icon_skills.trans_lion_white_tex
+111201	Common	Common	Common	Summon: Harry Porker			icon_skills.trans_lion_white_tex
+111204	Common	Common	Common	Summon: Blitz		mount	icon_skills.trans_lion_wolf_tex
+111205	Common	Common	Common	Summon: Glimmer		mount	icon_skills.trans_lion_wolf_gold_tex
+111206	Common	Common	Common	Summon: Temper		mount	icon_skills.trans_lion_wolf_gold_tex
+111207	Common	Common	Common	Summon: Cinder		mount	icon_skills.trans_lion_wolf_black_tex
+111208	Common	Common	Common	Summon: Slash		mount	icon_skills.trans_lion_wolf_metal_tex
+111209	Common	Common	Common	Summon: Baekho		mount	icon_skills.trans_tiger_a_tex
+111210	Common	Common	Common	Summon: Khan		mount	icon_skills.trans_tiger_b_tex
+111211	Common	Common	Common	Summon: Hobbes		mount	icon_skills.trans_tiger_c_tex
+111212	Common	Common	Common	Summon: Sundarban		mount	icon_skills.trans_tiger_d_tex
+111217	Common	Common	Common	Summon: Cinderstorm		mount	icon_skills.trans_lion_wolf_black_tex
+111224	Common	Common	Common	Summon: Shimmersoul		mount	icon_skills.trans_tiger_b_tex
+111225	Common	Common	Common	Summon: Fate		mount	icon_skills.trans_tiger_b_tex
+111226	Common	Common	Common	Summon: Shimmerheart		mount	icon_skills.trans_tiger_b_tex
+111227	Common	Common	Common	Summon: Tindersoul		mount	icon_skills.trans_tiger_d_tex
+111228	Common	Common	Common	Summon: Tinderclaw		mount	icon_skills.trans_tiger_d_tex
+111229	Common	Common	Common	Summon: Tinderheart		mount	icon_skills.trans_tiger_d_tex
+111230	Common	Common	Common	Summon: Silva		mount	icon_skills.worldcupgiant_bra_us_tex
+111231	Common	Common	Common	Summon: Ronaldo		mount	icon_skills.worldcupgiant_bra_w_us_tex
+111232	Common	Common	Common	Summon: Kwak		mount	icon_skills.worldcupgiant_kor_us_tex
+111233	Common	Common	Common	Summon: Park		mount	icon_skills.worldcupgiant_kor_w_us_tex
+111234	Common	Common	Common	Summon: Silva		mount	icon_skills.worldcupgiant_bra_us_tex
+111235	Common	Common	Common	Summon: Dante		mount	icon_skills.worldcupgiant_bra_us_tex
+111236	Common	Common	Common	Summon: Cesar		mount	icon_skills.worldcupgiant_bra_us_tex
+111237	Common	Common	Common	Summon: Oscar		mount	icon_skills.worldcupgiant_bra_us_tex
+111238	Common	Common	Common	Summon: Ronaldo		mount	icon_skills.worldcupgiant_bra_w_us_tex
+111239	Common	Common	Common	Summon: Lucio		mount	icon_skills.worldcupgiant_bra_w_us_tex
+111240	Common	Common	Common	Summon: Neymar			
+111241	Common	Common	Common	Summon: Pele		mount	icon_skills.worldcupgiant_bra_w_us_tex
+111242	Common	Common	Common	Summon: Kwak		mount	icon_skills.worldcupgiant_kor_us_tex
+111243	Common	Common	Common	Summon: Jung		mount	icon_skills.worldcupgiant_kor_us_tex
+111244	Common	Common	Common	Summon: Ji		mount	icon_skills.worldcupgiant_kor_us_tex
+111245	Common	Common	Common	Summon: Koo		mount	icon_skills.worldcupgiant_kor_us_tex
+111246	Common	Common	Common	Summon: Park		mount	icon_skills.worldcupgiant_kor_w_us_tex
+111247	Common	Common	Common	Summon: Lee		mount	icon_skills.worldcupgiant_kor_w_us_tex
+111248	Common	Common	Common	Summon: Ki		mount	icon_skills.worldcupgiant_kor_w_us_tex
+111249	Common	Common	Common	Summon: Hong		mount	icon_skills.worldcupgiant_kor_w_us_tex
+111250	Common	Common	Common	Summon: Neymar		mount	icon_skills.worldcupgiant_bra_w_us_tex
+111251	Common	Common	Common	Summon: Glory		mount	icon_skills.ookami_tex
+111252	Common	Common	Common	Summon: Gloryshine		mount	icon_skills.ookami_tex
+111253	Common	Common	Common	Summon: Gloryforce		mount	icon_skills.ookami_tex
+111254	Common	Common	Common	Summon: Gloryheart		mount	icon_skills.ookami_tex
+111256	Common	Common	Common	Summon: Snarl		mount	icon_skills.ookami_red_tex
+111257	Common	Common	Common	Summon: Snarlspring		mount	icon_skills.ookami_red_tex
+111258	Common	Common	Common	Summon: Snarlstorm		mount	icon_skills.ookami_red_tex
+111259	Common	Common	Common	Summon: Snarlheart		mount	icon_skills.ookami_red_tex
+111260	Common	Common	Common	Summon: Paddy		mount	icon_skills.vehicle_policecar_tex
+111261	Common	Common	Common	Summon: Fuzz		mount	icon_skills.vehicle_policecar_tex
+111262	Common	Common	Common	Summon: Fury		mount	icon_skills.vehicle_policecar_tex
+111263	Common	Common	Common	Summon: Axle		mount	icon_skills.vehicle_policecar_tex
+111264	Common	Common	Common	Summon: Rainbow		mount	icon_skills.unicon_tex
+111265	Common	Common	Common	Summon: Sleipnir		mount	icon_skills.horse_ice_tex
+111266	Common	Common	Common	Summon: Night Mare		mount	icon_skills.horseinferno_tex
+111267	Common	Common	Common	Summon: Boneshaker		mount	icon_skills.skeleton_horse_tex
+111268	Common	Common	Common	Summon: Snowdrift		mount	icon_skills.trans_snowleopard_tex
+111269	Common	Common	Common	Summon: Tawny Huntress		mount	icon_skills.trans_lioness_tex
+111270	Common	Common	Common	Summon: Crimson		mount	icon_skills.vehicle_kirin_tex
+111271	Common	Common	Common	Summon: Crimsonspring		mount	icon_skills.vehicle_kirin_tex
+111272	Common	Common	Common	Summon: Crimsonstorm		mount	icon_skills.vehicle_kirin_tex
+111273	Common	Common	Common	Summon: Crimsonheart		mount	icon_skills.vehicle_kirin_tex
+111274	Common	Common	Common	Summon: Porter		mount	icon_skills.vehicle_kumas_b_tex
+111275	Common	Common	Common	Summon: Porterspring		mount	icon_skills.vehicle_kumas_b_tex
+111276	Common	Common	Common	Summon: Porterstorm		mount	icon_skills.vehicle_kumas_b_tex
+111277	Common	Common	Common	Summon: Porterheart		mount	icon_skills.vehicle_kumas_b_tex
+111278	Common	Common	Common	Summon: Blithe		mount	icon_skills.vehicle_kumas_a_tex
+111279	Common	Common	Common	Summon: Blithespring		mount	icon_skills.vehicle_kumas_a_tex
+111280	Common	Common	Common	Summon: Blithestorm		mount	icon_skills.vehicle_kumas_a_tex
+111281	Common	Common	Common	Summon: Blitheheart		mount	icon_skills.vehicle_kumas_a_tex
+111282	Common	Common	Common	Summon: Flurry		mount	icon_skills.vehicle_snowman_tex
+111283	Common	Common	Common	Summon: Flurryspring		mount	icon_skills.vehicle_snowman_tex
+111284	Common	Common	Common	Summon: Flurrystorm		mount	icon_skills.vehicle_snowman_tex
+111285	Common	Common	Common	Summon: Flurryheart		mount	icon_skills.vehicle_snowman_tex
+111286	Common	Common	Common	Summon: Merry		mount	icon_skills.vehicle_kumas_a_tex
+111287	Common	Common	Common	Summon: Merryspring		mount	icon_skills.vehicle_kumas_a_tex
+111288	Common	Common	Common	Summon: Merrystorm		mount	icon_skills.vehicle_kumas_a_tex
+111289	Common	Common	Common	Summon: Merryheart		mount	icon_skills.vehicle_kumas_a_tex
+111290	Common	Common	Common	Summon: Frost		mount	icon_skills.vehicle_snowman_tex
+111291	Common	Common	Common	Summon: Frostspring		mount	icon_skills.vehicle_snowman_tex
+111292	Common	Common	Common	Summon: Froststorm		mount	icon_skills.vehicle_snowman_tex
+111293	Common	Common	Common	Summon: Frostheart		mount	icon_skills.vehicle_snowman_tex
+111294	Common	Common	Common	Summon: Aurum		mount	icon_skills.vehicle_kirin_gold_tex
+111295	Common	Common	Common	Summon: Aurumspring		mount	icon_skills.vehicle_kirin_gold_tex
+111296	Common	Common	Common	Summon: Aurumstorm		mount	icon_skills.vehicle_kirin_gold_tex
+111297	Common	Common	Common	Summon: Aurumheart		mount	icon_skills.vehicle_kirin_gold_tex
+111298	Common	Common	Common	Summon: Softail		mount	icon_skills.vehicle_pig_d_gold_tex
+111299	Common	Common	Common	Summon: Fat Boy		mount	icon_skills.vehicle_pig_d_gold_tex
+111301	Common	Common	Common	Summon: Trotter		mount	icon_skills.vehicle_pig_d_gold_tex
+111302	Common	Common	Common	Summon: Roddie		mount	icon_skills.vehicle_pig_d_gold_tex
+111303	Common	Common	Common	Summon: White Warhorse		mount	icon_skills.vehicle_horse_white_tex
+111304	Common	Common	Common	Summon: Velik's Festive Warhorse		mount	icon_skills.vehicle_horse_glod_tex
+111305	Common	Common	Common	Summon: Gray Direwolf		mount	icon_skills.trans_lion_wolf_tex
+111306	Common	Common	Common	Summon: Silver Direwolf		mount	icon_skills.trans_lion_wolf_metal_tex
+111307	Common	Common	Common	Summon: Dusky Beetle		mount	icon_skills.vehicle_beetle_a_tex
+111308	Common	Common	Common	Summon: Lime Grumpy Beetle		mount	icon_skills.vehicle_beetle_b_tex
+111309	Common	Common	Common	Summon: Teal Sleepy Beetle		mount	icon_skills.vehicle_beetle_c_tex
+111310	Common	Common	Common	Summon: Blue-Collar Piglet		mount	icon_skills.vehicle_pig_tex
+111311	Common	Common	Common	Summon: Four-Eyed Smarty Piglet		mount	icon_skills.vehicle_pig_a_tex
+111312	Common	Common	Common	Summon: Crowned Black Piglet		mount	icon_skills.vehicle_pig_b_tex
+111313	Common	Common	Common	Summon: Hana the Piglet		mount	icon_skills.vehicle_pig_c_tex
+111314	Common	Common	Common	Summon: Tuxedo Cat		mount	icon_skills.vehicle_cat_a_tex
+111315	Common	Common	Common	Summon: Orange Prince Cat		mount	icon_skills.vehicle_cat_b_tex
+111316	Common	Common	Common	Summon: Tabby Cat		mount	icon_skills.vehicle_cat_c_tex
+111317	Common	Common	Common	Summon: Snow Leopard		mount	icon_skills.trans_snowleopard_tex
+111318	Common	Common	Common	Summon: Ariel the Lion		mount	icon_skills.trans_lioness_tex
+111319	Common	Common	Common	Summon: White Tiger		mount	icon_skills.trans_tiger_a_tex
+111320	Common	Common	Common	Summon: Fierce Tiger		mount	icon_skills.trans_tiger_c_tex
+111321	Common	Common	Common	Summon: White Bear		mount	icon_skills.vehicle_bear_a_tex
+111322	Common	Common	Common	Summon: Brown Bear		mount	icon_skills.vehicle_bear_b_tex
+111323	Common	Common	Common	Summon: Panda		mount	icon_skills.vehicle_bear_c_tex
+111324	Common	Common	Common	Summon: Sports Car 3.3: Mighty Yellow		mount	icon_skills.vehicle_sportcar_tex
+111325	Common	Common	Common	Summon: Sports Car 3.3: Daredevil Red		mount	icon_skills.vehicle_sportcar_b_tex
+111326	Common	Common	Common	Summon: Sports Car 3.3: Courier Black		mount	icon_skills.vehicle_sportcar_a_tex
+111327	Common	Common	Common	Summon: Moonlight Bird		mount	icon_skills.vehicle_ostrich_tex
+111328	Common	Common	Common	Summon: Infernal Bird		mount	icon_skills.vehicle_ostrich_b_tex
+111329	Common	Common	Common	Summon: Winter Beanie Duck		mount	icon_skills.vehicle_ostrich_a_tex
+111330	Common	Common	Common	Summon: Sporty Cap Duck		mount	icon_skills.vehicle_ostrich_a01_tex
+111331	Common	Common	Common	Summon: Hello Kitty Squealer			icon_skills.vehicle_pig_kitty_tex
+111332	Common	Common	Common	Summon: Hello Kitty Snuffles			icon_skills.vehicle_pig_kitty_tex
+111333	Common	Common	Common	Summon: Hello Kitty Wallers			icon_skills.vehicle_pig_kitty_tex
+111334	Common	Common	Common	Summon: Hello Kitty Sweetums			icon_skills.vehicle_pig_kitty_tex
+111335	Common	Common	Common	Summon: Hello Kitty Noble Squealer			icon_skills.vehicle_pig_kitty_tex
+111399	Common	Common	Common	Summon: Moonhopper			icon_skills.vehicle_bunnyinthemoon_a_tex
+116002	Common	Common	Common	Summon: Noble Specter		mount	icon_skills.trans_lion_wolf_ghost_tex
+116003	Common	Common	Common	Summon: Noble Aether		mount	icon_skills.vehicle_kirin_ghost_tex
+116004	Common	Common	Common	Summon: Noble Ghost		mount	icon_skills.ookami_ghost_tex
+118000	Common	Common	Common	Summon: Federation Supply: Training Warhorse		mount	icon_skills.mounthorse01_tex
+1111532	Common	Common	Common	Summon: Blitz		mount	icon_skills.trans_lion_wolf_tex
+1111533	Common	Common	Common	Summon: Baekho		mount	icon_skills.trans_tiger_a_tex
+1111534	Common	Common	Common	Summon: Khan		mount	icon_skills.trans_tiger_b_tex
+1111535	Common	Common	Common	Summon: Hobbes		mount	icon_skills.trans_tiger_c_tex
+1111536	Common	Common	Common	Summon: Sundarban		mount	icon_skills.trans_tiger_d_tex
+2222537	Common	Common	Common	Summon: Glimmer		mount	icon_skills.trans_lion_wolf_gold_tex
+2222538	Common	Common	Common	Summon: Temper		mount	icon_skills.trans_lion_wolf_gold_tex
+2222539	Common	Common	Common	Summon: Cinder		mount	icon_skills.trans_lion_wolf_black_tex
+2222540	Common	Common	Common	Summon: Slash		mount	icon_skills.trans_lion_wolf_metal_tex
+2222541	Common	Common	Common	Summon: Slashburn		mount	icon_skills.trans_lion_wolf_metal_tex
+2222553	Common	Common	Common	Summon: Cinderstorm		mount	icon_skills.trans_lion_wolf_black_tex
+2222554	Common	Common	Common	Summon: Cinderstorm		mount	icon_skills.trans_lion_wolf_black_tex
+2222569	Common	Common	Common	Summon: Moonglow		mount	icon_skills.trans_tiger_a_tex
+2222570	Common	Common	Common	Summon: Shimmer		mount	icon_skills.trans_tiger_b_tex
+2222571	Common	Common	Common	Summon: Sunchaser		mount	icon_skills.trans_tiger_c_tex
+2222572	Common	Common	Common	Summon: Tinder		mount	icon_skills.trans_tiger_d_tex
+2222573	Common	Common	Common	Summon: Shimmersoul		mount	icon_skills.trans_tiger_b_tex
+2222574	Common	Common	Common	Summon: Shimmersoul		mount	icon_skills.trans_tiger_b_tex
+2222575	Common	Common	Common	Summon: Fate		mount	icon_skills.trans_tiger_b_tex
+2222576	Common	Common	Common	Summon: Fate		mount	icon_skills.trans_tiger_b_tex
+2222577	Common	Common	Common	Summon: Shimmerheart		mount	icon_skills.trans_tiger_b_tex
+2222578	Common	Common	Common	Summon: Shimmerheart		mount	icon_skills.trans_tiger_b_tex
+2222579	Common	Common	Common	Summon: Tindersoul		mount	icon_skills.trans_tiger_d_tex
+2222580	Common	Common	Common	Summon: Tindersoul		mount	icon_skills.trans_tiger_d_tex
+2222581	Common	Common	Common	Summon: Tinderclaw		mount	icon_skills.trans_tiger_d_tex
+2222582	Common	Common	Common	Summon: Tinderclaw		mount	icon_skills.trans_tiger_d_tex
+2222583	Common	Common	Common	Summon: Tinderheart		mount	icon_skills.trans_tiger_d_tex
+2222584	Common	Common	Common	Summon: Tinderheart		mount	icon_skills.trans_tiger_d_tex
+2222585	Common	Common	Common	Summon: Silva		mount	icon_skills.worldcupgiant_bra_us_tex
+2222586	Common	Common	Common	Summon: Dante		mount	icon_skills.worldcupgiant_bra_us_tex
+2222587	Common	Common	Common	Summon: Cesar		mount	icon_skills.worldcupgiant_bra_us_tex
+2222588	Common	Common	Common	Summon: Oscar		mount	icon_skills.worldcupgiant_bra_us_tex
+2222589	Common	Common	Common	Summon: Silva		mount	icon_skills.worldcupgiant_bra_us_tex
+2222590	Common	Common	Common	Summon: Dante		mount	icon_skills.worldcupgiant_bra_us_tex
+2222591	Common	Common	Common	Summon: Cesar		mount	icon_skills.worldcupgiant_bra_us_tex
+2222592	Common	Common	Common	Summon: Oscar		mount	icon_skills.worldcupgiant_bra_us_tex
+2222593	Common	Common	Common	Summon: Ronaldo		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222594	Common	Common	Common	Summon: Lucio		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222595	Common	Common	Common	Summon: Neymar		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222596	Common	Common	Common	Summon: Pele		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222597	Common	Common	Common	Summon: Ronaldo		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222598	Common	Common	Common	Summon: Lucio		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222599	Common	Common	Common	Summon: Neymar		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222600	Common	Common	Common	Summon: Pele		mount	icon_skills.worldcupgiant_bra_w_us_tex
+2222601	Common	Common	Common	Summon: Kwak		mount	icon_skills.worldcupgiant_kor_us_tex
+2222602	Common	Common	Common	Summon: Jung		mount	icon_skills.worldcupgiant_kor_us_tex
+2222603	Common	Common	Common	Summon: Ji		mount	icon_skills.worldcupgiant_kor_us_tex
+2222604	Common	Common	Common	Summon: Koo		mount	icon_skills.worldcupgiant_kor_us_tex
+2222605	Common	Common	Common	Summon: Kwak		mount	icon_skills.worldcupgiant_kor_us_tex
+2222606	Common	Common	Common	Summon: Jung		mount	icon_skills.worldcupgiant_kor_us_tex
+2222607	Common	Common	Common	Summon: Ji		mount	icon_skills.worldcupgiant_kor_us_tex
+2222608	Common	Common	Common	Summon: Koo		mount	icon_skills.worldcupgiant_kor_us_tex
+2222609	Common	Common	Common	Summon: Park		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222610	Common	Common	Common	Summon: Lee		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222611	Common	Common	Common	Summon: Ki		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222612	Common	Common	Common	Summon: Hong		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222613	Common	Common	Common	Summon: Park		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222614	Common	Common	Common	Summon: Lee		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222615	Common	Common	Common	Summon: Ki		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222616	Common	Common	Common	Summon: Hong		mount	icon_skills.worldcupgiant_kor_w_us_tex
+2222617	Common	Common	Common	Summon: Glory		mount	icon_skills.ookami_tex
+2222618	Common	Common	Common	Summon: Glory		mount	icon_skills.ookami_tex
+2222619	Common	Common	Common	Summon: Gloryshine		mount	icon_skills.ookami_tex
+2222620	Common	Common	Common	Summon: Gloryshine		mount	icon_skills.ookami_tex
+2222621	Common	Common	Common	Summon: Gloryforce		mount	icon_skills.ookami_tex
+2222622	Common	Common	Common	Summon: Gloryforce		mount	icon_skills.ookami_tex
+2222623	Common	Common	Common	Summon: Gloryheart		mount	icon_skills.ookami_tex
+2222624	Common	Common	Common	Summon: Gloryheart		mount	icon_skills.ookami_tex
+2222626	Common	Common	Common	Summon: Snarl		mount	icon_skills.ookami_red_tex
+2222627	Common	Common	Common	Summon: Snarl		mount	icon_skills.ookami_red_tex
+2222628	Common	Common	Common	Summon: Snarlspring		mount	icon_skills.ookami_red_tex
+2222629	Common	Common	Common	Summon: Snarlspring		mount	icon_skills.ookami_red_tex
+2222630	Common	Common	Common	Summon: Snarlstorm		mount	icon_skills.ookami_red_tex
+2222631	Common	Common	Common	Summon: Snarlstorm		mount	icon_skills.ookami_red_tex
+2222632	Common	Common	Common	Summon: Snarlheart		mount	icon_skills.ookami_red_tex
+2222633	Common	Common	Common	Summon: Snarlheart		mount	icon_skills.ookami_red_tex
+2222636	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222637	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222638	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222639	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222640	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222641	Common	Common	Common	Summon: Police Car		mount	icon_skills.vehicle_policecar_tex
+2222642	Common	Common	Common	Summon: Rainbow		mount	icon_skills.unicon_tex
+2222643	Common	Common	Common	Summon: Sleipnir		mount	icon_skills.horse_ice_tex
+2222644	Common	Common	Common	Summon: Night Mare		mount	icon_skills.horseinferno_tex
+2222645	Common	Common	Common	Summon: Boneshaker		mount	icon_skills.skeleton_horse_tex
+2222646	Common	Common	Common	Summon: Snowdrift		mount	icon_skills.trans_snowleopard_tex
+2222647	Common	Common	Common	Summon: Tawny Huntress		mount	icon_skills.trans_lioness_tex
+2222648	Common	Common	Common	Summon: Crimson		mount	icon_skills.vehicle_kirin_tex
+2222649	Common	Common	Common	Summon: Crimson		mount	icon_skills.vehicle_kirin_tex
+2222650	Common	Common	Common	Summon: Crimsonspring		mount	icon_skills.vehicle_kirin_tex
+2222651	Common	Common	Common	Summon: Crimsonspring		mount	icon_skills.vehicle_kirin_tex
+2222652	Common	Common	Common	Summon: Crimsonstorm		mount	icon_skills.vehicle_kirin_tex
+2222653	Common	Common	Common	Summon: Crimsonstorm		mount	icon_skills.vehicle_kirin_tex
+2222654	Common	Common	Common	Summon: Crimsonheart		mount	icon_skills.vehicle_kirin_tex
+2222655	Common	Common	Common	Summon: Crimsonheart		mount	icon_skills.vehicle_kirin_tex
+2222656	Common	Common	Common	Summon: Porter		mount	icon_skills.vehicle_kumas_b_tex
+2222657	Common	Common	Common	Summon: Porter		mount	icon_skills.vehicle_kumas_b_tex
+2222658	Common	Common	Common	Summon: Porterspring		mount	icon_skills.vehicle_kumas_b_tex
+2222659	Common	Common	Common	Summon: Porterspring		mount	icon_skills.vehicle_kumas_b_tex
+2222660	Common	Common	Common	Summon: Porterstorm		mount	icon_skills.vehicle_kumas_b_tex
+2222661	Common	Common	Common	Summon: Porterstorm		mount	icon_skills.vehicle_kumas_b_tex
+2222662	Common	Common	Common	Summon: Porterheart		mount	icon_skills.vehicle_kumas_b_tex
+2222663	Common	Common	Common	Summon: Porterheart		mount	icon_skills.vehicle_kumas_b_tex
+2222664	Common	Common	Common	Summon: Blithe		mount	icon_skills.vehicle_kumas_a_tex
+2222665	Common	Common	Common	Summon: Blithe		mount	icon_skills.vehicle_kumas_a_tex
+2222666	Common	Common	Common	Summon: Blithespring		mount	icon_skills.vehicle_kumas_a_tex
+2222667	Common	Common	Common	Summon: Blithespring		mount	icon_skills.vehicle_kumas_a_tex
+2222668	Common	Common	Common	Summon: Blithestorm		mount	icon_skills.vehicle_kumas_a_tex
+2222669	Common	Common	Common	Summon: Blithestorm		mount	icon_skills.vehicle_kumas_a_tex
+2222670	Common	Common	Common	Summon: Blitheheart		mount	icon_skills.vehicle_kumas_a_tex
+2222671	Common	Common	Common	Summon: Blitheheart		mount	icon_skills.vehicle_kumas_a_tex
+2222672	Common	Common	Common	Summon: Flurry		mount	icon_skills.vehicle_snowman_tex
+2222673	Common	Common	Common	Summon: Flurry		mount	icon_skills.vehicle_snowman_tex
+2222674	Common	Common	Common	Summon: Flurryspring		mount	icon_skills.vehicle_snowman_tex
+2222675	Common	Common	Common	Summon: Flurryspring		mount	icon_skills.vehicle_snowman_tex
+2222676	Common	Common	Common	Summon: Flurrystorm		mount	icon_skills.vehicle_snowman_tex
+2222677	Common	Common	Common	Summon: Flurrystorm		mount	icon_skills.vehicle_snowman_tex
+2222678	Common	Common	Common	Summon: Flurryheart		mount	icon_skills.vehicle_snowman_tex
+2222679	Common	Common	Common	Summon: Flurryheart		mount	icon_skills.vehicle_snowman_tex
+2222680	Common	Common	Common	Summon: Merry		mount	icon_skills.vehicle_kumas_a_tex
+2222681	Common	Common	Common	Summon: Merry		mount	icon_skills.vehicle_kumas_a_tex
+2222682	Common	Common	Common	Summon: Merryspring		mount	icon_skills.vehicle_kumas_a_tex
+2222683	Common	Common	Common	Summon: Merryspring		mount	icon_skills.vehicle_kumas_a_tex
+2222684	Common	Common	Common	Summon: Merrystorm		mount	icon_skills.vehicle_kumas_a_tex
+2222685	Common	Common	Common	Summon: Merrystorm		mount	icon_skills.vehicle_kumas_a_tex
+2222686	Common	Common	Common	Summon: Merryheart		mount	icon_skills.vehicle_kumas_a_tex
+2222687	Common	Common	Common	Summon: Merryheart		mount	icon_skills.vehicle_kumas_a_tex
+2222688	Common	Common	Common	Summon: Frost		mount	icon_skills.vehicle_snowman_tex
+2222689	Common	Common	Common	Summon: Frost		mount	icon_skills.vehicle_snowman_tex
+2222690	Common	Common	Common	Summon: Frostspring		mount	icon_skills.vehicle_snowman_tex
+2222691	Common	Common	Common	Summon: Frostspring		mount	icon_skills.vehicle_snowman_tex
+2222692	Common	Common	Common	Summon: Froststorm		mount	icon_skills.vehicle_snowman_tex
+2222693	Common	Common	Common	Summon: Froststorm		mount	icon_skills.vehicle_snowman_tex
+2222694	Common	Common	Common	Summon: Frostheart		mount	icon_skills.vehicle_snowman_tex
+2222695	Common	Common	Common	Summon: Frostheart		mount	icon_skills.vehicle_snowman_tex
+2222696	Common	Common	Common	Summon: Aurum		mount	icon_skills.vehicle_kirin_gold_tex
+2222697	Common	Common	Common	Summon: Aurum		mount	icon_skills.vehicle_kirin_gold_tex
+2222698	Common	Common	Common	Summon: Aurumspring		mount	icon_skills.vehicle_kirin_gold_tex
+2222699	Common	Common	Common	Summon: Aurumspring		mount	icon_skills.vehicle_kirin_gold_tex
+2222700	Common	Common	Common	Summon: Aurumstorm		mount	icon_skills.vehicle_kirin_gold_tex
+2222701	Common	Common	Common	Summon: Aurumstorm		mount	icon_skills.vehicle_kirin_gold_tex
+2222702	Common	Common	Common	Summon: Aurumheart		mount	icon_skills.vehicle_kirin_gold_tex
+2222703	Common	Common	Common	Summon: Aurumheart		mount	icon_skills.vehicle_kirin_gold_tex
+2222704	Common	Common	Common	Summon: Softail		mount	icon_skills.vehicle_pig_d_gold_tex
+2222705	Common	Common	Common	Summon: Softail		mount	icon_skills.vehicle_pig_d_gold_tex
+2222706	Common	Common	Common	Summon: Fat Boy		mount	icon_skills.vehicle_pig_d_gold_tex
+2222707	Common	Common	Common	Summon: Fat Boy		mount	icon_skills.vehicle_pig_d_gold_tex
+2222708	Common	Common	Common	Summon: Trotter		mount	icon_skills.vehicle_pig_d_gold_tex
+2222709	Common	Common	Common	Summon: Trotter		mount	icon_skills.vehicle_pig_d_gold_tex
+2222710	Common	Common	Common	Summon: Roddie		mount	icon_skills.vehicle_pig_d_gold_tex
+2222711	Common	Common	Common	Summon: Roddie		mount	icon_skills.vehicle_pig_d_gold_tex
+3333015	Common	Common	Common	Summon Pet: Zero		eventseed	icon_items.gift_box04_tex
+3333016	Common	Common	Common	Summon Pet: Miss Katonic		eventseed	icon_items.gift_box04_tex
+3333017	Common	Common	Common	Summon Pet: Pinkie		eventseed	icon_items.gift_box04_tex
+3333018	Common	Common	Common	Summon Pet: Bonzai		eventseed	icon_items.gift_box04_tex
+3333019	Common	Common	Common	Summon Pet: Zero			icon_items.petskillbook_tex
+3333020	Common	Common	Common	Summon Pet: Miss Katonic			icon_items.petskillbook_tex
+3333021	Common	Common	Common	Summon Pet: Pinkie			icon_items.petskillbook_tex
+3333022	Common	Common	Common	Summon Pet: Bonzai			icon_items.petskillbook_tex
+3333023	Common	Common	Common	Summon Pet: Zero			icon_items.petskillbook_tex
+3333024	Common	Common	Common	Summon Pet: Rusty			icon_items.petskillbook_tex
+3333025	Common	Common	Common	Summon Pet: Rainie			icon_items.petskillbook_tex
+3333026	Common	Common	Common	Summon Pet: Bonzai			icon_items.petskillbook_tex
+3333027	Common	Common	Common	Summon Pet: Addams			icon_items.petskillbook_tex
+3333028	Common	Common	Common	Summon Pet: Rusty			icon_items.petskillbook_tex
+3333029	Common	Common	Common	Summon Pet: Rainie			icon_items.petskillbook_tex
+6001000	Common	Common	Common	Summon Pet: Miss Kitty			icon_items.petskillbook_tex
+6002000	Common	Common	Common	Summon Pet: Willoe			icon_items.petskillbook_tex
+6003000	Common	Common	Common	Summon Pet: Caiman			icon_items.petskillbook_tex
+6004000	Common	Common	Common	Summon Pet: Chef			icon_items.petskillbook_tex
+6005000	Common	Common	Common	Summon Pet: Rocky			icon_items.petskillbook_tex
+6006000	Common	Common	Common	Summon Pet: Madmartigan			icon_items.petskillbook_tex
+6007000	Common	Common	Common	Summon Pet: Bam Bam			icon_items.petskillbook_tex
+6008000	Common	Common	Common	Summon Pet: Bonzai			icon_items.petskillbook_tex
+6009000	Common	Common	Common	Summon Pet: Zero			icon_items.petskillbook_tex
+6010000	Common	Common	Common	Summon Pet: Clawd			icon_items.petskillbook_tex
+6010021	Common	Common	Common	Summon Hello Kitty Pet: Teacup			icon_skills.pet_pig_kitty_tex
+6010022	Common	Common	Common	Summon Hello Kitty Pet: Potbelly			icon_skills.pet_pig_kitty_tex
+6010023	Common	Common	Common	Summon Hello Kitty Pet: Precious			icon_skills.pet_pig_kitty_tex
+6011000	Common	Common	Common	Summon Pet: Juicy			icon_items.petskillbook_tex
+6012000	Common	Common	Common	Summon Pet: Flaps			icon_items.petskillbook_tex
+7001000	Common	Common	Common	Summon Pet: Zero (1-Day)			icon_items.petskillbook_tex
+7001001	Common	Common	Common	Summon Pet: Miss Katonic (1-Day)			icon_items.petskillbook_tex
+7001002	Common	Common	Common	Summon Pet: Pinkie (1-Day)			icon_items.petskillbook_tex
+7001003	Common	Common	Common	Summon Pet: Rusty (1-Day)			icon_items.petskillbook_tex
+7001004	Common	Common	Common	Summon Pet: Rainie (1-Day)			icon_items.petskillbook_tex
+7001005	Common	Common	Common	Summon Pet: Pinkie			icon_items.petskillbook_tex
+7001006	Common	Common	Common	Summon Pet: Rusty			icon_items.petskillbook_tex
+7001007	Common	Common	Common	Summon Pet: Rainie			icon_items.petskillbook_tex
+8400010	Common	Common	Common	Activate Noctenium Solution			icon_items.union_supplies5_tex
+8400050	Common	Common	Common	Summon: Brave Black Lion			icon_items.union_supplies5_tex
+8400051	Common	Common	Common	Summon: Loyal Black Lion			
+8400061	Common	Common	Common	Summon: Loyal Black Steed			
+8400070	Common	Common	Common	Summon: Glorious Black Lion			icon_items.union_supplies5_tex
+8500020	Common	Common	Common	Summon: Glorious White Lion			
+8500030	Common	Common	Common	Summon: Glorious White Steed			
+11117100	Common	Common	Common	Summon Regulus		mount	icon_skills.trans_lion_lord_tex
+12200001	Common	Common	Common	Summon: Iron Dragon		mount	icon_equipments.vehicle_dragon_a_tex
+12200002	Common	Common	Common	Summon: Crimson Dragon		mount	icon_equipments.vehicle_dragon_b_tex
+12200003	Common	Common	Common	Summon: Ghost Dragon		mount	icon_equipments.vehicle_dragon_c_tex
+12200004	Common	Common	Common	Summon: Diamond Dragon		mount	icon_equipments.vehicle_dragon_d_tex
+12200005	Common	Common	Common	Summon: Royal Iron Dragon		mount	icon_equipments.vehicle_dragon_a_tex
+12200006	Common	Common	Common	Summon: Crimsonscale		mount	icon_equipments.vehicle_dragon_b_tex
+12200007	Common	Common	Common	Summon: Royal Ghost Dragon		mount	icon_equipments.vehicle_dragon_c_tex
+12200008	Common	Common	Common	Summon: Royal Diamond Dragon		mount	icon_equipments.vehicle_dragon_d_tex
+12200009	Common	Common	Common	Summon: Iron Dragon		mount	icon_equipments.vehicle_dragon_a_tex
+12200010	Common	Common	Common	Summon: Crimson Dragon		mount	icon_equipments.vehicle_dragon_b_tex
+12200011	Common	Common	Common	Summon: Ghost Dragon		mount	icon_equipments.vehicle_dragon_c_tex
+12200012	Common	Common	Common	Summon: Diamond Dragon		mount	icon_equipments.vehicle_dragon_d_tex
+12200013	Common	Common	Common	Summon: Royal Iron Dragon		mount	icon_equipments.vehicle_dragon_a_tex
+12200014	Common	Common	Common	Summon: Crimsonscale		mount	icon_equipments.vehicle_dragon_b_tex
+12200017	Common	Common	Common	Summon: Ironhide		mount	icon_equipments.vehicle_dragon_a_tex
+12200018	Common	Common	Common	Summon: Crimsonhide		mount	icon_equipments.vehicle_dragon_b_tex
+12200019	Common	Common	Common	Summon: Necroshade		mount	icon_equipments.vehicle_dragon_c_tex
+12200020	Common	Common	Common	Summon: Glitterclaw		mount	icon_equipments.vehicle_dragon_d_tex
+12200021	Common	Common	Common	Summon: Ironwing		mount	icon_equipments.vehicle_dragon_a_tex
+12200022	Common	Common	Common	Summon: Crimsonwing		mount	icon_equipments.vehicle_dragon_b_tex
+12200023	Common	Common	Common	Summon: Dracolich		mount	icon_equipments.vehicle_dragon_c_tex
+12200024	Common	Common	Common	Summon: Glitterwing		mount	icon_equipments.vehicle_dragon_d_tex
+12200025	Common	Common	Common	Summon: Ironhide		mount	icon_equipments.vehicle_dragon_a_tex
+12200026	Common	Common	Common	Summon: Crimsonhide		mount	icon_equipments.vehicle_dragon_b_tex
+12200027	Common	Common	Common	Summon: Necroshade		mount	icon_equipments.vehicle_dragon_c_tex
+12200028	Common	Common	Common	Summon: Glitterclaw		mount	icon_equipments.vehicle_dragon_d_tex
+12200029	Common	Common	Common	Summon: Ironwing		mount	icon_equipments.vehicle_dragon_a_tex
+12200030	Common	Common	Common	Summon: Crimsonwing		mount	icon_equipments.vehicle_dragon_b_tex
+12200031	Common	Common	Common	Summon: Dracolich		mount	icon_equipments.vehicle_dragon_c_tex
+12200032	Common	Common	Common	Summon: Glitterwing		mount	icon_equipments.vehicle_dragon_d_tex
+12200033	Common	Common	Common	Summon: Skycycle		mount	icon_skills.vehicle_bike_a00_tex
+12200034	Common	Common	Common	Summon: Jetcycle		mount	icon_skills.vehicle_bike_a00_tex
+12200035	Common	Common	Common	Summon: Bone Dragon		mount	icon_skills.vehicle_bonedragon_a_tex
+12200036	Common	Common	Common	Summon: Bonefury		mount	icon_skills.vehicle_bonedragon_a_tex
+12200039	Common	Common	Common	Summon: Boneclaw		mount	icon_skills.vehicle_bonedragon_a_tex
+12200040	Common	Common	Common	Summon: Bonewing		mount	icon_skills.vehicle_bonedragon_a_tex
+12200043	Common	Common	Common	Summon: Night Dragon		mount	icon_skills.vehicle_bonedragon_b_tex
+12200044	Common	Common	Common	Summon: Nightfury		mount	icon_skills.vehicle_bonedragon_b_tex
+12200047	Common	Common	Common	Summon: Nightclaw		mount	icon_skills.vehicle_bonedragon_b_tex
+12200048	Common	Common	Common	Summon: Nightwing		mount	icon_skills.vehicle_bonedragon_b_tex
+12200051	Common	Common	Common	Summon: Ultra Dragon		mount	icon_skills.vehicle_bonedragon_c_tex
+12200052	Common	Common	Common	Summon: Ultrafury		mount	icon_skills.vehicle_bonedragon_c_tex
+12200055	Common	Common	Common	Summon: Ultraclaw		mount	icon_skills.vehicle_bonedragon_c_tex
+12200056	Common	Common	Common	Summon: Ultrawing		mount	icon_skills.vehicle_bonedragon_c_tex
+12200059	Common	Common	Common	Summon: Astra Dragon		mount	icon_skills.vehicle_bonedragon_d_tex
+12200060	Common	Common	Common	Summon: Astrafury		mount	icon_skills.vehicle_bonedragon_d_tex
+12200063	Common	Common	Common	Summon: Astraclaw		mount	icon_skills.vehicle_bonedragon_d_tex
+12200064	Common	Common	Common	Summon: Astrawing		mount	icon_skills.vehicle_bonedragon_d_tex
+12200067	Common	Common	Common	Summon: Ash Dragon		mount	icon_skills.vehicle_bonedragon_e_tex
+12200068	Common	Common	Common	Summon: Ashfury		mount	icon_skills.vehicle_bonedragon_e_tex
+12200071	Common	Common	Common	Summon: Ashclaw		mount	icon_skills.vehicle_bonedragon_e_tex
+12200072	Common	Common	Common	Summon: Ashwing		mount	icon_skills.vehicle_bonedragon_e_tex
+12200075	Common	Common	Common	Summon: Azure Phoenix		mount	icon_skills.vehicle_phoenix_blue_tex
+12200076	Common	Common	Common	Summon: Urvog		mount	icon_skills.vehicle_phoenix_blue_tex
+12200079	Common	Common	Common	Summon: Blue Phoenix		mount	icon_skills.vehicle_phoenix_blue_tex
+12200080	Common	Common	Common	Summon: Sapphire Phoenix		mount	icon_skills.vehicle_phoenix_blue_tex
+12200083	Common	Common	Common	Summon: Blazing Phoenix		mount	icon_skills.vehicle_phoenix_red_tex
+12200084	Common	Common	Common	Summon: Pteryx		mount	icon_skills.vehicle_phoenix_red_tex
+12200087	Common	Common	Common	Summon: Red Phoenix		mount	icon_skills.vehicle_phoenix_red_tex
+12200088	Common	Common	Common	Summon: Fiery Phoenix		mount	icon_skills.vehicle_phoenix_red_tex
+12200103	Common	Common	Common	Summon: Elephant		mount	icon_skills.vehicle_elephant_tex
+12200105	Common	Common	Common	Summon: Tantor		mount	icon_skills.vehicle_elephant_tex
+12200121	Common	Common	Common	Summon: Combat Canary		mount	icon_skills.vehicle_bluebird_b_tex
+12200122	Common	Common	Common	Summon: Battle Canary		mount	icon_skills.vehicle_bluebird_b_tex
+12200125	Common	Common	Common	Summon: Yellow Songbird		mount	icon_skills.vehicle_bluebird_b_tex
+12200126	Common	Common	Common	Summon: Swift Canary		mount	icon_skills.vehicle_bluebird_b_tex
+12200129	Common	Common	Common	Summon: Combat Thrush		mount	icon_skills.vehicle_bluebird_a_tex
+12200130	Common	Common	Common	Summon: Battle Thrush		mount	icon_skills.vehicle_bluebird_a_tex
+12200133	Common	Common	Common	Summon: Blue Songbird		mount	icon_skills.vehicle_bluebird_a_tex
+12200134	Common	Common	Common	Summon: Swift Thrush		mount	icon_skills.vehicle_bluebird_a_tex
+12200137	Common	Common	Common	Summon: Easter Courier Bird		mount	icon_skills.vehicle_bluebird_c_tex
+12200140	Common	Common	Common	Summon: Azure Amrutat		mount	icon_skills.vehicle_corruptiondragon_a_tex
+12200142	Common	Common	Common	Summon: Azure Amrutat		mount	icon_skills.vehicle_corruptiondragon_a_tex
+12200144	Common	Common	Common	Summon: Crimson Amrutat		mount	icon_skills.vehicle_corruptiondragon_b_tex
+12200146	Common	Common	Common	Summon: Crimson Amrutat		mount	icon_skills.vehicle_corruptiondragon_b_tex
+12200148	Common	Common	Common	Summon: Dark Amrutat		mount	icon_skills.vehicle_corruptiondragon_c_tex
+12200150	Common	Common	Common	Summon: Dark Amrutat		mount	icon_skills.vehicle_corruptiondragon_c_tex
+12200152	Common	Common	Common	Summon: Azure Amrutat		mount	icon_skills.vehicle_corruptiondragon_a_tex
+12200154	Common	Common	Common	Summon: Azure Amrutat		mount	icon_skills.vehicle_corruptiondragon_a_tex
+12200156	Common	Common	Common	Summon: Crimson Amrutat		mount	icon_skills.vehicle_corruptiondragon_b_tex
+12200158	Common	Common	Common	Summon: Crimson Amrutat		mount	icon_skills.vehicle_corruptiondragon_b_tex
+12200160	Common	Common	Common	Summon: Dark Amrutat		mount	icon_skills.vehicle_corruptiondragon_c_tex
+12200162	Common	Common	Common	Summon: Dark Amrutat		mount	icon_skills.vehicle_corruptiondragon_c_tex
+12200164	Common	Common	Common	Summon: Kumos, Forest Guardian		mount	icon_skills.vehicle_kumas_c_tex
+12200166	Common	Common	Common	Summon: Scarlet Flame Beast		mount	icon_equipments.vehicle_statdragon_a_tex
+12200167	Common	Common	Common	Summon: Scarlet Flame Beast		mount	icon_equipments.vehicle_statdragon_a_tex
+12200170	Common	Common	Common	Summon: Scarlet Flame Beast		mount	icon_equipments.vehicle_statdragon_a_tex
+12200171	Common	Common	Common	Summon: Scarlet Flame Beast		mount	icon_equipments.vehicle_statdragon_a_tex
+12200174	Common	Common	Common	Summon: Frostflame Beast		mount	icon_skills.vehicle_statdragon_b_tex
+12200175	Common	Common	Common	Summon: Frostflame Beast		mount	icon_skills.vehicle_statdragon_b_tex
+12200178	Common	Common	Common	Summon: Frostflame Beast		mount	icon_skills.vehicle_statdragon_b_tex
+12200179	Common	Common	Common	Summon: Frostflame Beast		mount	icon_skills.vehicle_statdragon_b_tex
+12200182	Common	Common	Common	Summon: Golden Wyvern		mount	icon_equipments.vehicle_dragon_e_tex
+12200183	Common	Common	Common	Summon: Golden Wyvern		mount	icon_equipments.vehicle_dragon_e_tex
+12200186	Common	Common	Common	Summon: Golden Wyvern		mount	icon_equipments.vehicle_dragon_e_tex
+12200187	Common	Common	Common	Summon: Golden Wyvern		mount	icon_equipments.vehicle_dragon_e_tex
+12200190	Common	Common	Common	Summon: Crimson Flame Kirin		mount	icon_skills.vehicle_kirin_tex
+12200192	Common	Common	Common	Summon: Crimson Flame Kirin		mount	icon_skills.vehicle_kirin_tex
+12200194	Common	Common	Common	Summon: Jade Flame Kirin		mount	icon_skills.vehicle_kirin_green_tex
+12200196	Common	Common	Common	Summon: Jade Flame Kirin		mount	icon_skills.vehicle_kirin_green_tex
+12200198	Common	Common	Common	Summon: Obsidian Flame Kirin		mount	icon_skills.vehicle_kirin_w_black_tex
+12200200	Common	Common	Common	Summon: Obsidian Flame Kirin		mount	icon_skills.vehicle_kirin_w_black_tex
+12200202	Common	Common	Common	Summon: Winter Frost Wyvern		mount	icon_skills.vehicle_winterdragon_a_tex
+12200203	Common	Common	Common	Summon: Winter Frost Wyvern		mount	icon_skills.vehicle_winterdragon_b_tex
+12200206	Common	Common	Common	Summon: Winter Frost Wyvern		mount	icon_skills.vehicle_winterdragon_a_tex
+12200207	Common	Common	Common	Summon: Winter Frost Wyvern		mount	icon_skills.vehicle_winterdragon_b_tex
+12200210	Common	Common	Common	Summon: Christmas Bell Alpaca		mount	icon_skills.vehicle_llama_e_tex
+14000001	Common	Common	Common	Summon: Jade		mount	icon_skills.vehicle_kirin_green_tex
+14000002	Common	Common	Common	Summon: Jadespring		mount	icon_skills.vehicle_kirin_green_tex
+14000003	Common	Common	Common	Summon: Jadestorm		mount	icon_skills.vehicle_kirin_green_tex
+14000004	Common	Common	Common	Summon: Jadeheart		mount	icon_skills.vehicle_kirin_green_tex
+14000005	Common	Common	Common	Summon: Forge		mount	icon_skills.vehicle_kirin_black_tex
+14000006	Common	Common	Common	Summon: Forgeglow		mount	icon_skills.vehicle_kirin_black_tex
+14000007	Common	Common	Common	Summon: Forgeclaw		mount	icon_skills.vehicle_kirin_black_tex
+14000008	Common	Common	Common	Summon: Forgeheart		mount	icon_skills.vehicle_kirin_black_tex
+14000009	Common	Common	Common	Summon: Argent		mount	icon_skills.vehicle_kirin_silver_tex
+14000010	Common	Common	Common	Summon: Argentshine		mount	icon_skills.vehicle_kirin_silver_tex
+14000011	Common	Common	Common	Summon: Argentstorm		mount	icon_skills.vehicle_kirin_silver_tex
+14000012	Common	Common	Common	Summon: Argentheart		mount	icon_skills.vehicle_kirin_silver_tex
+14000013	Common	Common	Common	Summon: Ice		mount	icon_skills.vehicle_bear_a_tex
+14000014	Common	Common	Common	Summon: Iceshine		mount	icon_skills.vehicle_bear_a_tex
+14000015	Common	Common	Common	Summon: Iceclaw		mount	icon_skills.vehicle_bear_a_tex
+14000016	Common	Common	Common	Summon: Iceheart		mount	icon_skills.vehicle_bear_a_tex
+14000017	Common	Common	Common	Summon: Grizzle		mount	icon_skills.vehicle_bear_b_tex
+14000018	Common	Common	Common	Summon: Grizzlespring		mount	icon_skills.vehicle_bear_b_tex
+14000019	Common	Common	Common	Summon: Grizzleclaw		mount	icon_skills.vehicle_bear_b_tex
+14000020	Common	Common	Common	Summon: Grizzleheart		mount	icon_skills.vehicle_bear_b_tex
+14000021	Common	Common	Common	Summon: Ni Hao		mount	icon_skills.vehicle_bear_c_tex
+14000022	Common	Common	Common	Summon: Zhao Zhao		mount	icon_skills.vehicle_bear_c_tex
+14000023	Common	Common	Common	Summon: Feng Feng		mount	icon_skills.vehicle_bear_c_tex
+14000024	Common	Common	Common	Summon: Xin Xin		mount	icon_skills.vehicle_bear_c_tex
+14000042	Common	Common	Common	Summon: Classic Charger		mount	icon_skills.vehicle_sportcar_tex
+14000043	Common	Common	Common	Summon: Nitro Charger		mount	icon_skills.vehicle_sportcar_tex
+14000044	Common	Common	Common	Summon: Sport Charger		mount	icon_skills.vehicle_sportcar_tex
+14000045	Common	Common	Common	Summon: Muscle Charger		mount	icon_skills.vehicle_sportcar_tex
+14000046	Common	Common	Common	Summon: Classic Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14000047	Common	Common	Common	Summon: Nitro Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14000048	Common	Common	Common	Summon: Sport Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14000049	Common	Common	Common	Summon: Muscle Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14000050	Common	Common	Common	Summon: Classic Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14000051	Common	Common	Common	Summon: Nitro Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14000052	Common	Common	Common	Summon: Sport Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14000053	Common	Common	Common	Summon: Muscle Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100001	Common	Common	Common	Summon: Jade		mount	icon_skills.vehicle_kirin_green_tex
+14100002	Common	Common	Common	Summon: Jade		mount	icon_skills.vehicle_kirin_green_tex
+14100003	Common	Common	Common	Summon: Jadespring		mount	icon_skills.vehicle_kirin_green_tex
+14100004	Common	Common	Common	Summon: Jadespring		mount	icon_skills.vehicle_kirin_green_tex
+14100005	Common	Common	Common	Summon: Jadestorm		mount	icon_skills.vehicle_kirin_green_tex
+14100006	Common	Common	Common	Summon: Jadestorm		mount	icon_skills.vehicle_kirin_green_tex
+14100007	Common	Common	Common	Summon: Jadeheart		mount	icon_skills.vehicle_kirin_green_tex
+14100008	Common	Common	Common	Summon: Jadeheart		mount	icon_skills.vehicle_kirin_green_tex
+14100009	Common	Common	Common	Summon: Forge		mount	icon_skills.vehicle_kirin_black_tex
+14100010	Common	Common	Common	Summon: Forge		mount	icon_skills.vehicle_kirin_black_tex
+14100011	Common	Common	Common	Summon: Forgeglow		mount	icon_skills.vehicle_kirin_black_tex
+14100012	Common	Common	Common	Summon: Forgeglow		mount	icon_skills.vehicle_kirin_black_tex
+14100013	Common	Common	Common	Summon: Forgeclaw		mount	icon_skills.vehicle_kirin_black_tex
+14100014	Common	Common	Common	Summon: Forgeclaw		mount	icon_skills.vehicle_kirin_black_tex
+14100015	Common	Common	Common	Summon: Forgeheart		mount	icon_skills.vehicle_kirin_black_tex
+14100016	Common	Common	Common	Summon: Forgeheart		mount	icon_skills.vehicle_kirin_black_tex
+14100017	Common	Common	Common	Summon: Argent		mount	icon_skills.vehicle_kirin_silver_tex
+14100018	Common	Common	Common	Summon: Argent		mount	icon_skills.vehicle_kirin_silver_tex
+14100019	Common	Common	Common	Summon: Argentshine		mount	icon_skills.vehicle_kirin_silver_tex
+14100020	Common	Common	Common	Summon: Argentshine		mount	icon_skills.vehicle_kirin_silver_tex
+14100021	Common	Common	Common	Summon: Argentstorm		mount	icon_skills.vehicle_kirin_silver_tex
+14100022	Common	Common	Common	Summon: Argentstorm		mount	icon_skills.vehicle_kirin_silver_tex
+14100023	Common	Common	Common	Summon: Argentheart		mount	icon_skills.vehicle_kirin_silver_tex
+14100024	Common	Common	Common	Summon: Argentheart		mount	icon_skills.vehicle_kirin_silver_tex
+14100037	Common	Common	Common	Summon: Ice		mount	icon_skills.vehicle_bear_a_tex
+14100038	Common	Common	Common	Summon: Ice		mount	icon_skills.vehicle_bear_a_tex
+14100039	Common	Common	Common	Summon: Iceshine		mount	icon_skills.vehicle_bear_a_tex
+14100040	Common	Common	Common	Summon: Iceshine		mount	icon_skills.vehicle_bear_a_tex
+14100041	Common	Common	Common	Summon: Iceclaw		mount	icon_skills.vehicle_bear_a_tex
+14100042	Common	Common	Common	Summon: Iceclaw		mount	icon_skills.vehicle_bear_a_tex
+14100043	Common	Common	Common	Summon: Iceheart		mount	icon_skills.vehicle_bear_a_tex
+14100044	Common	Common	Common	Summon: Iceheart		mount	icon_skills.vehicle_bear_a_tex
+14100045	Common	Common	Common	Summon: Grizzle		mount	icon_skills.vehicle_bear_b_tex
+14100046	Common	Common	Common	Summon: Grizzle		mount	icon_skills.vehicle_bear_b_tex
+14100047	Common	Common	Common	Summon: Grizzlespring		mount	icon_skills.vehicle_bear_b_tex
+14100048	Common	Common	Common	Summon: Grizzlespring		mount	icon_skills.vehicle_bear_b_tex
+14100049	Common	Common	Common	Summon: Grizzleclaw		mount	icon_skills.vehicle_bear_b_tex
+14100050	Common	Common	Common	Summon: Grizzleclaw		mount	icon_skills.vehicle_bear_b_tex
+14100051	Common	Common	Common	Summon: Grizzleheart		mount	icon_skills.vehicle_bear_b_tex
+14100052	Common	Common	Common	Summon: Grizzleheart		mount	icon_skills.vehicle_bear_b_tex
+14100053	Common	Common	Common	Summon: Ni Hao		mount	icon_skills.vehicle_bear_c_tex
+14100054	Common	Common	Common	Summon: Ni Hao		mount	icon_skills.vehicle_bear_c_tex
+14100055	Common	Common	Common	Summon: Zhao Zhao		mount	icon_skills.vehicle_bear_c_tex
+14100056	Common	Common	Common	Summon: Zhao Zhao		mount	icon_skills.vehicle_bear_c_tex
+14100057	Common	Common	Common	Summon: Feng Feng		mount	icon_skills.vehicle_bear_c_tex
+14100058	Common	Common	Common	Summon: Feng Feng		mount	icon_skills.vehicle_bear_c_tex
+14100059	Common	Common	Common	Summon: Xin Xin		mount	icon_skills.vehicle_bear_c_tex
+14100060	Common	Common	Common	Summon: Xin Xin		mount	icon_skills.vehicle_bear_c_tex
+14100081	Common	Common	Common	Summon: Classic Charger		mount	icon_skills.vehicle_sportcar_tex
+14100082	Common	Common	Common	Summon: Classic Charger		mount	icon_skills.vehicle_sportcar_tex
+14100083	Common	Common	Common	Summon: Nitro Charger		mount	icon_skills.vehicle_sportcar_tex
+14100084	Common	Common	Common	Summon: Nitro Charger		mount	icon_skills.vehicle_sportcar_tex
+14100085	Common	Common	Common	Summon: Sport Charger		mount	icon_skills.vehicle_sportcar_tex
+14100086	Common	Common	Common	Summon: Sport Charger		mount	icon_skills.vehicle_sportcar_tex
+14100087	Common	Common	Common	Summon: Muscle Charger		mount	icon_skills.vehicle_sportcar_tex
+14100088	Common	Common	Common	Summon: Muscle Charger		mount	icon_skills.vehicle_sportcar_tex
+14100089	Common	Common	Common	Summon: Classic Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100090	Common	Common	Common	Summon: Classic Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100091	Common	Common	Common	Summon: Nitro Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100092	Common	Common	Common	Summon: Nitro Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100093	Common	Common	Common	Summon: Sport Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100094	Common	Common	Common	Summon: Sport Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100095	Common	Common	Common	Summon: Muscle Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100096	Common	Common	Common	Summon: Muscle Cruiser		mount	icon_skills.vehicle_sportcar_a_tex
+14100097	Common	Common	Common	Summon: Classic Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100098	Common	Common	Common	Summon: Classic Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100099	Common	Common	Common	Summon: Nitro Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100100	Common	Common	Common	Summon: Nitro Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100101	Common	Common	Common	Summon: Sport Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100102	Common	Common	Common	Summon: Sport Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100103	Common	Common	Common	Summon: Muscle Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14100104	Common	Common	Common	Summon: Muscle Racer		mount	icon_skills.vehicle_sportcar_b_tex
+14300002	Common	Common	Common	Summon: Nugget			icon_skills.pet_golden_pig_tex
+14300003	Common	Common	Common	Summon: Nugget			icon_skills.pet_golden_pig_tex
+15210001	Common	Common	Common	Summon: Topthorn		mount	icon_skills.vehicle_horse_black_tex
+17000002	Common	Common	Common	Summon: Shandra Manaya			
+17000003	Common	Common	Common	Summon: Baby Kelsaik			icon_servants.pet_kelsaik_tex
+17000004	Common	Common	Common	Summon Pet: Shandra Manaya			icon_servants.pet_shandramanaya_tex
+17000005	Common	Common	Common	Summon Pet: Baby Kelsaik			icon_servants.pet_kelsaik_tex
+17000006	Common	Common	Common	Summon Pet: Hemera, the Bright World-Dragon			icon_servants.pet_hemera_tex
+17000007	Common	Common	Common	Summon Pet: Eremes, the Dark World-Dragon			icon_servants.pet_eremes_tex
+17000008	Common	Common	Common	Summon: Hemera, the Bright World-Dragon			icon_servants.pet_hemera_tex
+17000009	Common	Common	Common	Summon: Eremes, the Dark World-Dragon			icon_servants.pet_eremes_tex
+17110000	Common	Common	Common	Summon: Llama B			
+17110001	Common	Common	Common	Summon: Llama D			
+17110002	Common	Common	Common	Summon: Llama A			
+17110003	Common	Common	Common	Summon: Llama C			
+17110004	Common	Common	Common	Summon: Friendship			
+17110005	Common	Common	Common	Summon: Ghost Horse Luminous			
+17110006	Common	Common	Common	Summon: Ghost Horse Black			
+17110007	Common	Common	Common	Summon: Ghost Horse Gold			
+17110008	Common	Common	Common	Summon: Ghost Horse White			
+17110009	Common	Common	Common	Summon: Ghost Horse Red			
+17110010	Common	Common	Common	Summon: Brave Black Steed			
+17110011	Common	Common	Common	Summon: Loyal Black Steed			
+17110012	Common	Common	Common	Summon: Topthorn			
+17110013	Common	Common	Common	Summon: Brave White Steed			
+17110014	Common	Common	Common	Summon: Loyal White Steed			
+17110015	Common	Common	Common	Summon: Pyrepelt			
+17110016	Common	Common	Common	Summon: Blazing Pyrepelt			
+17110017	Common	Common	Common	Summon: Polar Reindeer			
+17110018	Common	Common	Common	Summon: Moonshine			
+17110019	Common	Common	Common	Summon: Star Trail			
+17110020	Common	Common	Common	Summon: Argon Kelsaik			
+17110021	Common	Common	Common	Summon: Magnut			
+17110022	Common	Common	Common	Summon: Baby Kelsaik			
+17110023	Common	Common	Common	Summon: Resurrection Cruel Hound			
+17110024	Common	Common	Common	Summon: Kumas Begins			
+17110025	Common	Common	Common	Summon: Kabadur			
+17110026	Common	Common	Common	Summon: Ost			
+17110027	Common	Common	Common	Summon: Red Chimera of Lakan			
+17110028	Common	Common	Common	Summon: Hellbound Beast			
+17110029	Common	Common	Common	Summon: Elemental Kumas			
+17110030	Common	Common	Common	Summon: Veldeg			
+17110031	Common	Common	Common	Summon: Wax Spider			
+17110032	Common	Common	Common	Summon: Arachnea			
+17110033	Common	Common	Common	Summon: Magician Dragon			
+17110034	Common	Common	Common	Summon: Horned Basilisk			
+17110035	Common	Common	Common	Summon: Black Dragon			
+17110036	Common	Common	Common	Summon: Celestial Guardian			
+17110037	Common	Common	Common	Summon: Golden Celestial Guardian			
+17110038	Common	Common	Common	Summon: Barbossa			
+17110039	Common	Common	Common	Summon: Volcanus			
+17110040	Common	Common	Common	Summon: Volcanus A			
+17110041	Common	Common	Common	Summon: Blue Volcanus			
+17110042	Common	Common	Common	Summon: Beast Gergon			
+17110043	Common	Common	Common	Summon: Armadillo			
+17110044	Common	Common	Common	Summon: Female Basilisk			
+17110045	Common	Common	Common	Summon: Basilisk			
+17110046	Common	Common	Common	Summon: Halrath			
+17110047	Common	Common	Common	Summon: Thrall Lord			
+17110048	Common	Common	Common	Summon: Dreamhopper			
+17110049	Common	Common	Common	Summon: Starhopper			
+17110050	Common	Common	Common	Summon: Cheeks' Dragon Boat			
+17110051	Common	Common	Common	Summon: Kami			
+17110052	Common	Common	Common	Summon: Ancient Kami			
+17110053	Common	Common	Common	Summon: Qinglong			
+17110054	Common	Common	Common	Summon: Ancient Mighty Qinglong			
+17110055	Common	Common	Common	Summon: Feilong			
+17110056	Common	Common	Common	Summon: Ancient Mighty Feilong			
+17110057	Common	Common	Common	Summon: Golden Sheilong			
+17110058	Common	Common	Common	Summon: Darkwynder			
+17110059	Common	Common	Common	Summon: Heartwynder			
+17110060	Common	Common	Common	Summon: Starwynder			
+17110061	Common	Common	Common	Summon: Silverwynder			
+17110062	Common	Common	Common	Summon: Brave Black Lion			
+17110063	Common	Common	Common	Summon: Loyal Black Lion			
+17110064	Common	Common	Common	Summon: Glorious Black Lion			
+17110065	Common	Common	Common	Summon: Loyal White Lion			
+17110066	Common	Common	Common	Summon: Chimeric Frostshadow Tiger			
+17110067	Common	Common	Common	Summon: Almighty Chimeric Frostshadow Tiger			
+17110068	Common	Common	Common	Summon: Photon Fighter			
+17110069	Common	Common	Common	Summon: Guardex Fighter			
+17110070	Common	Common	Common	Summon: Rubex Fighter			
+17110071	Common	Common	Common	Summon: Quartex Fighter			
+17110072	Common	Common	Common	Summon: Mighty Tizia			
+17110073	Common	Common	Common	Summon: Fortune Skill: Ancient Mighty Tizia			
+17110074	Common	Common	Common	Summon: Noble Socks(Rare_Flower Effects)			
+17110075	Common	Common	Common	Summon: Saltyheart(Rare_Flower Effects)			
+17110076	Common	Common	Common	Summon: Sushi Cat Grey (Rare_Flower Effects)			
+17110077	Common	Common	Common	Summon: Gloom Drake			
+17110078	Common	Common	Common	Summon: F2 Hover Racer			
+17110079	Common	Common	Common	Summon: F1 Hover Racer			
+17110080	Common	Common	Common	Summon: Mournwing			
+17110081	Common	Common	Common	Summon: Golden Mournwing			
+17110082	Common	Common	Common	Summon: Carnelian Koinobori			
+17110083	Common	Common	Common	Summon: Carnelian Koi			
+17110084	Common	Common	Common	Summon: Aquamarine Koinobori			
+17110085	Common	Common	Common	Summon: Aquamarine Koi			
+17110086	Common	Common	Common	Summon: Onyx Koinobori			
+17110087	Common	Common	Common	Summon: Onyx Koi			
+17110088	Common	Common	Common	Summon: Gilded Koinobori			
+17110089	Common	Common	Common	Summon: Koinobori School			
+17110090	Common	Common	Common	Summon: Gilded Koinobori School			
+17110091	Common	Common	Common	Summon: Kylos			
+17110092	Common	Common	Common	Summon: Bloom Tail			
+17110093	Common	Common	Common	Summon: Black Ookami			
+17110094	Common	Common	Common	Summon: Green Ookami			
+17110095	Common	Common	Common	Summon: Pig Kitty			
+17110096	Common	Common	Common	Summon: Mighty Shandra Manaya			
+17110097	Common	Common	Common	Summon: Silent Shandra Manaya			
+17110098	Common	Common	Common	Summon: Destructive Shandra Manaya			
+17110099	Common	Common	Common	Summon: Windforce Shandra Manaya			
+17110100	Common	Common	Common	Summon: Revivified Shandra Manaya			
+17110101	Common	Common	Common	Summon: Pelagic Guardian			
+17110102	Common	Common	Common	Summon: Pelagic Lord			
+17110103	Common	Common	Common	Summon: UFO			
+17110104	Common	Common	Common	Summon: Stygian War Gryphon			
+17110105	Common	Common	Common	Summon: Almighty Stygian War Gryphon			
+17110106	Common	Common	Common	Summon: Empyrean War Gryphon			
+17110107	Common	Common	Common	Summon: Almighty Empyrean War Gryphon			
+17110108	Common	Common	Common	Summon: Almighty Twilight War Gryphon			
+17110109	Common	Common	Common	Summon: Ancient Tyflamosaurous Flex			
+17110110	Common	Common	Common	Summon: Ancient Frankensaurus Trex			
+17110111	Common	Common	Common	Summon: Ancient Bolansaurus Rox			
+17110112	Common	Common	Common	Summon: Rhinosaurus Vex			
+17110113	Common	Common	Common	Summon: Stitchosaurus Max			
+17110114	Common	Common	Common	Summon: Punkosaurus Rex			
+17110115	Common	Common	Common	Summon: Trans Lion			
+17110116	Common	Common	Common	Summon: Trans Lion			
+17110117	Common	Common	Common	Summon: Trans Lion			
+17110118	Common	Common	Common	Summon: Trans Lion			
+17110119	Common	Common	Common	Summon: Trans Lion			
+17110120	Common	Common	Common	Summon: Trans Lion			
+17110121	Common	Common	Common	Summon: Pig			
+17110122	Common	Common	Common	Summon: Pig A			
+17110123	Common	Common	Common	Summon: Pig B			
+17110124	Common	Common	Common	Summon: Pig C			
+17110125	Common	Common	Common	Summon: Hello Kitty Squealer			
+17110126	Common	Common	Common	Summon: Pig D			
+17110127	Common	Common	Common	Summon: Skill Manual: Pyrepelt			
+17110128	Common	Common	Common	Summon: Skill Manual: Blazing Pyrepelt			
+17110129	Common	Common	Common	Summon: Wrath Skill: Dragonsire Vergos			
+17110130	Common	Common	Common	Summon: Tantibus			
+17110131	Common	Common	Common	Summon: Golden Tantibus			
+17110132	Common	Common	Common	Summon: Capybara with Chick and Turtle			
+17110133	Common	Common	Common	Summon: Cozy Capybara with Chick			
+17110134	Common	Common	Common	Summon: Giant Halloween Kitty			
+17110135	Common	Common	Common	Summon: Capybara			
+17110136	Common	Common	Common	Summon: Fluffy Cloud			
+17110137	Common	Common	Common	Summon: Buzzer (Rare)			
+17110138	Common	Common	Common	Summon: Tweedle (Rare)			
+17110139	Common	Common	Common	Summon: Cutter (Rare)			
+17110140	Common	Common	Common	Summon: Vampire Throne			
+17110141	Common	Common	Common	Summon: Throne of the Underworld			
+17110142	Common	Common	Common	Summon: NX Kart			
+17110143	Common	Common	Common	Summon: NX Kart			
+17110144	Common	Common	Common	Summon: NX Kart			
+17110145	Common	Common	Common	Summon: NX Kart			
+17110146	Common	Common	Common	Summon: NX Kart			
+17110147	Common	Common	Common	Summon: Blue Racing Speedster			
+17110148	Common	Common	Common	Summon: Elin Spyder			
+17110149	Common	Common	Common	Summon: Mighty Free Flight			
+17110150	Common	Common	Common	Summon: Pink Fat Cat			
+17110151	Common	Common	Common	Summon: Fat Cat			
+17110152	Common	Common	Common	Summon: Green Shiba Inu			
+17110153	Common	Common	Common	Summon: Green Shiba Jet			
+17110154	Common	Common	Common	Summon: Black Shiba Inu			
+17110155	Common	Common	Common	Summon: Black Shiba Jet			
+17110156	Common	Common	Common	Summon: Cream Shiba Inu			
+17110157	Common	Common	Common	Summon: Cream Shiba Jet			
+17110158	Common	Common	Common	Summon: Experimental Turbo Massage Chair			
+17110159	Common	Common	Common	Summon: Heavy Metal Hell Sofa			
+17110160	Common	Common	Common	Summon: Gloom Broom			
+17110161	Common	Common	Common	Summon: Bloom Broom			
+17120000	Common	Common	Common	Summon Pet: Argonized Krakatox			
+17120001	Common	Common	Common	Summon Pet: Zolyn			
+17120002	Common	Common	Common	Summon Pet: Perimos			
+17120003	Common	Common	Common	Summon Pet: Argonized Salcata			
+17120004	Common	Common	Common	Summon Pet: Cerrus			
+17120005	Common	Common	Common	Summon Pet: Shadow Aman			
+17120006	Common	Common	Common	Summon Pet: Shadow Aman			
+17120007	Common	Common	Common	Summon Pet: Komainu			
+17120008	Common	Common	Common	Summon Pet: Normal Dakuryon			
+17120009	Common	Common	Common	Summon Pet: Normal Kelsaik			
+17120010	Common	Common	Common	Summon Pet: Rokdos			
+17120011	Common	Common	Common	Summon Pet: Argonized Akalath Travan			
+17120012	Common	Common	Common	Summon Pet: Kalioth			
+17120013	Common	Common	Common	Summon Pet: Meteonis			
+17120014	Common	Common	Common	Summon Pet: Umbradrax			
+17120015	Common	Common	Common	Summon Pet: Kavador			
+17120016	Common	Common	Common	Summon Pet: Bubbles			
+17120017	Common	Common	Common	Summon Pet: Cinn			
+17120018	Common	Common	Common	Summon Pet: White Puppy			
+17120019	Common	Common	Common	Summon Pet: King Blob			
+17120020	Common	Common	Common	Summon Pet: Bahaar			
+17120021	Common	Common	Common	Summon Pet: Moo			
+17120022	Common	Common	Common	Summon Pet: Baphomet			
+17120023	Common	Common	Common	Summon Pet: Argonized Balbatos			
+17120024	Common	Common	Common	Summon Pet: Shadow Baraka			
+17120025	Common	Common	Common	Summon Pet: Bites			
+17120026	Common	Common	Common	Summon Pet: Helghan			
+17120027	Common	Common	Common	Summon Pet: Thormentum			
+17120028	Common	Common	Common	Summon Pet: Sakura Spirit			
+17120029	Common	Common	Common	Summon Pet: Lenim			
+17120030	Common	Common	Common	Summon Pet: Shadow Castanic			
+17120031	Common	Common	Common	Summon Pet: Hasmina			
+17120032	Common	Common	Common	Summon Pet: Shadow Castanic			
+17120033	Common	Common	Common	Summon Pet: AI Kára			
+17120034	Common	Common	Common	Summon Pet: Elisa			
+17120035	Common	Common	Common	Summon Pet: Care and Use of Your Pet Smokey			
+17120036	Common	Common	Common	Summon Pet: Birchback			
+17120037	Common	Common	Common	Summon Pet: Chick			
+17120038	Common	Common	Common	Summon Pet: Veldeg			
+17120039	Common	Common	Common	Summon Pet: Argonized Ptakum			
+17120040	Common	Common	Common	Summon Pet: Jester			
+17120041	Common	Common	Common	Summon Pet: Argonized Phantom			
+17120042	Common	Common	Common	Summon Pet: Vera			
+17120043	Common	Common	Common	Summon Pet: Prima			
+17120044	Common	Common	Common	Summon Pet: Normal Odon			
+17120045	Common	Common	Common	Summon Pet: Arachandlebra			
+17120046	Common	Common	Common	Summon Pet: Antaroth			
+17120047	Common	Common	Common	Summon Pet: Normal One-Eyed Jack			
+17120048	Common	Common	Common	Summon Pet: Hazard			
+17120049	Common	Common	Common	Summon Pet: Terradrax			
+17120050	Common	Common	Common	Summon Pet: Argonized Resurrected Atrocitas			
+17120051	Common	Common	Common	Summon Pet: Argonized Petrax			
+17120052	Common	Common	Common	Summon Pet: Harnovog			
+17120053	Common	Common	Common	Summon Pet: Mythic Azkan			
+17120054	Common	Common	Common	Summon Pet: Reborn Darkan			
+17120055	Common	Common	Common	Summon Pet: Argonized Darkan			
+17120056	Common	Common	Common	Summon Pet: Darkan			
+17120057	Common	Common	Common	Summon Pet: Veilbroken Darkan			
+17120058	Common	Common	Common	Summon Pet: Ventarun			
+17120059	Common	Common	Common	Summon Pet: Kylos			
+17120060	Common	Common	Common	Summon Pet: Elleon			
+17120061	Common	Common	Common	Summon Pet: Argonized AA-23			
+17120062	Common	Common	Common	Summon Pet: Gem Predator			
+17120063	Common	Common	Common	Summon Pet: Gem Arctus			
+17120064	Common	Common	Common	Summon Pet: Fennec			
+17120065	Common	Common	Common	Summon Pet: Bone Frog			
+17120066	Common	Common	Common	Summon Pet: Rogash			
+17120067	Common	Common	Common	Summon Pet: Azart Captain			
+17120068	Common	Common	Common	Summon Pet: Azart Overseer			
+17120069	Common	Common	Common	Summon Pet: Mythic Kaligar			
+17120070	Common	Common	Common	Summon Pet: Azart Grappler			
+17120071	Common	Common	Common	Summon Pet: Azart Technician			
+17120072	Common	Common	Common	Summon Pet: Azart Technician			
+17120073	Common	Common	Common	Summon Pet: Azart Engineer			
+17120074	Common	Common	Common	Summon Pet: Azart Engineer			
+17120075	Common	Common	Common	Summon Pet: Mushroom Spider			
+17120076	Common	Common	Common	Summon Pet: Hexapleon			
+17120077	Common	Common	Common	Summon Pet: Gemfly (Pink)			
+17120078	Common	Common	Common	Summon Pet: Gemfly (Blue)			
+17120079	Common	Common	Common	Summon Pet: Gemfly (Yellow)			
+17120080	Common	Common	Common	Summon Pet: Mythic Khanrin			
+17120081	Common	Common	Common	Summon Pet: Khanrin			
+17120082	Common	Common	Common	Summon Pet: Hellgramite			
+17120083	Common	Common	Common	Summon Pet: Koleogg			
+17120084	Common	Common	Common	Summon Pet: Argonized Nimistrix			
+17120085	Common	Common	Common	Summon Pet: Vesporax			
+17120086	Common	Common	Common	Summon Pet: Yativio			
+17120087	Common	Common	Common	Summon Pet: Prokyon			
+17120088	Common	Common	Common	Summon Pet: Ardentmaw			
+17120089	Common	Common	Common	Summon Pet: Ortan			
+17120090	Common	Common	Common	Summon Pet: Argonized Mephisis			
+17120091	Common	Common	Common	Summon Pet: Argonized Duras			
+17120092	Common	Common	Common	Summon Pet: Apetus			
+17120093	Common	Common	Common	Summon Pet: Forengula			
+17120094	Common	Common	Common	Summon Pet: Argonized Nedra			
+17120095	Common	Common	Common	Summon Pet: Argonized Kalavese			
+17120096	Common	Common	Common	Summon Pet: Mythic Avalon			
+17120097	Common	Common	Common	Summon Pet: Giant of the Water			
+17120098	Common	Common	Common	Summon Pet: Giant of the Air			
+17120099	Common	Common	Common	Summon Pet: Ghergof			
+17120100	Common	Common	Common	Summon Pet: Yankee			
+17120101	Common	Common	Common	Summon Pet: Argonized Halrath			
+17120102	Common	Common	Common	Summon Pet: Argonized Dark Halrath			
+17120103	Common	Common	Common	Summon Pet: Meldita			
+17120104	Common	Common	Common	Summon Pet: Shadow Highelf			
+17120105	Common	Common	Common	Summon Pet: Shadow Highelf			
+17120106	Common	Common	Common	Summon Pet: Shadow Human			
+17120107	Common	Common	Common	Summon Pet: Shadow Human			
+17120108	Common	Common	Common	Summon Pet: Argonized Viyor			
+17120109	Common	Common	Common	Summon Pet: Argonized Magnarox			
+17120110	Common	Common	Common	Summon Pet: Gourdo			
+17120111	Common	Common	Common	Summon Pet: Argonized Small Kalligar			
+17120112	Common	Common	Common	Summon Pet: Killian			
+17120113	Common	Common	Common	Summon Pet: Lakan (Shade)			
+17120114	Common	Common	Common	Summon Pet: Normal Bandersnatch			
+17120115	Common	Common	Common	Summon Pet: Argonized Berylheart			
+17120116	Common	Common	Common	Summon Pet: Normal Tempas			
+17120117	Common	Common	Common	Summon Pet: Tizia			
+17120118	Common	Common	Common	Summon Pet: Zorenai			
+17120119	Common	Common	Common	Summon Pet: Est			
+17120120	Common	Common	Common	Summon Pet: Ost			
+17120121	Common	Common	Common	Summon Pet: Mythic Marh 'Nak			
+17120122	Common	Common	Common	Summon Pet: Demoros			
+17120123	Common	Common	Common	Summon Pet: Dormant Shandra Manaya			
+17120124	Common	Common	Common	Summon Pet: Normal Mini Plant			
+17120125	Common	Common	Common	Summon Pet: Tantibus			
+17120126	Common	Common	Common	Summon Pet: Golden Tantibus			
+17120127	Common	Common	Common	Summon Pet: Moving Tank			
+17120128	Common	Common	Common	Summon Pet: Golden Moving Tank			
+17120129	Common	Common	Common	Summon Pet: Argonized Akalath Kashir			
+17120130	Common	Common	Common	Summon Pet: Argog			
+17120131	Common	Common	Common	Summon Pet: Vicious Argog			
+17120132	Common	Common	Common	Summon Pet: Big Ass Fish			
+17120133	Common	Common	Common	Summon Pet: Normal Thrall of Wrath			
+17120134	Common	Common	Common	Summon Pet: Fulminar			
+17120135	Common	Common	Common	Summon Pet: Unleashed Gardan			
+17120136	Common	Common	Common	Summon Pet: Gardan			
+17120137	Common	Common	Common	Summon Pet: Undying Warlord			
+17120138	Common	Common	Common	Summon Pet: Nightmare Undying Warlord			
+17120139	Common	Common	Common	Summon Pet: Hagufna			
+17120140	Common	Common	Common	Summon Pet: Argonized Hagufna			
+17120141	Common	Common	Common	Summon Pet: Aquadrax			
+17120142	Common	Common	Common	Summon Pet: Marie			
+17120143	Common	Common	Common	Summon Pet: Loo			
+17120144	Common	Common	Common	Summon Pet: Kuncun			
+17120145	Common	Common	Common	Summon Pet: Kuromi			
+17120146	Common	Common	Common	Summon Pet: Melody			
+17120147	Common	Common	Common	Summon Pet: Cat			
+17120148	Common	Common	Common	Summon Pet: Summer Cat			
+17120149	Common	Common	Common	Summon Pet: Thrall Egg Cocomin			
+17120150	Common	Common	Common	Summon Pet: Elo			
+17120151	Common	Common	Common	Summon Pet: Rico			
+17120152	Common	Common	Common	Summon Pet: Normal Pahoegar			
+17120153	Common	Common	Common	Summon Pet: Reborn Dakuryon			
+17120154	Common	Common	Common	Summon Pet: Normal Perfect Dakuryon			
+17120155	Common	Common	Common	Summon Pet: Pompom			
+17120156	Common	Common	Common	Summon Pet: Tough Teddy			
+17120157	Common	Common	Common	Summon Pet: Cuddly Kitty			
+17120158	Common	Common	Common	Summon Pet: Gutsy Guinea Pig			
+17120159	Common	Common	Common	Summon Pet: Spotted Calf			
+17120160	Common	Common	Common	Summon Pet: Perky Panda			
+17120161	Common	Common	Common	Summon Pet: Bouncy Bunny			
+17120162	Common	Common	Common	Summon Pet: Rascally Raccoon			
+17120163	Common	Common	Common	Summon Pet: Brave Black Bear			
+17120164	Common	Common	Common	Summon Pet: Wee Bad Wolf			
+17120165	Common	Common	Common	Summon Pet: Flitterfluff			
+17120166	Common	Common	Common	Summon Pet: Moon Bunny			
+17120167	Common	Common	Common	Summon Pet: Ron			
+17120168	Common	Common	Common	Summon Pet: Maru			
+17120169	Common	Common	Common	Summon Pet: Tuberelle			
+17120170	Common	Common	Common	Summon Pet: Gingerbread Man			
+17120171	Common	Common	Common	Summon Pet: Chicken Dinner Dakuryon			
+17120172	Common	Common	Common	Summon Pet: Dakuryon			
+17120173	Common	Common	Common	Summon Pet: Kitty Slime			
+17120174	Common	Common	Common	Summon Pet: Luna			
+17120175	Common	Common	Common	Summon Pet: Shayde			
+17120176	Common	Common	Common	Summon Pet: Fenrir Unbound			
+17120177	Common	Common	Common	Summon Pet: Liquorice Pocket Dragon			
+17120178	Common	Common	Common	Summon Pet: Mint Pocket Dragon			
+17120179	Common	Common	Common	Summon Pet: Caramel Pocket Dragon			
+17120180	Common	Common	Common	Summon Pet: Cherry Pocket Dragon			
+17120181	Common	Common	Common	Summon Pet: Blueberry Pocket Dragon			
+17120182	Common	Common	Common	Summon Pet: Coconut Pocket Dragon			
+17120183	Common	Common	Common	Summon Pet: Kalligar			
+17120184	Common	Common	Common	Summon Pet: Shroom			
+17120185	Common	Common	Common	Summon Pet: Huginn and Muninn			
+17120186	Common	Common	Common	Summon Pet: Lumikan			
+17120187	Common	Common	Common	Summon Pet: Santa's Slimy Helper			
+17120188	Common	Common	Common	Summon Pet: Blue Snuggletooth			
+17120189	Common	Common	Common	Summon Pet: Pink Snuggletooth			
+17120190	Common	Common	Common	Summon Pet: Kitty Blob			
+17120191	Common	Common	Common	Summon Pet: Mokiko			
+17120192	Common	Common	Common	Summon Pet: Ignis Theron			
+17120193	Common	Common	Common	Summon Pet: Aqua Theron			
+17120194	Common	Common	Common	Summon Pet: Great RK-9			
+17120195	Common	Common	Common	Summon Pet: RK-9			
+17120196	Common	Common	Common	Summon Pet: UFO			
+17120197	Common	Common	Common	Summon Pet: Luna			
+17120198	Common	Common	Common	Summon Pet: Artemis			
+17120199	Common	Common	Common	Summon Pet: Power Hanami			
+17120200	Common	Common	Common	Summon Pet: Power Baldi			
+17120201	Common	Common	Common	Summon Pet: Artemis			
+17120202	Common	Common	Common	Summon Pet: Luna			
+17120203	Common	Common	Common	Summon Pet: Caiman Thief			
+17120204	Common	Common	Common	Summon Pet: Normal Pyrepelt			
+17120205	Common	Common	Common	Summon Pet: Normal Ashwolf			
+17120206	Common	Common	Common	Summon Pet: Shadow Elin			
+17120207	Common	Common	Common	Summon Pet: Normal Hostility			
+17120208	Common	Common	Common	Summon Pet: Elin [Lancer]			
+17120209	Common	Common	Common	Summon Pet: Elin [Slayer]			
+17120210	Common	Common	Common	Summon Pet: Normal Elin Berserker			
+17120211	Common	Common	Common	Summon Pet: Normal Clem			
+17120212	Common	Common	Common	Summon Pet: Elin [Priest]			
+17120213	Common	Common	Common	Summon Pet: Elin [Brawler]			
+17120214	Common	Common	Common	Summon Pet: Elin [Ninja]			
+17120215	Common	Common	Common	Summon Pet: Normal Klshi			
+17120216	Common	Common	Common	Summon Pet: Shadow Popori			
+17120217	Common	Common	Common	Summon Pet: PlayerUnknown's Popori			
+17120218	Common	Common	Common	Summon Pet: PlayerUnknown's Power Popori			
+17120219	Common	Common	Common	Summon Pet: Bunny			
+17120220	Common	Common	Common	Summon Pet: Fat Santa			
+17120221	Common	Common	Common	Summon Pet: Lumikan			
+17120222	Common	Common	Common	Summon Pet: Normal Sabertooth			
+17120223	Common	Common	Common	Summon Pet: Normal Shadow Cougar			
+17120224	Common	Common	Common	Summon Pet: Wooley			
+17120225	Common	Common	Common	Summon Pet: Puppy			
+17120226	Common	Common	Common	Summon Pet: Cursed Valona			
+17120227	Common	Common	Common	Summon Pet: Normal Valona			
+17120228	Common	Common	Common	Summon Pet: Normal Golden RK-9			
+17120229	Common	Common	Common	Summon Pet: Corrupted RK-9			
+17120230	Common	Common	Common	Summon Pet: Argonized Lilith			
+17120231	Common	Common	Common	Summon Pet: Lachelith			
+17120232	Common	Common	Common	Summon Pet: Shadow			
+17120233	Common	Common	Common	Summon Pet: Spook			
+17120234	Common	Common	Common	Summon Pet: Sparky			
+17120235	Common	Common	Common	Summon Pet: Ebon Dragonette			
+17120236	Common	Common	Common	Summon Pet: Golden Dragonette			
+17120237	Common	Common	Common	Summon Pet: Jade Dragonette			
+17120238	Common	Common	Common	Summon Pet: Dragonette			
+17120239	Common	Common	Common	Summon Pet: Fyre Dragonette			
+17120240	Common	Common	Common	Summon Pet: Silver Dragonette			
+17120241	Common	Common	Common	Summon Pet: Gaaruksalk			
+17120242	Common	Common	Common	Summon Pet: Argonized Undead Commander			
+17120243	Common	Common	Common	Summon Pet: Flexis Hunter			
+17120244	Common	Common	Common	Summon Pet: Flexis Hunter			
+17120245	Common	Common	Common	Summon Pet: Capybara			
+17120246	Common	Common	Common	Summon Pet: Cozy Capybara			
+17120247	Common	Common	Common	Summon Pet: Llewellyn			
+17120248	Common	Common	Common	Summon Pet: Lloyd			
+17120249	Common	Common	Common	Summon Pet: Llara			
+17120250	Common	Common	Common	Summon Pet: Llyn			
+17120251	Common	Common	Common	Summon Pet: Qinglong			
+17120252	Common	Common	Common	Summon Pet: Feilong			
+17120253	Common	Common	Common	Summon Pet: Sheilong			
+17120254	Common	Common	Common	Summon Pet: Argonized Vergos			
+17120255	Common	Common	Common	Summon Pet: Malgarios			
+17120256	Common	Common	Common	Summon Pet: Argonized Pepero			
+17120257	Common	Common	Common	Summon Pet: Theropath			
+17120258	Common	Common	Common	Summon Pet: Desolarus			
+17120259	Common	Common	Common	Summon Pet: Kalivan			
+17120260	Common	Common	Common	Summon Pet: Argonized Akasha			
+17120261	Common	Common	Common	Summon Pet: Royal Akasha			
+17120262	Common	Common	Common	Summon Pet: Helen			
+60193025	Common	Common	Common	Kick			icon_equipments.acc_025a_tex
+60411212	Common	Common	Common	Summon: Phargod			icon_items.premium_summonnpc_03_tex
+60411213	Common	Common	Common	Summon: Schwab			icon_items.premium_summonnpc_03_tex
+61000100	Common	Common	Common	Collectivist			icon_skills.union_skillicon1_tex
+61000200	Common	Common	Common	Adiar's Request			icon_skills.union_skillicon2_tex
+61000300	Common	Common	Common	Union Mission			icon_skills.union_skillicon3_tex
+61000400	Common	Common	Common	Derene's Request			icon_skills.union_skillicon12_tex
+61000500	Common	Common	Common	Hard Core			icon_skills.union_skillicon4_tex
+61000600	Common	Common	Common	Frateko's Request			icon_skills.union_skillicon13_tex
+61001300	Common	Common	Common	Summon: Quartermaster Shop			icon_skills.spawnunionmerchant_tex
+61001400	Common	Common	Common	Summon: Infiltration Beacon			icon_skills.spawnteleportward_tex
+61001500	Common	Common	Common	Summon: Guard			icon_skills.spawnunionguard_tex
+61001510	Common	Common	Common	Summon: Free Traders Guard			icon_skills.spawnunionguard_tex
+61001520	Common	Common	Common	Summon: Enlightened Union Guard			icon_skills.spawnunionguard_tex
+61001530	Common	Common	Common	Summon: Iron Order Guard			icon_skills.spawnunionguard_tex
+61001600	Common	Common	Common	Summon: Barricade			icon_skills.spawnunionbarricade_tex
+61001700	Common	Common	Common	Summon: Cannon			icon_skills.spawnunioncannon_tex
+61001800	Common	Common	Common	Tenacious Aura			icon_skills.armor_passivity_tex
+61001900	Common	Common	Common	Enduring Aura			icon_skills.defenceup_tex
+61002000	Common	Common	Common	Wholehearted Aura			icon_skills.adventgoddess_tex
+61900007	Common	Common	Common	Transformation: Green Wintera Snowman		mount	icon_items.snowmangreen_scroll_tex
+61900008	Common	Common	Common	Transformation: Yellow Wintera Snowman		mount	icon_items.snowmanyellow_scroll_tex
+61900009	Common	Common	Common	Transformation: Blue Wintera Snowman		mount	icon_items.snowmanblue_scroll_tex
+61900010	Common	Common	Common	Transformation: Red Wintera Snowman		mount	icon_items.snowman_scroll_tex
+61903023	Common	Common	Common	Summon Pet: Carnivorous Plant			icon_items.petskillbook_tex
+61903024	Common	Common	Common	Summon Pet: Prince			icon_items.petskillbook_tex
+61903026	Common	Common	Common	Summon Pet: Totes			icon_items.petskillbook_tex
+61905001	Common	Common	Common	Summon Pet: Candyspinner			icon_items.petskillbook_tex
+61905002	Common	Common	Common	Summon Pet: Fetch			icon_items.petskillbook_tex
+61905003	Common	Common	Common	Summon Pet: Dragonette			icon_items.petskillbook_tex
+61905004	Common	Common	Common	Summon Pet: Rambo			icon_items.petskillbook_tex
+61905005	Common	Common	Common	Summon Pet: Cheeks			icon_items.petskillbook_tex
+61905006	Common	Common	Common	Summon Pet: Boo			icon_items.petskillbook_tex
+61905007	Common	Common	Common	Summon Pet: Boo			icon_items.petskillbook_tex
+61905008	Common	Common	Common	Summon Pet: Felicity			icon_items.petskillbook_tex
+61905009	Common	Common	Common	Summon Pet: Cheeks			icon_items.petskillbook_tex
+61905010	Common	Common	Common	Summon Pet: Peddit			icon_items.petskillbook_tex
+61905011	Common	Common	Common	Summon Pet: Caddy			icon_items.petskillbook_tex
+61905013	Common	Common	Common	Summon Pet: Zero			icon_items.petskillbook_tex
+61905014	Common	Common	Common	Summon Pet: Miss Katonic			icon_items.petskillbook_tex
+61905015	Common	Common	Common	Summon Pet: Pinkie			
+61905016	Common	Common	Common	Summon Pet: Bonzai			
+61905017	Common	Common	Common	Summon Pet: Addams			
+61906001	Common	Common	Common	Summon Pet: Candyspinner			icon_items.petskillbook_tex
+61906003	Common	Common	Common	Summon Pet: Dragonette			icon_items.petskillbook_tex
+61906004	Common	Common	Common	Summon Pet: Rambo			icon_items.petskillbook_tex
+61906023	Common	Common	Common	Summon Pet: Carnivorous Plant			icon_items.petskillbook_tex
+61906024	Common	Common	Common	Summon Pet: Prince			icon_items.petskillbook_tex
+61906025	Common	Common	Common	Summon Pet: Boo			icon_items.petskillbook_tex
+61906026	Common	Common	Common	Summon Pet: Boo			icon_items.petskillbook_tex
+62000100	Common	Common	Common	Battle Standard			icon_skills.union_skillicon5_tex
+62000110	Common	Common	Common	Battle Standard			icon_skills.union_skillicon5_tex
+62000120	Common	Common	Common	Battle Standard			icon_skills.union_skillicon5_tex
+62000200	Common	Common	Common	Fortification			icon_skills.union_skillicon6_tex
+62000210	Common	Common	Common	Fortification			icon_skills.union_skillicon6_tex
+62000220	Common	Common	Common	Fortification			icon_skills.union_skillicon6_tex
+62000300	Common	Common	Common	Mad Dash			icon_skills.union_skillicon7_tex
+62000310	Common	Common	Common	Mad Dash			icon_skills.union_skillicon7_tex
+62000320	Common	Common	Common	Mad Dash			icon_skills.union_skillicon7_tex
+62000400	Common	Common	Common	Battle Prayer			icon_skills.union_skillicon8_tex
+62000410	Common	Common	Common	Battle Prayer			icon_skills.union_skillicon8_tex
+62000420	Common	Common	Common	Battle Prayer			icon_skills.union_skillicon8_tex
+63000100	Common	Common	Common	Exarch's XP Boost			icon_skills.union_skillicon9_tex
+63000112	Common	Common	Common	Exarch's XP Boost I			icon_skills.union_skillicon9_tex
+63000120	Common	Common	Common	Exarch's XP Boost II			icon_skills.union_skillicon9_tex
+63000130	Common	Common	Common	Exarch's XP Boost III			icon_skills.union_skillicon9_tex
+63000140	Common	Common	Common	Exarch's XP Boost IV			icon_skills.union_skillicon9_tex
+63000150	Common	Common	Common	Exarch's XP Boost V			icon_skills.union_skillicon9_tex
+63000160	Common	Common	Common	Exarch's XP Boost VI			icon_skills.union_skillicon9_tex
+63000200	Common	Common	Common	Exarch's PvP Bolster			icon_skills.union_skillicon10_tex
+63000210	Common	Common	Common	Exarch's PvP Bolster I			icon_skills.union_skillicon10_tex
+63000220	Common	Common	Common	Exarch's PvP Bolster II			icon_skills.union_skillicon10_tex
+63000230	Common	Common	Common	Exarch's PvP Bolster III			icon_skills.union_skillicon10_tex
+63000240	Common	Common	Common	Exarch's PvP Bolster IV			icon_skills.union_skillicon10_tex
+63000250	Common	Common	Common	Exarch's PvP Bolster V			icon_skills.union_skillicon10_tex
+63000260	Common	Common	Common	Exarch's PvP Bolster VI			icon_skills.union_skillicon10_tex
+63000300	Common	Common	Common	Exarch's Fortitude			icon_skills.union_skillicon11_tex
+63000310	Common	Common	Common	Exarch's Fortitude I			icon_skills.union_skillicon11_tex
+63000320	Common	Common	Common	Exarch's Fortitude II			icon_skills.union_skillicon11_tex
+63000330	Common	Common	Common	Exarch's Fortitude III			icon_skills.union_skillicon11_tex
+63000340	Common	Common	Common	Exarch's Fortitude IV			icon_skills.union_skillicon11_tex
+63000350	Common	Common	Common	Exarch's Fortitude V			icon_skills.union_skillicon11_tex
+63000360	Common	Common	Common	Exarch's Fortitude VI			icon_skills.union_skillicon11_tex
+63005522	Common	Common	Common	Elite Greater Triple Charm			icon_items.shine_mysterypaper2_tex
+20700	Common	Common	Gunner	Bombardment VII			icon_skills.mortarshot_tex
+40900	Common	Common	Gunner	Point Blank IX			icon_skills.gunbrandish_tex
+101000	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101100	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+110900	Common	Common	Gunner	Rocket Jump IX			icon_skills.rocketjump_tex
+110931	Common	Common	Gunner	Super Rocket Jump IX			icon_skills.superrocketjump_tex
+30300	Common	Common	Lancer	Onslaught III			icon_skills.screwthrough_tex
+30400	Common	Common	Lancer	Onslaught IV			icon_skills.screwthrough_tex
+30500	Common	Common	Lancer	Onslaught V			icon_skills.screwthrough_tex
+30600	Common	Common	Lancer	Onslaught VI			icon_skills.screwthrough_tex
+30700	Common	Common	Lancer	Onslaught VII			icon_skills.screwthrough_tex
+30800	Common	Common	Lancer	Onslaught VIII			icon_skills.screwthrough_tex
+160800	Common	Common	Lancer	Second Wind VIII			icon_skills.rejuvenation_tex
+160900	Common	Common	Lancer	Second Wind IX			icon_skills.rejuvenation_tex
+200100	Common	Common	Lancer	Menacing Wave			icon_skills.menacewave_tex
+110100	Common	Common	Mystic	Summon: Party	False		icon_skills.recallfriend_tex
+410100	Common	Common	Mystic	Contagion	False		icon_skills.plague_tex
+420100	Common	Common	Mystic	Boomerang Pulse	False		icon_skills.mysticorb_tex
+70100	Common	Common	Priest	Slumber I			icon_skills.sleep_tex
+70200	Common	Common	Priest	Slumber II			icon_skills.sleep_tex
+70300	Common	Common	Priest	Slumber III			icon_skills.sleep_tex
+130100	Common	Common	Priest	Homeward Bound			icon_skills.teleportall_tex
+140100	Common	Common	Priest	Summon: Party	False		icon_skills.recallfriend_tex
+150100	Common	Common	Priest	Blessing of Zenobia			icon_skills.fastwalk_tex
+170100	Common	Common	Priest	Prayer of Peace I			icon_skills.agrorelease_tex
+170200	Common	Common	Priest	Prayer of Peace II			icon_skills.agrorelease_tex
+170300	Common	Common	Priest	Prayer of Peace III			icon_skills.agrorelease_tex
+170400	Common	Common	Priest	Prayer of Peace IV			icon_skills.agrorelease_tex
+200100	Common	Common	Priest	Blessing of Seren I			icon_skills.agilitybless_tex
+200200	Common	Common	Priest	Blessing of Seren II			icon_skills.agilitybless_tex
+210100	Common	Common	Priest	Blessing of Arachne			icon_skills.resistancebless_tex
+230100	Common	Common	Priest	Blessing of Balder I			icon_skills.refreshbless_tex
+230200	Common	Common	Priest	Blessing of Balder II			icon_skills.refreshbless_tex
+230300	Common	Common	Priest	Blessing of Balder III			icon_skills.refreshbless_tex
+230400	Common	Common	Priest	Blessing of Balder IV			icon_skills.refreshbless_tex
+230500	Common	Common	Priest	Blessing of Balder V			icon_skills.refreshbless_tex
+261100	Common	Common	Priest	Fiery Escape XI			icon_skills.sanctuary_tex
+291000	Common	Common	Priest	Triple Nemesis X			icon_skills.divineretribution_tex
+291100	Common	Common	Priest	Triple Nemesis XI			icon_skills.divineretribution_tex
+320100	Common	Common	Priest	Divine Respite I	False		icon_skills.restoration_tex
+320200	Common	Common	Priest	Divine Respite II	False		icon_skills.restoration_tex
+340300	Common	Common	Priest	Restorative Burst III			icon_skills.sanctuaryofregeneration_tex
+340400	Common	Common	Priest	Restorative Burst IV			icon_skills.sanctuaryofregeneration_tex
+340500	Common	Common	Priest	Restorative Burst V			icon_skills.sanctuaryofregeneration_tex
+340600	Common	Common	Priest	Restorative Burst VI			icon_skills.sanctuaryofregeneration_tex
+340700	Common	Common	Priest	Restorative Burst VII			icon_skills.sanctuaryofregeneration_tex
+340800	Common	Common	Priest	Restorative Burst VIII			icon_skills.sanctuaryofregeneration_tex
+340900	Common	Common	Priest	Restorative Burst IX			icon_skills.sanctuaryofregeneration_tex
+341000	Common	Common	Priest	Restorative Burst X			icon_skills.sanctuaryofregeneration_tex
+341100	Common	Common	Priest	Restorative Burst XI			icon_skills.sanctuaryofregeneration_tex
+400100	Common	Common	Priest	Zenobia's Vortex	False		icon_skills.godbreath_tex
+70100	Common	Common	Slayer	Triumphant Shout I			icon_skills.shout_tex
+70200	Common	Common	Slayer	Triumphant Shout II			icon_skills.shout_tex
+240100	Common	Common	Slayer	Eviscerate	False		icon_skills.jawbreaker_tex
+20100	Common	Common	Sorcerer	Ice Needle I	False		icon_skills.icicle_tex
+20200	Common	Common	Sorcerer	Ice Needle II	False		icon_skills.icicle_tex
+20300	Common	Common	Sorcerer	Ice Needle III	False		icon_skills.icicle_tex
+20400	Common	Common	Sorcerer	Ice Needle IV	False		icon_skills.icicle_tex
+20500	Common	Common	Sorcerer	Ice Needle V	False		icon_skills.icicle_tex
+20600	Common	Common	Sorcerer	Ice Needle VI	False		icon_skills.icicle_tex
+20700	Common	Common	Sorcerer	Ice Needle VII	False		icon_skills.icicle_tex
+20800	Common	Common	Sorcerer	Ice Needle VIII	False		icon_skills.icicle_tex
+20900	Common	Common	Sorcerer	Ice Needle IX	False		icon_skills.icicle_tex
+21000	Common	Common	Sorcerer	Ice Needle X	False		icon_skills.icicle_tex
+60100	Common	Common	Sorcerer	Fireblast I	False		icon_skills.hellfire_tex
+60200	Common	Common	Sorcerer	Fireblast II	False		icon_skills.hellfire_tex
+60300	Common	Common	Sorcerer	Fireblast III	False		icon_skills.hellfire_tex
+60400	Common	Common	Sorcerer	Fireblast IV	False		icon_skills.hellfire_tex
+60500	Common	Common	Sorcerer	Fireblast V	False		icon_skills.hellfire_tex
+60600	Common	Common	Sorcerer	Fireblast VI	False		icon_skills.hellfire_tex
+60700	Common	Common	Sorcerer	Fireblast VII	False		icon_skills.hellfire_tex
+90100	Common	Common	Sorcerer	Overchannel I			icon_skills.kicharge_tex
+90200	Common	Common	Sorcerer	Overchannel II			icon_skills.kicharge_tex
+90300	Common	Common	Sorcerer	Overchannel III			icon_skills.kicharge_tex
+90400	Common	Common	Sorcerer	Overchannel IV			icon_skills.kicharge_tex
+90500	Common	Common	Sorcerer	Overchannel V			icon_skills.kicharge_tex
+90600	Common	Common	Sorcerer	Overchannel VI			icon_skills.kicharge_tex
+110100	Common	Common	Sorcerer	Magma Bomb I	False		icon_skills.howitzer_tex
+110140	Common	Common	Sorcerer	Magma Bomb I	False		icon_skills.howitzer_tex
+110200	Common	Common	Sorcerer	Magma Bomb II	False		icon_skills.howitzer_tex
+110240	Common	Common	Sorcerer	Magma Bomb II	False		icon_skills.howitzer_tex
+110300	Common	Common	Sorcerer	Magma Bomb III	False		icon_skills.howitzer_tex
+110340	Common	Common	Sorcerer	Magma Bomb III	False		icon_skills.howitzer_tex
+110400	Common	Common	Sorcerer	Magma Bomb IV	False		icon_skills.howitzer_tex
+110440	Common	Common	Sorcerer	Magma Bomb IV	False		icon_skills.howitzer_tex
+110500	Common	Common	Sorcerer	Magma Bomb V	False		icon_skills.howitzer_tex
+110540	Common	Common	Sorcerer	Magma Bomb V	False		icon_skills.howitzer_tex
+110600	Common	Common	Sorcerer	Magma Bomb VI	False		icon_skills.howitzer_tex
+110640	Common	Common	Sorcerer	Magma Bomb VI	False		icon_skills.howitzer_tex
+110700	Common	Common	Sorcerer	Magma Bomb VII	False		icon_skills.howitzer_tex
+110740	Common	Common	Sorcerer	Magma Bomb VII	False		icon_skills.howitzer_tex
+110800	Common	Common	Sorcerer	Magma Bomb VIII	False		icon_skills.howitzer_tex
+110840	Common	Common	Sorcerer	Magma Bomb VIII	False		icon_skills.howitzer_tex
+110900	Common	Common	Sorcerer	Magma Bomb IX	False		icon_skills.howitzer_tex
+110940	Common	Common	Sorcerer	Magma Bomb IX	False		icon_skills.howitzer_tex
+111000	Common	Common	Sorcerer	Magma Bomb X	False		icon_skills.howitzer_tex
+111040	Common	Common	Sorcerer	Magma Bomb X	False		icon_skills.howitzer_tex
+111100	Common	Common	Sorcerer	Magma Bomb XI	False		icon_skills.howitzer_tex
+300100	Common	Common	Sorcerer	Nova	False		icon_skills.manaburst_tex
+30400	Common	Common	Warrior	Torrent of Blows IV			icon_skills.nanmu_tex
+30500	Common	Common	Warrior	Torrent of Blows V			icon_skills.nanmu_tex
+30600	Common	Common	Warrior	Torrent of Blows VI			icon_skills.nanmu_tex
+30700	Common	Common	Warrior	Torrent of Blows VII			icon_skills.nanmu_tex
+30800	Common	Common	Warrior	Torrent of Blows VIII			icon_skills.nanmu_tex
+30900	Common	Common	Warrior	Torrent of Blows IX			icon_skills.nanmu_tex
+41000	Common	Common	Warrior	Rain of Blows X			icon_skills.pointattack_tex
+41100	Common	Common	Warrior	Rain of Blows XI			icon_skills.pointattack_tex
+50400	Common	Common	Warrior	Battle Cry IV			icon_skills.thunderingroar_tex
+50500	Common	Common	Warrior	Battle Cry V			icon_skills.thunderingroar_tex
+50600	Common	Common	Warrior	Battle Cry VI			icon_skills.thunderingroar_tex
+50700	Common	Common	Warrior	Battle Cry VII			icon_skills.thunderingroar_tex
+50800	Common	Common	Warrior	Battle Cry VIII			icon_skills.thunderingroar_tex
+50900	Common	Common	Warrior	Battle Cry IX			icon_skills.thunderingroar_tex
+59100	Common	Common	Warrior	Infuriate			icon_skills.provokerage_tex
+90300	Common	Common	Warrior	Defensive Stance III			icon_skills.ironwillb_tex
+90400	Common	Common	Warrior	Defensive Stance IV			icon_skills.ironwillb_tex
+140100	Common	Common	Warrior	Mangle			icon_skills.aimingankle_tex
+170100	Common	Common	Warrior	Vortex Slash I	False		icon_skills.allroundslash_tex
+170200	Common	Common	Warrior	Vortex Slash II	False		icon_skills.allroundslash_tex
+170300	Common	Common	Warrior	Vortex Slash III	False		icon_skills.allroundslash_tex
+170400	Common	Common	Warrior	Vortex Slash IV	False		icon_skills.allroundslash_tex
+170500	Common	Common	Warrior	Vortex Slash V	False		icon_skills.allroundslash_tex
+170600	Common	Common	Warrior	Vortex Slash VI	False		icon_skills.allroundslash_tex
+170700	Common	Common	Warrior	Vortex Slash VII	False		icon_skills.allroundslash_tex
+170800	Common	Common	Warrior	Vortex Slash VIII			icon_skills.allroundslash_tex
+170900	Common	Common	Warrior	Vortex Slash IX			icon_skills.allroundslash_tex
+171000	Common	Common	Warrior	Vortex Slash X			icon_skills.allroundslash_tex
+171100	Common	Common	Warrior	Vortex Slash XI			icon_skills.allroundslash_tex
+230100	Common	Common	Warrior	Staggering Counter I	False		icon_skills.reversalturningattack_tex
+230200	Common	Common	Warrior	Staggering Counter II	False		icon_skills.reversalturningattack_tex
+240300	Common	Common	Warrior	Smoke Aggressor III			icon_skills.decoy_tex
+240400	Common	Common	Warrior	Smoke Aggressor IV			icon_skills.decoy_tex
+240500	Common	Common	Warrior	Smoke Aggressor V			icon_skills.decoy_tex
+240600	Common	Common	Warrior	Smoke Aggressor VI			icon_skills.decoy_tex
+240700	Common	Common	Warrior	Smoke Aggressor VII			icon_skills.decoy_tex
+240800	Common	Common	Warrior	Smoke Aggressor VIII			icon_skills.decoy_tex
+240900	Common	Common	Warrior	Smoke Aggressor IX			icon_skills.decoy_tex
+270100	Common	Common	Warrior	Pounce I			icon_skills.heavybite_tex
+270200	Common	Common	Warrior	Pounce II			icon_skills.heavybite_tex
+270300	Common	Common	Warrior	Pounce III			icon_skills.heavybite_tex
+270400	Common	Common	Warrior	Pounce IV			icon_skills.heavybite_tex
+270500	Common	Common	Warrior	Pounce V			icon_skills.heavybite_tex
+270600	Common	Common	Warrior	Pounce VI			icon_skills.heavybite_tex
+270700	Common	Common	Warrior	Pounce VII			icon_skills.heavybite_tex
+270800	Common	Common	Warrior	Pounce VIII			icon_skills.heavybite_tex
+310900	Common	Common	Warrior	Reaping Slash IX			icon_skills.rupture_tex
+330300	Common	Common	Warrior	Smoke Flanker III			icon_skills.shadowchange_tex
+330400	Common	Common	Warrior	Smoke Flanker IV			icon_skills.shadowchange_tex
+330500	Common	Common	Warrior	Smoke Flanker V			icon_skills.shadowchange_tex
+330600	Common	Common	Warrior	Smoke Flanker VI			icon_skills.shadowchange_tex
+330700	Common	Common	Warrior	Smoke Flanker VII			icon_skills.shadowchange_tex
+330800	Common	Common	Warrior	Smoke Flanker VIII			icon_skills.shadowchange_tex
+330900	Common	Common	Warrior	Smoke Flanker IX			icon_skills.shadowchange_tex
+220101	Common	Common	Archer	Final Salvo I	False	hit 2	icon_skills.chainrapidshot_tex
+220102	Common	Common	Archer	Final Salvo I	False	hit 3	icon_skills.chainrapidshot_tex
+220103	Common	Common	Archer	Final Salvo I	False	hit 4	icon_skills.chainrapidshot_tex
+220104	Common	Common	Archer	Final Salvo I	False	hit 5	icon_skills.chainrapidshot_tex
+220201	Common	Common	Archer	Final Salvo II	False	hit 2	icon_skills.chainrapidshot_tex
+220202	Common	Common	Archer	Final Salvo II	False	hit 3	icon_skills.chainrapidshot_tex
+220203	Common	Common	Archer	Final Salvo II	False	hit 4	icon_skills.chainrapidshot_tex
+220204	Common	Common	Archer	Final Salvo II	False	hit 5	icon_skills.chainrapidshot_tex
+220301	Common	Common	Archer	Final Salvo III	False	hit 2	icon_skills.chainrapidshot_tex
+220302	Common	Common	Archer	Final Salvo III	False	hit 3	icon_skills.chainrapidshot_tex
+220303	Common	Common	Archer	Final Salvo III	False	hit 4	icon_skills.chainrapidshot_tex
+220304	Common	Common	Archer	Final Salvo III	False	hit 5	icon_skills.chainrapidshot_tex
+220401	Common	Common	Archer	Final Salvo IV	False	hit 2	icon_skills.chainrapidshot_tex
+220402	Common	Common	Archer	Final Salvo IV	False	hit 3	icon_skills.chainrapidshot_tex
+220403	Common	Common	Archer	Final Salvo IV	False	hit 4	icon_skills.chainrapidshot_tex
+220404	Common	Common	Archer	Final Salvo IV	False	hit 5	icon_skills.chainrapidshot_tex
+220501	Common	Common	Archer	Final Salvo V	False	hit 2	icon_skills.chainrapidshot_tex
+220502	Common	Common	Archer	Final Salvo V	False	hit 3	icon_skills.chainrapidshot_tex
+220503	Common	Common	Archer	Final Salvo V	False	hit 4	icon_skills.chainrapidshot_tex
+220504	Common	Common	Archer	Final Salvo V	False	hit 5	icon_skills.chainrapidshot_tex
+220601	Common	Common	Archer	Final Salvo VI	False	hit 2	icon_skills.chainrapidshot_tex
+220602	Common	Common	Archer	Final Salvo VI	False	hit 3	icon_skills.chainrapidshot_tex
+220603	Common	Common	Archer	Final Salvo VI	False	hit 4	icon_skills.chainrapidshot_tex
+220604	Common	Common	Archer	Final Salvo VI	False	hit 5	icon_skills.chainrapidshot_tex
+220701	Common	Common	Archer	Final Salvo VII	False	hit 2	icon_skills.chainrapidshot_tex
+220702	Common	Common	Archer	Final Salvo VII	False	hit 3	icon_skills.chainrapidshot_tex
+220703	Common	Common	Archer	Final Salvo VII	False	hit 4	icon_skills.chainrapidshot_tex
+220704	Common	Common	Archer	Final Salvo VII	False	hit 5	icon_skills.chainrapidshot_tex
+220801	Common	Common	Archer	Final Salvo VIII	False	hit 2	icon_skills.chainrapidshot_tex
+220802	Common	Common	Archer	Final Salvo VIII	False	hit 3	icon_skills.chainrapidshot_tex
+220803	Common	Common	Archer	Final Salvo VIII	False	hit 4	icon_skills.chainrapidshot_tex
+220804	Common	Common	Archer	Final Salvo VIII	False	hit 5	icon_skills.chainrapidshot_tex
+230120	Common	Common	Archer	Concussion Trap I	False		icon_skills.paralysistraparrow_tex
+230220	Common	Common	Archer	Concussion Trap II	False		icon_skills.paralysistraparrow_tex
+240101	Common	Common	Archer	Ensnaring Trap I	False		icon_skills.webtraparrow_tex
+240103	Common	Common	Archer	Ensnaring Trap I	False		icon_skills.webtraparrow_tex
+240120	Common	Common	Archer	Ensnaring Trap I	False	forward	icon_skills.webtraparrow_tex
+240121	Common	Common	Archer	Ensnaring Trap I	False	Boom	icon_skills.webtraparrow_tex
+240201	Common	Common	Archer	Ensnaring Trap II	False		icon_skills.webtraparrow_tex
+240203	Common	Common	Archer	Ensnaring Trap II	False		icon_skills.webtraparrow_tex
+240220	Common	Common	Archer	Ensnaring Trap II	False	forward	icon_skills.webtraparrow_tex
+240221	Common	Common	Archer	Ensnaring Trap II	False	Boom	icon_skills.webtraparrow_tex
+250120	Common	Common	Archer	Explosion Trap I	False		icon_skills.explosiontraparrow_tex
+250220	Common	Common	Archer	Explosion Trap II	False		icon_skills.explosiontraparrow_tex
+290120	Common	Common	Archer	Thunderbolt	False		icon_skills.thunderdrake_tex
+60130	Common	Common	Berserker	Staggering Strike I	False	Fury	icon_skills.turnback_tex
+60230	Common	Common	Berserker	Staggering Strike II	False	Fury	icon_skills.turnback_tex
+60330	Common	Common	Berserker	Staggering Strike III	False	Fury	icon_skills.turnback_tex
+60430	Common	Common	Berserker	Staggering Strike IV	False	Fury	icon_skills.turnback_tex
+60530	Common	Common	Berserker	Staggering Strike V	False	Fury	icon_skills.turnback_tex
+250101	Common	Common	Berserker	Raze	False	Fury	icon_skills.sideslash_tex
+250130	Common	Common	Berserker	Raze	True		icon_skills.sideslash_tex
+250131	Common	Common	Berserker	Raze	True	Fury	icon_skills.sideslash_tex
+410110	Common	Common	Mystic	Contagion	False		icon_skills.plague_tex
+420120	Common	Common	Mystic	Boomerang Pulse	False		icon_skills.mysticorb_tex
+400120	Common	Common	Priest	Zenobia's Vortex	False		icon_skills.godbreath_tex
+240130	Common	Common	Slayer	Eviscerate	True		icon_skills.jawbreaker_tex
+20120	Common	Common	Sorcerer	Ice Needle I	False		icon_skills.icicle_tex
+20121	Common	Common	Sorcerer	Ice Needle I	False	stopping	icon_skills.icicle_tex
+20220	Common	Common	Sorcerer	Ice Needle II	False		icon_skills.icicle_tex
+20221	Common	Common	Sorcerer	Ice Needle II	False	stopping	icon_skills.icicle_tex
+20320	Common	Common	Sorcerer	Ice Needle III	False		icon_skills.icicle_tex
+20321	Common	Common	Sorcerer	Ice Needle III	False	stopping	icon_skills.icicle_tex
+20420	Common	Common	Sorcerer	Ice Needle IV	False		icon_skills.icicle_tex
+20421	Common	Common	Sorcerer	Ice Needle IV	False	stopping	icon_skills.icicle_tex
+20520	Common	Common	Sorcerer	Ice Needle V	False		icon_skills.icicle_tex
+20521	Common	Common	Sorcerer	Ice Needle V	False	stopping	icon_skills.icicle_tex
+20620	Common	Common	Sorcerer	Ice Needle VI	False		icon_skills.icicle_tex
+20621	Common	Common	Sorcerer	Ice Needle VI	False	stopping	icon_skills.icicle_tex
+20720	Common	Common	Sorcerer	Ice Needle VII	False		icon_skills.icicle_tex
+20721	Common	Common	Sorcerer	Ice Needle VII	False	stopping	icon_skills.icicle_tex
+20820	Common	Common	Sorcerer	Ice Needle VIII	False		icon_skills.icicle_tex
+20821	Common	Common	Sorcerer	Ice Needle VIII	False	stopping	icon_skills.icicle_tex
+20920	Common	Common	Sorcerer	Ice Needle IX	False		icon_skills.icicle_tex
+20921	Common	Common	Sorcerer	Ice Needle IX	False	stopping	icon_skills.icicle_tex
+21020	Common	Common	Sorcerer	Ice Needle X	False		icon_skills.icicle_tex
+21021	Common	Common	Sorcerer	Ice Needle X	False	stopping	icon_skills.icicle_tex
+60110	Common	Common	Sorcerer	Fireblast I	False		icon_skills.hellfire_tex
+60120	Common	Common	Sorcerer	Fireblast I	False		icon_skills.hellfire_tex
+60210	Common	Common	Sorcerer	Fireblast II	False		icon_skills.hellfire_tex
+60220	Common	Common	Sorcerer	Fireblast II	False		icon_skills.hellfire_tex
+60310	Common	Common	Sorcerer	Fireblast III	False		icon_skills.hellfire_tex
+60320	Common	Common	Sorcerer	Fireblast III	False		icon_skills.hellfire_tex
+60410	Common	Common	Sorcerer	Fireblast IV	False		icon_skills.hellfire_tex
+60420	Common	Common	Sorcerer	Fireblast IV	False		icon_skills.hellfire_tex
+60510	Common	Common	Sorcerer	Fireblast V	False		icon_skills.hellfire_tex
+60520	Common	Common	Sorcerer	Fireblast V	False		icon_skills.hellfire_tex
+60610	Common	Common	Sorcerer	Fireblast VI	False		icon_skills.hellfire_tex
+60620	Common	Common	Sorcerer	Fireblast VI	False		icon_skills.hellfire_tex
+60710	Common	Common	Sorcerer	Fireblast VII	False		icon_skills.hellfire_tex
+60720	Common	Common	Sorcerer	Fireblast VII	False		icon_skills.hellfire_tex
+111140	Common	Common	Sorcerer	Magma Bomb XI	False		icon_skills.howitzer_tex
+12200201	Common	Common	Common	Summon: Obsidian Flame Kirin		mount	icon_skills.vehicle_kirin_w_black_tex
+100600	Common	Common	Archer	Stunning Trap			icon_skills.paralysistrap_tex
+100620	Common	Common	Archer	Stunning Trap			icon_skills.paralysistrap_tex
+100700	Common	Common	Archer	Stunning Trap			icon_skills.paralysistrap_tex
+100720	Common	Common	Archer	Stunning Trap			icon_skills.paralysistrap_tex
+150800	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+150820	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+150900	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+150920	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+151000	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+151020	Common	Common	Archer	Incendiary Trap			icon_skills.explosiontrap_tex
+180501	Common	Common	Archer	Close Quarters V		hit 2	icon_skills.turningkick_tex
+180601	Common	Common	Archer	Close Quarters VI		hit 2	icon_skills.turningkick_tex
+180701	Common	Common	Archer	Close Quarters VII		hit 2	icon_skills.turningkick_tex
+180801	Common	Common	Archer	Close Quarters VIII		hit 2	icon_skills.turningkick_tex
+180901	Common	Common	Archer	Close Quarters IX		hit 2	icon_skills.turningkick_tex
+181001	Common	Common	Archer	Close Quarters X		hit 2	icon_skills.turningkick_tex
+181100	Common	Common	Archer	Close Quarters			icon_skills.turningkick_tex
+181101	Common	Common	Archer	Close Quarters		hit 2	icon_skills.turningkick_tex
+181200	Common	Common	Archer	Close Quarters			icon_skills.turningkick_tex
+181201	Common	Common	Archer	Close Quarters		hit 2	icon_skills.turningkick_tex
+181300	Common	Common	Archer	Close Quarters			icon_skills.turningkick_tex
+181301	Common	Common	Archer	Close Quarters		hit 2	icon_skills.turningkick_tex
+230400	Common	Common	Archer	Concussion Trap			icon_skills.paralysistraparrow_tex
+230420	Common	Common	Archer	Concussion Trap			icon_skills.paralysistraparrow_tex
+230500	Common	Common	Archer	Concussion Trap			icon_skills.paralysistraparrow_tex
+230520	Common	Common	Archer	Concussion Trap			icon_skills.paralysistraparrow_tex
+280150	Common	Common	Archer	Eagle's Eye I			icon_skills.focusstance_moveslow_tex
+280250	Common	Common	Archer	Eagle's Eye II			icon_skills.focusstance_moveslow_tex
+280300	Common	Common	Archer	Eagle's Eye			icon_skills.focusstance_moveslow_tex
+280350	Common	Common	Archer	Eagle's Eye			icon_skills.focusstance_moveslow_tex
+280400	Common	Common	Archer	Eagle's Eye			icon_skills.focusstance_moveslow_tex
+280450	Common	Common	Archer	Eagle's Eye			icon_skills.focusstance_moveslow_tex
+90300	Common	Common	Berserker	Triumphant Shout			icon_skills.shout_tex
+90400	Common	Common	Berserker	Triumphant Shout			icon_skills.shout_tex
+160500	Common	Common	Berserker	Fearsome Shout			icon_skills.piercingshout_tex
+170300	Common	Common	Berserker	Flurry of Blows			icon_skills.gatheringrage_tex
+170400	Common	Common	Berserker	Flurry of Blows			icon_skills.gatheringrage_tex
+180110	Common	Common	Berserker	Lethal Strike I		hit 11	icon_skills.soulstrike_tex
+180111	Common	Common	Berserker	Lethal Strike I		hit 12	icon_skills.soulstrike_tex
+180112	Common	Common	Berserker	Lethal Strike I		hit 13	icon_skills.soulstrike_tex
+180113	Common	Common	Berserker	Lethal Strike I		hit 14	icon_skills.soulstrike_tex
+180210	Common	Common	Berserker	Lethal Strike II		hit 11	icon_skills.soulstrike_tex
+180211	Common	Common	Berserker	Lethal Strike II		hit 12	icon_skills.soulstrike_tex
+180212	Common	Common	Berserker	Lethal Strike II		hit 13	icon_skills.soulstrike_tex
+180213	Common	Common	Berserker	Lethal Strike II		hit 14	icon_skills.soulstrike_tex
+180310	Common	Common	Berserker	Lethal Strike III		hit 11	icon_skills.soulstrike_tex
+180311	Common	Common	Berserker	Lethal Strike III		hit 12	icon_skills.soulstrike_tex
+180312	Common	Common	Berserker	Lethal Strike III		hit 13	icon_skills.soulstrike_tex
+180313	Common	Common	Berserker	Lethal Strike III		hit 14	icon_skills.soulstrike_tex
+180410	Common	Common	Berserker	Lethal Strike IV		hit 11	icon_skills.soulstrike_tex
+180411	Common	Common	Berserker	Lethal Strike IV		hit 12	icon_skills.soulstrike_tex
+180412	Common	Common	Berserker	Lethal Strike IV		hit 13	icon_skills.soulstrike_tex
+180413	Common	Common	Berserker	Lethal Strike IV		hit 14	icon_skills.soulstrike_tex
+180510	Common	Common	Berserker	Lethal Strike V		hit 11	icon_skills.soulstrike_tex
+180511	Common	Common	Berserker	Lethal Strike V		hit 12	icon_skills.soulstrike_tex
+180512	Common	Common	Berserker	Lethal Strike V		hit 13	icon_skills.soulstrike_tex
+180513	Common	Common	Berserker	Lethal Strike V		hit 14	icon_skills.soulstrike_tex
+180610	Common	Common	Berserker	Lethal Strike VI		hit 11	icon_skills.soulstrike_tex
+180611	Common	Common	Berserker	Lethal Strike VI		hit 12	icon_skills.soulstrike_tex
+180612	Common	Common	Berserker	Lethal Strike VI		hit 13	icon_skills.soulstrike_tex
+180613	Common	Common	Berserker	Lethal Strike VI		hit 14	icon_skills.soulstrike_tex
+180710	Common	Common	Berserker	Lethal Strike		hit 11	icon_skills.soulstrike_tex
+180711	Common	Common	Berserker	Lethal Strike		hit 12	icon_skills.soulstrike_tex
+180712	Common	Common	Berserker	Lethal Strike		hit 13	icon_skills.soulstrike_tex
+180713	Common	Common	Berserker	Lethal Strike		hit 14	icon_skills.soulstrike_tex
+180810	Common	Common	Berserker	Lethal Strike		hit 11	icon_skills.soulstrike_tex
+180811	Common	Common	Berserker	Lethal Strike		hit 12	icon_skills.soulstrike_tex
+180812	Common	Common	Berserker	Lethal Strike		hit 13	icon_skills.soulstrike_tex
+180813	Common	Common	Berserker	Lethal Strike		hit 14	icon_skills.soulstrike_tex
+180910	Common	Common	Berserker	Lethal Strike		hit 11	icon_skills.soulstrike_tex
+180911	Common	Common	Berserker	Lethal Strike		hit 12	icon_skills.soulstrike_tex
+180912	Common	Common	Berserker	Lethal Strike		hit 13	icon_skills.soulstrike_tex
+180913	Common	Common	Berserker	Lethal Strike		hit 14	icon_skills.soulstrike_tex
+31200	Common	Common	Gunner	Scattershot			icon_skills.buckshot_tex
+31201	Common	Common	Gunner	Scattershot		hit 2	icon_skills.buckshot_tex
+31202	Common	Common	Gunner	Scattershot		hit 3	icon_skills.buckshot_tex
+31230	Common	Common	Gunner	Scattershot			icon_skills.buckshot_tex
+40901	Common	Common	Gunner	Point Blank IX		hit 2	icon_skills.gunbrandish_tex
+40902	Common	Common	Gunner	Point Blank IX		hit 3	icon_skills.gunbrandish_tex
+40903	Common	Common	Gunner	Point Blank IX		hit 4	icon_skills.gunbrandish_tex
+40904	Common	Common	Gunner	Point Blank IX		hit 5	icon_skills.gunbrandish_tex
+40930	Common	Common	Gunner	Point Blank IX			icon_skills.gunbrandish_tex
+41000	Common	Common	Gunner	Point Blank			icon_skills.energiesofwillpower_tex
+41001	Common	Common	Gunner	Point Blank		hit 2	icon_skills.energiesofwillpower_tex
+41002	Common	Common	Gunner	Point Blank		hit 3	icon_skills.energiesofwillpower_tex
+41003	Common	Common	Gunner	Point Blank		hit 4	icon_skills.energiesofwillpower_tex
+41004	Common	Common	Gunner	Point Blank		hit 5	icon_skills.energiesofwillpower_tex
+41030	Common	Common	Gunner	Point Blank			icon_skills.energiesofwillpower_tex
+51001	Common	Common	Gunner	Burst Fire X		hit 2	icon_skills.gatlingshot_tex
+101001	Common	Common	Gunner	Arc Bomb X		hit 2	icon_skills.arcanegrenadethrow_tex
+101002	Common	Common	Gunner	Arc Bomb X		hit 3	icon_skills.arcanegrenadethrow_tex
+101020	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101021	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101022	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101023	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101024	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101030	Common	Common	Gunner	Arc Bomb X			icon_skills.arcanegrenadethrow_tex
+101101	Common	Common	Gunner	Arc Bomb XI		hit 2	icon_skills.arcanegrenadethrow_tex
+101102	Common	Common	Gunner	Arc Bomb XI		hit 3	icon_skills.arcanegrenadethrow_tex
+101120	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+101121	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+101122	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+101123	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+101124	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+101130	Common	Common	Gunner	Arc Bomb XI			icon_skills.arcanegrenadethrow_tex
+110901	Common	Common	Gunner	Rocket Jump IX		hit 2	icon_skills.rocketjump_tex
+110902	Common	Common	Gunner	Rocket Jump IX		hit 3	icon_skills.rocketjump_tex
+110930	Common	Common	Gunner	Rocket Jump IX			icon_skills.rocketjump_tex
+11300	Common	Common	Lancer	Combo Attack			icon_skills.comboattack_tex
+11301	Common	Common	Lancer	Combo Attack		hit 2	icon_skills.comboattack_tex
+11302	Common	Common	Lancer	Combo Attack		hit 3	icon_skills.comboattack_tex
+11400	Common	Common	Lancer	Combo Attack			icon_skills.comboattack_tex
+11401	Common	Common	Lancer	Combo Attack		hit 2	icon_skills.comboattack_tex
+11402	Common	Common	Lancer	Combo Attack		hit 3	icon_skills.comboattack_tex
+11500	Common	Common	Lancer	Combo Attack			icon_skills.comboattack_tex
+11501	Common	Common	Lancer	Combo Attack		hit 2	icon_skills.comboattack_tex
+11502	Common	Common	Lancer	Combo Attack		hit 3	icon_skills.comboattack_tex
+20300	Common	Common	Lancer	Stand Fast			icon_skills.defence_tex
+30330	Common	Common	Lancer	Onslaught III			icon_skills.screwthrough_tex
+30430	Common	Common	Lancer	Onslaught IV			icon_skills.screwthrough_tex
+30530	Common	Common	Lancer	Onslaught V			icon_skills.screwthrough_tex
+30630	Common	Common	Lancer	Onslaught VI			icon_skills.screwthrough_tex
+30730	Common	Common	Lancer	Onslaught VII			icon_skills.screwthrough_tex
+30830	Common	Common	Lancer	Onslaught VIII			icon_skills.screwthrough_tex
+30900	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+30930	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31000	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31030	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31100	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31130	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31200	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31230	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31300	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31330	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31400	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31430	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31500	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+31530	Common	Common	Lancer	Onslaught			icon_skills.screwthrough_tex
+41000	Common	Common	Lancer	Challenging Shout			icon_skills.roar_tex
+41100	Common	Common	Lancer	Challenging Shout			icon_skills.roar_tex
+41200	Common	Common	Lancer	Challenging Shout			icon_skills.roar_tex
+41300	Common	Common	Lancer	Challenging Shout			icon_skills.roar_tex
+50200	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50300	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50400	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50500	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50600	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50700	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50800	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+50900	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+51000	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+51100	Common	Common	Lancer	Shield Bash			icon_skills.shieldstrike_tex
+70400	Common	Common	Lancer	Guardian Shout			icon_skills.inspiringroar_tex
+70500	Common	Common	Lancer	Guardian Shout			icon_skills.inspiringroar_tex
+81200	Common	Common	Lancer	Shield Counter			icon_skills.riposte_tex
+81300	Common	Common	Lancer	Shield Counter			icon_skills.riposte_tex
+81400	Common	Common	Lancer	Shield Counter			icon_skills.riposte_tex
+90400	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+90500	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+90600	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+90700	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+90800	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+90900	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+91000	Common	Common	Lancer	Leash			icon_skills.hookthrow_tex
+100400	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+100500	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+100600	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+100700	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+100800	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+100900	Common	Common	Lancer	Debilitate			icon_skills.armorbreak_tex
+111100	Common	Common	Lancer	Retaliate			icon_skills.risingattack_tex
+111200	Common	Common	Lancer	Retaliate			icon_skills.risingattack_tex
+120200	Common	Common	Lancer	Infuriate			icon_skills.provokerage_tex
+120300	Common	Common	Lancer	Infuriate			icon_skills.provokerage_tex
+120400	Common	Common	Lancer	Infuriate			icon_skills.provokerage_tex
+120500	Common	Common	Lancer	Infuriate			icon_skills.provokerage_tex
+120600	Common	Common	Lancer	Infuriate			icon_skills.provokerage_tex
+131200	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+131230	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+131300	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+131330	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+131400	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+131430	Common	Common	Lancer	Spring Attack			icon_skills.leaprampage_tex
+151100	Common	Common	Lancer	Charging Lunge			icon_skills.advancingcharge_tex
+151101	Common	Common	Lancer	Charging Lunge		hit 2	icon_skills.advancingcharge_tex
+151200	Common	Common	Lancer	Charging Lunge			icon_skills.advancingcharge_tex
+151201	Common	Common	Lancer	Charging Lunge		hit 2	icon_skills.advancingcharge_tex
+151300	Common	Common	Lancer	Charging Lunge			icon_skills.advancingcharge_tex
+151301	Common	Common	Lancer	Charging Lunge		hit 2	icon_skills.advancingcharge_tex
+161000	Common	Common	Lancer	Second Wind			icon_skills.rejuvenation_tex
+161100	Common	Common	Lancer	Second Wind			icon_skills.rejuvenation_tex
+161200	Common	Common	Lancer	Second Wind			icon_skills.rejuvenation_tex
+170300	Common	Common	Lancer	Adrenaline Rush			icon_skills.fightingwill_tex
+170400	Common	Common	Lancer	Adrenaline Rush			icon_skills.fightingwill_tex
+181200	Common	Common	Lancer	Shield Barrage			icon_skills.shieldattack_tex
+181201	Common	Common	Lancer	Shield Barrage		hit 2	icon_skills.shieldattack_tex
+181300	Common	Common	Lancer	Shield Barrage			icon_skills.shieldattack_tex
+181301	Common	Common	Lancer	Shield Barrage		hit 2	icon_skills.shieldattack_tex
+181400	Common	Common	Lancer	Shield Barrage			icon_skills.shieldattack_tex
+181401	Common	Common	Lancer	Shield Barrage		hit 2	icon_skills.shieldattack_tex
+190200	Common	Common	Lancer	Pledge of Protection			icon_skills.vowofprotection_tex
+190300	Common	Common	Lancer	Pledge of Protection			icon_skills.vowofprotection_tex
+190400	Common	Common	Lancer	Pledge of Protection			icon_skills.vowofprotection_tex
+200200	Common	Common	Lancer	Menacing Wave			icon_skills.menacewave_tex
+200300	Common	Common	Lancer	Menacing Wave			icon_skills.menacewave_tex
+210500	Common	Common	Lancer	Lockdown Blow			icon_skills.shockblow_tex
+210600	Common	Common	Lancer	Lockdown Blow			icon_skills.shockblow_tex
+210700	Common	Common	Lancer	Lockdown Blow			icon_skills.shockblow_tex
+220700	Common	Common	Lancer	Iron Will			icon_skills.armoredwill_tex
+220800	Common	Common	Lancer	Iron Will			icon_skills.armoredwill_tex
+230300	Common	Common	Lancer	Master's Leash			icon_skills.chaincapture_tex
+240120	Common	Common	Lancer	Chained Leash			icon_skills.harpoonshot_tex
+240200	Common	Common	Lancer	Chained Leash			icon_skills.harpoonshot_tex
+240220	Common	Common	Lancer	Chained Leash			icon_skills.harpoonshot_tex
+240300	Common	Common	Lancer	Chained Leash			icon_skills.harpoonshot_tex
+240320	Common	Common	Lancer	Chained Leash			icon_skills.harpoonshot_tex
+260200	Common	Common	Lancer	Backstep			icon_skills.backstep_tex
+260300	Common	Common	Lancer	Backstep			icon_skills.backstep_tex
+30400	Common	Common	Mystic	Titanic Wrath			icon_skills.rage_tex
+30500	Common	Common	Mystic	Titanic Wrath			icon_skills.rage_tex
+30600	Common	Common	Mystic	Titanic Wrath			icon_skills.rage_tex
+81200	Common	Common	Mystic	Metamorphic Blast			icon_skills.punishingshield_tex
+81300	Common	Common	Mystic	Metamorphic Blast			icon_skills.punishingshield_tex
+81400	Common	Common	Mystic	Metamorphic Blast			icon_skills.punishingshield_tex
+81500	Common	Common	Mystic	Metamorphic Blast			icon_skills.punishingshield_tex
+120150	Common	Common	Mystic	Vow of Rebirth			icon_skills.autoresurrect_tex
+231200	Common	Common	Mystic	Metamorphic Smite			icon_skills.rageofearth_tex
+231300	Common	Common	Mystic	Metamorphic Smite			icon_skills.rageofearth_tex
+11300	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11301	Common	Common	Priest	Divine Radiance		hit 2	icon_skills.magicshot_tex
+11302	Common	Common	Priest	Divine Radiance		hit 3	icon_skills.magicshot_tex
+11303	Common	Common	Priest	Divine Radiance		hit 4	icon_skills.magicshot_tex
+11320	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11321	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11322	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11323	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11400	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11401	Common	Common	Priest	Divine Radiance		hit 2	icon_skills.magicshot_tex
+11402	Common	Common	Priest	Divine Radiance		hit 3	icon_skills.magicshot_tex
+11403	Common	Common	Priest	Divine Radiance		hit 4	icon_skills.magicshot_tex
+11420	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11421	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11422	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11423	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11500	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11501	Common	Common	Priest	Divine Radiance		hit 2	icon_skills.magicshot_tex
+11502	Common	Common	Priest	Divine Radiance		hit 3	icon_skills.magicshot_tex
+11503	Common	Common	Priest	Divine Radiance		hit 4	icon_skills.magicshot_tex
+11520	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11521	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11522	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+11523	Common	Common	Priest	Divine Radiance			icon_skills.magicshot_tex
+21000	Common	Common	Priest	Regeneration Circle			icon_skills.healingwind_tex
+21100	Common	Common	Priest	Regeneration Circle			icon_skills.healingwind_tex
+21200	Common	Common	Priest	Regeneration Circle			icon_skills.healingwind_tex
+21300	Common	Common	Priest	Regeneration Circle			icon_skills.healingwind_tex
+21400	Common	Common	Priest	Regeneration Circle			icon_skills.healingwind_tex
+30800	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+30900	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+31000	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+31100	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+31200	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+31300	Common	Common	Priest	Healing Circle			icon_skills.healarea_tex
+50400	Common	Common	Priest	Blessing of Shakan			icon_skills.attackup_tex
+50500	Common	Common	Priest	Blessing of Shakan			icon_skills.attackup_tex
+60300	Common	Common	Priest	Arise			icon_skills.recovery_tex
+60400	Common	Common	Priest	Arise			icon_skills.recovery_tex
+60500	Common	Common	Priest	Arise			icon_skills.recovery_tex
+70120	Common	Common	Priest	Slumber I			icon_skills.sleep_tex
+70220	Common	Common	Priest	Slumber II			icon_skills.sleep_tex
+70320	Common	Common	Priest	Slumber III			icon_skills.sleep_tex
+80200	Common	Common	Priest	Mana Infusion			icon_skills.mpcharge_tex
+80300	Common	Common	Priest	Mana Infusion			icon_skills.mpcharge_tex
+80400	Common	Common	Priest	Mana Infusion			icon_skills.mpcharge_tex
+80500	Common	Common	Priest	Mana Infusion			icon_skills.mpcharge_tex
+100200	Common	Common	Priest	Purifying Circle			icon_skills.purify_tex
+100300	Common	Common	Priest	Purifying Circle			icon_skills.purify_tex
+100400	Common	Common	Priest	Purifying Circle			icon_skills.purify_tex
+100500	Common	Common	Priest	Purifying Circle			icon_skills.purify_tex
+111200	Common	Common	Priest	Metamorphic Blast			icon_skills.punishingshield_tex
+111300	Common	Common	Priest	Metamorphic Blast			icon_skills.punishingshield_tex
+111400	Common	Common	Priest	Metamorphic Blast			icon_skills.punishingshield_tex
+111500	Common	Common	Priest	Metamorphic Blast			icon_skills.punishingshield_tex
+120200	Common	Common	Priest	Resurrect			icon_skills.resurrect_tex
+120300	Common	Common	Priest	Resurrect			icon_skills.resurrect_tex
+120400	Common	Common	Priest	Resurrect			icon_skills.resurrect_tex
+130200	Common	Common	Priest	Homeward Bound			icon_skills.teleportall_tex
+140200	Common	Common	Priest	Summon: Party			icon_skills.recallfriend_tex
+150200	Common	Common	Priest	Blessing of Zenobia			icon_skills.fastwalk_tex
+161200	Common	Common	Priest	Shocking Implosion			icon_skills.damagedeal_tex
+161300	Common	Common	Priest	Shocking Implosion			icon_skills.damagedeal_tex
+170500	Common	Common	Priest	Prayer of Peace			icon_skills.agrorelease_tex
+170600	Common	Common	Priest	Prayer of Peace			icon_skills.agrorelease_tex
+181300	Common	Common	Priest	Heal Thyself			icon_skills.healingpray_tex
+181400	Common	Common	Priest	Heal Thyself			icon_skills.healingpray_tex
+181500	Common	Common	Priest	Heal Thyself			icon_skills.healingpray_tex
+191000	Common	Common	Priest	Focus Heal			icon_skills.healinglightlockon_tex
+191010	Common	Common	Priest	Focus Heal		hit 11	icon_skills.healinglightlockon_tex
+191100	Common	Common	Priest	Focus Heal			icon_skills.healinglightlockon_tex
+191110	Common	Common	Priest	Focus Heal		hit 11	icon_skills.healinglightlockon_tex
+191200	Common	Common	Priest	Focus Heal			icon_skills.healinglightlockon_tex
+191210	Common	Common	Priest	Focus Heal		hit 11	icon_skills.healinglightlockon_tex
+200300	Common	Common	Priest	Blessing of Seren			icon_skills.agilitybless_tex
+200400	Common	Common	Priest	Blessing of Seren			icon_skills.agilitybless_tex
+200500	Common	Common	Priest	Blessing of Seren			icon_skills.agilitybless_tex
+200600	Common	Common	Priest	Blessing of Seren			icon_skills.agilitybless_tex
+210200	Common	Common	Priest	Blessing of Arachne			icon_skills.resistancebless_tex
+210300	Common	Common	Priest	Blessing of Arachne			icon_skills.resistancebless_tex
+210400	Common	Common	Priest	Blessing of Arachne			icon_skills.resistancebless_tex
+210500	Common	Common	Priest	Blessing of Arachne			icon_skills.resistancebless_tex
+220600	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+220700	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+220800	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+220900	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+221000	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+221100	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+221200	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+221300	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+221400	Common	Common	Priest	Kaia's Shield			icon_skills.armorofprotection_tex
+230600	Common	Common	Priest	Blessing of Balder			icon_skills.refreshbless_tex
+230700	Common	Common	Priest	Blessing of Balder			icon_skills.refreshbless_tex
+230800	Common	Common	Priest	Blessing of Balder			icon_skills.refreshbless_tex
+230900	Common	Common	Priest	Blessing of Balder			icon_skills.refreshbless_tex
+251100	Common	Common	Priest	Retaliate			icon_skills.risingattack_tex
+251200	Common	Common	Priest	Retaliate			icon_skills.risingattack_tex
+261200	Common	Common	Priest	Fiery Escape			icon_skills.sanctuary_tex
+261300	Common	Common	Priest	Fiery Escape			icon_skills.sanctuary_tex
+261400	Common	Common	Priest	Fiery Escape			icon_skills.sanctuary_tex
+271130	Common	Common	Priest	Final Reprisal			icon_skills.punishingtouch_tex
+271200	Common	Common	Priest	Final Reprisal			icon_skills.punishingtouch_tex
+271230	Common	Common	Priest	Final Reprisal			icon_skills.punishingtouch_tex
+271300	Common	Common	Priest	Final Reprisal			icon_skills.punishingtouch_tex
+271330	Common	Common	Priest	Final Reprisal			icon_skills.punishingtouch_tex
+291001	Common	Common	Priest	Triple Nemesis X		hit 2	icon_skills.divineretribution_tex
+291002	Common	Common	Priest	Triple Nemesis X		hit 3	icon_skills.divineretribution_tex
+291101	Common	Common	Priest	Triple Nemesis XI		hit 2	icon_skills.divineretribution_tex
+291102	Common	Common	Priest	Triple Nemesis XI		hit 3	icon_skills.divineretribution_tex
+291200	Common	Common	Priest	Triple Nemesis			icon_skills.divineretribution_tex
+291201	Common	Common	Priest	Triple Nemesis		hit 2	icon_skills.divineretribution_tex
+291202	Common	Common	Priest	Triple Nemesis		hit 3	icon_skills.divineretribution_tex
+291300	Common	Common	Priest	Triple Nemesis			icon_skills.divineretribution_tex
+291301	Common	Common	Priest	Triple Nemesis		hit 2	icon_skills.divineretribution_tex
+291302	Common	Common	Priest	Triple Nemesis		hit 3	icon_skills.divineretribution_tex
+291400	Common	Common	Priest	Triple Nemesis			icon_skills.divineretribution_tex
+291401	Common	Common	Priest	Triple Nemesis		hit 2	icon_skills.divineretribution_tex
+291402	Common	Common	Priest	Triple Nemesis		hit 3	icon_skills.divineretribution_tex
+300900	Common	Common	Priest	Plague of Exhaustion			icon_skills.prophecyoflethargy_tex
+300910	Common	Common	Priest	Plague of Exhaustion		hit 11	icon_skills.prophecyoflethargy_tex
+301000	Common	Common	Priest	Plague of Exhaustion			icon_skills.prophecyoflethargy_tex
+301010	Common	Common	Priest	Plague of Exhaustion		hit 11	icon_skills.prophecyoflethargy_tex
+310300	Common	Common	Priest	Guardian Sanctuary			icon_skills.guardianaura_tex
+310400	Common	Common	Priest	Guardian Sanctuary			icon_skills.guardianaura_tex
+310500	Common	Common	Priest	Guardian Sanctuary			icon_skills.guardianaura_tex
+320300	Common	Common	Priest	Divine Respite			icon_skills.restoration_tex
+320400	Common	Common	Priest	Divine Respite			icon_skills.restoration_tex
+320500	Common	Common	Priest	Divine Respite			icon_skills.restoration_tex
+330400	Common	Common	Priest	Ishara's Lullaby			icon_skills.lullabyoflshara_tex
+330410	Common	Common	Priest	Ishara's Lullaby		hit 11	icon_skills.lullabyoflshara_tex
+330500	Common	Common	Priest	Ishara's Lullaby			icon_skills.lullabyoflshara_tex
+330510	Common	Common	Priest	Ishara's Lullaby		hit 11	icon_skills.lullabyoflshara_tex
+340320	Common	Common	Priest	Restorative Burst III			icon_skills.sanctuaryofregeneration_tex
+340420	Common	Common	Priest	Restorative Burst IV			icon_skills.sanctuaryofregeneration_tex
+340520	Common	Common	Priest	Restorative Burst V			icon_skills.sanctuaryofregeneration_tex
+340620	Common	Common	Priest	Restorative Burst VI			icon_skills.sanctuaryofregeneration_tex
+340720	Common	Common	Priest	Restorative Burst VII			icon_skills.sanctuaryofregeneration_tex
+340820	Common	Common	Priest	Restorative Burst VIII			icon_skills.sanctuaryofregeneration_tex
+340920	Common	Common	Priest	Restorative Burst IX			icon_skills.sanctuaryofregeneration_tex
+341020	Common	Common	Priest	Restorative Burst X			icon_skills.sanctuaryofregeneration_tex
+341120	Common	Common	Priest	Restorative Burst XI			icon_skills.sanctuaryofregeneration_tex
+341200	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+341220	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+341300	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+341320	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+341400	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+341420	Common	Common	Priest	Restorative Burst			icon_skills.sanctuaryofregeneration_tex
+350500	Common	Common	Priest	Energy Stars			icon_skills.divinelightning_tex
+350510	Common	Common	Priest	Energy Stars		hit 11	icon_skills.divinelightning_tex
+350600	Common	Common	Priest	Energy Stars			icon_skills.divinelightning_tex
+350610	Common	Common	Priest	Energy Stars		hit 11	icon_skills.divinelightning_tex
+350700	Common	Common	Priest	Energy Stars			icon_skills.divinelightning_tex
+350710	Common	Common	Priest	Energy Stars		hit 11	icon_skills.divinelightning_tex
+370300	Common	Common	Priest	Healing Immersion			icon_skills.curewing_tex
+370310	Common	Common	Priest	Healing Immersion		hit 11	icon_skills.curewing_tex
+370400	Common	Common	Priest	Healing Immersion			icon_skills.curewing_tex
+370410	Common	Common	Priest	Healing Immersion		hit 11	icon_skills.curewing_tex
+370500	Common	Common	Priest	Healing Immersion			icon_skills.curewing_tex
+370510	Common	Common	Priest	Healing Immersion		hit 11	icon_skills.curewing_tex
+390200	Common	Common	Priest	Grace of Resurrection			icon_skills.selfpreresurrection_tex
+390300	Common	Common	Priest	Grace of Resurrection			icon_skills.selfpreresurrection_tex
+390400	Common	Common	Priest	Grace of Resurrection			icon_skills.selfpreresurrection_tex
+390500	Common	Common	Priest	Grace of Resurrection			icon_skills.selfpreresurrection_tex
+31200	Common	Common	Slayer	Whirlwind			icon_skills.sworddance_tex
+31300	Common	Common	Slayer	Whirlwind			icon_skills.sworddance_tex
+31400	Common	Common	Slayer	Whirlwind			icon_skills.sworddance_tex
+31500	Common	Common	Slayer	Whirlwind			icon_skills.sworddance_tex
+70300	Common	Common	Slayer	Triumphant Shout			icon_skills.shout_tex
+70400	Common	Common	Slayer	Triumphant Shout			icon_skills.shout_tex
+30400	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30420	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30500	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30520	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30600	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30620	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30700	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30720	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30800	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30820	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30900	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+30920	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31000	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31020	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31100	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31120	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31200	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+31220	Common	Common	Sorcerer	Lightning Trap			icon_skills.shocktrap_tex
+70200	Common	Common	Sorcerer	Backstep			icon_skills.backstep_tex
+70300	Common	Common	Sorcerer	Backstep			icon_skills.backstep_tex
+90700	Common	Common	Sorcerer	Overchannel			icon_skills.kicharge_tex
+90800	Common	Common	Sorcerer	Overchannel			icon_skills.kicharge_tex
+90900	Common	Common	Sorcerer	Overchannel			icon_skills.kicharge_tex
+240200	Common	Common	Sorcerer	Burst of Celerity			icon_skills.contractofquickness_tex
+260200	Common	Common	Sorcerer	Teleport Jaunt			icon_skills.shortteleport_tex
+11300	Common	Common	Warrior	Combo Attack			icon_skills.comboattack_tex
+11301	Common	Common	Warrior	Combo Attack		hit 2	icon_skills.comboattack_tex
+11302	Common	Common	Warrior	Combo Attack		hit 3	icon_skills.comboattack_tex
+11303	Common	Common	Warrior	Combo Attack		hit 4	icon_skills.comboattack_tex
+11400	Common	Common	Warrior	Combo Attack			icon_skills.comboattack_tex
+11401	Common	Common	Warrior	Combo Attack		hit 2	icon_skills.comboattack_tex
+11402	Common	Common	Warrior	Combo Attack		hit 3	icon_skills.comboattack_tex
+11403	Common	Common	Warrior	Combo Attack		hit 4	icon_skills.comboattack_tex
+11500	Common	Common	Warrior	Combo Attack			icon_skills.comboattack_tex
+11501	Common	Common	Warrior	Combo Attack		hit 2	icon_skills.comboattack_tex
+11502	Common	Common	Warrior	Combo Attack		hit 3	icon_skills.comboattack_tex
+11503	Common	Common	Warrior	Combo Attack		hit 4	icon_skills.comboattack_tex
+20200	Common	Common	Warrior	Evasive Roll			icon_skills.tumbling_tex
+20300	Common	Common	Warrior	Evasive Roll			icon_skills.tumbling_tex
+31000	Common	Common	Warrior	Torrent of Blows			icon_skills.nanmu_tex
+31100	Common	Common	Warrior	Torrent of Blows			icon_skills.nanmu_tex
+31200	Common	Common	Warrior	Torrent of Blows			icon_skills.nanmu_tex
+41030	Common	Common	Warrior	Rain of Blows X			icon_skills.pointattack_tex
+41130	Common	Common	Warrior	Rain of Blows XI			icon_skills.pointattack_tex
+41200	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41230	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41300	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41330	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41400	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41430	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41500	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+41530	Common	Common	Warrior	Rain of Blows			icon_skills.pointattack_tex
+51000	Common	Common	Warrior	Battle Cry			icon_skills.thunderingroar_tex
+51100	Common	Common	Warrior	Battle Cry			icon_skills.thunderingroar_tex
+51200	Common	Common	Warrior	Battle Cry			icon_skills.thunderingroar_tex
+51300	Common	Common	Warrior	Battle Cry			icon_skills.thunderingroar_tex
+80500	Common	Common	Warrior	Assault Stance			icon_skills.ironwilla_tex
+80550	Common	Common	Warrior	Assault Stance			icon_skills.ironwilla_tex
+80600	Common	Common	Warrior	Assault Stance			icon_skills.ironwilla_tex
+80650	Common	Common	Warrior	Assault Stance			icon_skills.ironwilla_tex
+90350	Common	Common	Warrior	Defensive Stance III			icon_skills.ironwillb_tex
+90450	Common	Common	Warrior	Defensive Stance IV			icon_skills.ironwillb_tex
+90500	Common	Common	Warrior	Defensive Stance			icon_skills.ironwillb_tex
+90550	Common	Common	Warrior	Defensive Stance			icon_skills.ironwillb_tex
+90600	Common	Common	Warrior	Defensive Stance			icon_skills.ironwillb_tex
+90650	Common	Common	Warrior	Defensive Stance			icon_skills.ironwillb_tex
+100800	Common	Common	Warrior	Death From Above			icon_skills.evasionattack_tex
+100900	Common	Common	Warrior	Death From Above			icon_skills.evasionattack_tex
+101000	Common	Common	Warrior	Death From Above			icon_skills.evasionattack_tex
+120900	Common	Common	Warrior	Leaping Strike			icon_skills.downblowattack_tex
+121000	Common	Common	Warrior	Leaping Strike			icon_skills.downblowattack_tex
+121100	Common	Common	Warrior	Leaping Strike			icon_skills.downblowattack_tex
+131100	Common	Common	Warrior	Retaliate			icon_skills.risingattack_tex
+131200	Common	Common	Warrior	Retaliate			icon_skills.risingattack_tex
+140150	Common	Common	Warrior	Mangle			icon_skills.aimingankle_tex
+140200	Common	Common	Warrior	Mangle			icon_skills.aimingankle_tex
+140250	Common	Common	Warrior	Mangle			icon_skills.aimingankle_tex
+171200	Common	Common	Warrior	Vortex Slash			icon_skills.allroundslash_tex
+171300	Common	Common	Warrior	Vortex Slash			icon_skills.allroundslash_tex
+171400	Common	Common	Warrior	Vortex Slash			icon_skills.allroundslash_tex
+181200	Common	Common	Warrior	Combative Strike			icon_skills.aggravatingstrike_tex
+181300	Common	Common	Warrior	Combative Strike			icon_skills.aggravatingstrike_tex
+181400	Common	Common	Warrior	Combative Strike			icon_skills.aggravatingstrike_tex
+191200	Common	Common	Warrior	Rising Fury			icon_skills.tenaciousattack_tex
+191201	Common	Common	Warrior	Rising Fury		hit 2	icon_skills.tenaciousattack_tex
+191300	Common	Common	Warrior	Rising Fury			icon_skills.tenaciousattack_tex
+191301	Common	Common	Warrior	Rising Fury		hit 2	icon_skills.tenaciousattack_tex
+200300	Common	Common	Warrior	Deadly Gamble			icon_skills.deadlywill_tex
+200400	Common	Common	Warrior	Deadly Gamble			icon_skills.deadlywill_tex
+220300	Common	Common	Warrior	Backstab			icon_skills.backattack_tex
+220400	Common	Common	Warrior	Backstab			icon_skills.backattack_tex
+241000	Common	Common	Warrior	Smoke Aggressor			icon_skills.decoy_tex
+241100	Common	Common	Warrior	Smoke Aggressor			icon_skills.decoy_tex
+241200	Common	Common	Warrior	Smoke Aggressor			icon_skills.decoy_tex
+270900	Common	Common	Warrior	Pounce			icon_skills.heavybite_tex
+271000	Common	Common	Warrior	Pounce			icon_skills.heavybite_tex
+271100	Common	Common	Warrior	Pounce			icon_skills.heavybite_tex
+291000	Common	Common	Warrior	Blade Draw			icon_skills.dualslash_tex
+291030	Common	Common	Warrior	Blade Draw			icon_skills.dualslash_tex
+310930	Common	Common	Warrior	Reaping Slash IX			icon_skills.rupture_tex
+311000	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+311030	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+311100	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+311130	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+311200	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+311230	Common	Common	Warrior	Reaping Slash			icon_skills.rupture_tex
+320200	Common	Common	Warrior	Cross Parry			icon_skills.twinswordsdefence_tex
+331000	Common	Common	Warrior	Smoke Flanker			icon_skills.shadowchange_tex
+331100	Common	Common	Warrior	Smoke Flanker			icon_skills.shadowchange_tex
+331200	Common	Common	Warrior	Smoke Flanker			icon_skills.shadowchange_tex
+340130	Common	Common	Warrior	Binding Sword			icon_skills.bindingblade_tex
