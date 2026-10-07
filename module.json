@@ -15,7 +15,7 @@
     "conflicts": [
         "shinra-meter"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "servers": [
         "https://raw.githubusercontent.com/auswahlehn/osto-shinrameter/release/"
     ]
