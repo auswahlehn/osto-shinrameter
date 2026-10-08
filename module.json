@@ -3,19 +3,17 @@
     "author": "neowutran, Gl0, Foglio and others. Packaged for Old School TERA Online.",
     "description": "Shinra damage meter for OSTO. Reads from the Toolbox, so no admin rights or packet capture needed.",
     "keywords": [
-        "client"
+        "client",
+        "network"
     ],
     "options": {
         "cliName": "osto-shinra-meter",
         "guiName": "Shinra Meter (OSTO)"
     },
-    "dependencies": {
-        "external-interface": "https://raw.githubusercontent.com/Foglio1024/external-interface/master/module.json"
-    },
     "conflicts": [
         "shinra-meter"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "servers": [
         "https://raw.githubusercontent.com/auswahlehn/osto-shinrameter/release/"
     ]

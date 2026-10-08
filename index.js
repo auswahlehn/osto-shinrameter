@@ -125,4 +125,10 @@ class ShinraMeter {
     }
 }
 
+// The meter's link to the Toolbox lives in this mod (see lib/meter-link.js): the control
+// endpoint once per Toolbox, the packet stream once per game connection.
+const { Control, Data } = require('./lib/meter-link');
+
 exports.ClientMod = ShinraMeter;
+exports.GlobalMod = Control;
+exports.NetworkMod = Data;
