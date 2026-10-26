@@ -59,4 +59,144 @@
 		<Monster id="1002" name="Nightmare Tempas" isBoss="True" />
 		<Monster id="1003" name="Nightmare Yana" isBoss="True" />
 	</Zone>
+	<!-- Dakuryon's Rise (Threads of Time) bosses, from the vm5 datasheets -->
+	<Zone id="429">
+		<Monster id="1000" isBoss="True" hp="189000000" name="Agarta" />
+		<Monster id="2000" isBoss="True" hp="189000000" name="Kornus" />
+		<Monster id="3000" isBoss="True" hp="189000000" name="Kaprima Reborn" />
+	</Zone>
+	<Zone id="454">
+		<Monster id="1000" isBoss="True" hp="441000000" name="Nightmare Mephisis" />
+		<Monster id="1001" isBoss="True" hp="346500000" name="Nightmare Tantibus" />
+		<Monster id="1002" isBoss="True" hp="409500000" name="Nightmare Fulminar" />
+	</Zone>
+	<Zone id="455">
+		<Monster id="100" isBoss="True" hp="50000000" name="Ardentmaw" />
+		<Monster id="200" isBoss="True" hp="50000000" name="Forengula" />
+		<Monster id="300" isBoss="True" hp="70000000" name="Nimistrix" />
+	</Zone>
+	<Zone id="456">
+		<Monster id="1000" isBoss="True" hp="186500000" name="Nightmare Eremes" />
+		<Monster id="1001" isBoss="True" hp="156500000" name="Nightmare Hemera" />
+		<Monster id="1002" isBoss="True" hp="350000000" name="Nightmare Tempas" />
+		<Monster id="1003" isBoss="True" hp="500000000" name="Nightmare Yana" />
+	</Zone>
+	<Zone id="457">
+		<Monster id="1001" isBoss="True" hp="604000000" name="Nightmare Darumag" />
+		<Monster id="1002" isBoss="True" hp="604000000" name="Nightmare Magnarox" />
+		<Monster id="1003" isBoss="True" hp="841000000" name="Nightmare Sammar-Sarral" />
+		<Monster id="1004" isBoss="True" hp="1427000000" name="Nightmare Duras" />
+	</Zone>
+	<Zone id="716">
+		<Monster id="1000" isBoss="True" hp="292000000" name="Darkan" />
+		<Monster id="1001" isBoss="True" hp="366000000" name="Darkan" />
+		<Monster id="91606" isBoss="True" hp="387000000" name="Perimos" />
+		<Monster id="91650" isBoss="True" hp="105000000" name="Putrion" />
+	</Zone>
+	<Zone id="735">
+		<Monster id="1000" isBoss="True" hp="60051254" name="Ventarun" />
+		<Monster id="2000" isBoss="True" hp="60051254" name="Hexapleon" />
+		<Monster id="3000" isBoss="True" hp="60051254" name="RK-9" />
+	</Zone>
+	<Zone id="754">
+		<Monster id="1000" isBoss="True" hp="90720000" name="Mephisis" />
+		<Monster id="1001" isBoss="True" hp="80640000" name="Tantibus" />
+		<Monster id="1002" isBoss="True" hp="80640000" name="Fulminar" />
+	</Zone>
+	<Zone id="756">
+		<Monster id="1000" isBoss="True" hp="167280000" name="Eremes" />
+		<Monster id="1001" isBoss="True" hp="123000000" name="Hemera" />
+		<Monster id="1002" isBoss="True" hp="175550000" name="Tempas" />
+		<Monster id="1003" isBoss="True" hp="189000000" name="Yana" />
+	</Zone>
+	<Zone id="757">
+		<Monster id="1001" isBoss="True" hp="423000000" name="Darumag" />
+		<Monster id="1002" isBoss="True" hp="372000000" name="Magnarox" />
+		<Monster id="1003" isBoss="True" hp="492000000" name="Sammar-Sarral" />
+		<Monster id="1004" isBoss="True" hp="770100000" name="Duras" />
+	</Zone>
+	<Zone id="808">
+		<Monster id="30011000" isBoss="True" hp="11029568" name="Thoxtia" />
+		<Monster id="30021000" isBoss="True" hp="11029568" name="Thrombfist" />
+		<Monster id="30031000" isBoss="True" hp="11029568" name="Yateveo" />
+		<Monster id="30041000" isBoss="True" hp="11029568" name="Dermestida" />
+	</Zone>
+	<Zone id="809">
+		<Monster id="1001" isBoss="True" hp="5571875" name="Saccaria the Eviscerator" />
+		<Monster id="3001" isBoss="True" hp="6988908" name="Barundar" />
+		<Monster id="4001" isBoss="True" hp="6471875" name="Chimaerus the Mutilated" />
+		<Monster id="6001" isBoss="True" hp="8988908" name="Demokraxus" />
+	</Zone>
+	<Zone id="813">
+		<Monster id="81305" isBoss="True" hp="450000" name="Banyakas's Spawn" />
+		<Monster id="81307" isBoss="True" hp="300000" name="Banyakas's Spawn" />
+	</Zone>
+	<Zone id="885">
+		<Monster id="88501" isBoss="True" hp="22000000" name="Sherippa" />
+		<Monster id="88504" isBoss="True" hp="80000000" name="Akasha" />
+		<Monster id="88506" isBoss="True" hp="25000000" name="Arzakaar" />
+		<Monster id="88507" isBoss="True" hp="30000000" name="Halvaroggh" />
+		<Monster id="88508" isBoss="True" hp="35000000" name="Killian" />
+		<Monster id="88509" isBoss="True" hp="150000000" name="Thulsa" />
+		<Monster id="88511" isBoss="True" hp="80000000" name="Argon Predator" />
+		<Monster id="88512" isBoss="True" hp="100000000" name="Saravash" />
+		<Monster id="88513" isBoss="True" hp="120000000" name="Skulregnath" />
+		<Monster id="88514" isBoss="True" hp="150000000" name="Kelsaik" />
+	</Zone>
+	<Zone id="886">
+		<Monster id="88516" isBoss="True" hp="300000000" name="Lokmar Sorgalur" />
+		<Monster id="88517" isBoss="True" hp="250000000" name="Melkatran" />
+		<Monster id="88518" isBoss="True" hp="250000000" name="Hrathgol" />
+		<Monster id="88519" isBoss="True" hp="350000000" name="Meldita" />
+		<Monster id="88520" isBoss="True" hp="500000000" name="Shandra Manaya" />
+	</Zone>
+	<Zone id="916">
+		<Monster id="1000" isBoss="True" hp="540000000" name="Nightmare Darkan" />
+		<Monster id="91606" isBoss="True" hp="553500000" name="Nightmare Perimos" />
+		<Monster id="91650" isBoss="True" hp="150000000" name="Nightmare Putrion" />
+	</Zone>
+	<Zone id="924">
+		<Monster id="102" isBoss="True" hp="12220960" name="Cyclops" />
+		<Monster id="103" isBoss="True" hp="12220960" name="Cyclops" />
+		<Monster id="104" isBoss="True" hp="12220960" name="Cyclops" />
+		<Monster id="105" isBoss="True" hp="7511613" name="Cyclops" />
+		<Monster id="106" isBoss="True" hp="3666288" name="Cyclops" />
+	</Zone>
+	<Zone id="925">
+		<Monster id="102" isBoss="True" hp="12220960" name="Dracoloth" />
+		<Monster id="103" isBoss="True" hp="12220960" name="Dracoloth" />
+		<Monster id="104" isBoss="True" hp="12220960" name="Dracoloth" />
+		<Monster id="105" isBoss="True" hp="7511613" name="Dracoloth" />
+		<Monster id="106" isBoss="True" hp="3666288" name="Dracoloth" />
+	</Zone>
+	<Zone id="926">
+		<Monster id="102" isBoss="True" hp="12220960" name="Vulcan Render" />
+		<Monster id="103" isBoss="True" hp="12220960" name="Vulcan Render" />
+		<Monster id="104" isBoss="True" hp="12220960" name="Vulcan Render" />
+		<Monster id="105" isBoss="True" hp="7511613" name="Vulcan Render" />
+		<Monster id="106" isBoss="True" hp="3666288" name="Vulcan Render" />
+	</Zone>
+	<Zone id="928">
+		<Monster id="102" isBoss="True" hp="19553538" name="Enthralled Stone Giant" />
+	</Zone>
+	<Zone id="935">
+		<Monster id="1000" isBoss="True" hp="158820000" name="Nightmare Ventarun" />
+		<Monster id="2000" isBoss="True" hp="126000000" name="Nightmare Hexapleon" />
+		<Monster id="3000" isBoss="True" hp="161520000" name="Nightmare RK-9" />
+	</Zone>
+	<Zone id="966">
+		<Monster id="76609" isBoss="True" hp="240000000" name="Mulmok" />
+		<Monster id="76619" isBoss="True" hp="300000000" name="Barbosa" />
+		<Monster id="76626" isBoss="True" hp="390000000" name="Fina" />
+	</Zone>
+	<Zone id="970">
+		<Monster id="1000" isBoss="True" hp="158820000" name="Nightmare Resurrected Atrocitas" />
+		<Monster id="2000" isBoss="True" hp="126000000" name="Nightmare Resurrected Malgarios" />
+		<Monster id="3000" isBoss="True" hp="161520000" name="Nightmare Lachelith" />
+	</Zone>
+	<Zone id="977">
+		<Monster id="77704" isBoss="True" hp="40000000" name="Sentry AA-23" />
+		<Monster id="77707" isBoss="True" hp="60000000" name="Plecostoma" />
+		<Monster id="77730" isBoss="True" hp="130000000" name="Kerkion" />
+	</Zone>
 </Zones>
